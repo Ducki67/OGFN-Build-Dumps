@@ -1,0 +1,675 @@
+Fortnite Version 17.500000
+
+[VK Play] /Game/Athena/Playlists/Playlist_VK_Play.Playlist_VK_Play
+[The Getaway] /Game/Athena/Playlists/Bling/Playlist_Bling_Solo.Playlist_Bling_Solo
+[The Getaway] /Game/Athena/Playlists/Bling/Playlist_Bling_Squads.Playlist_Bling_Squads
+[The Getaway] /Game/Athena/Playlists/Bling/Playlist_Bling_Duos.Playlist_Bling_Duos
+[Operation: Knockout] /Game/Athena/Playlists/Cobalt/Playlist_Cobalt_Squads_P_Respawn_Playtest.Playlist_Cobalt_Squads_P_Respawn_Playtest
+[Operation: Knockout] /Game/Athena/Playlists/Cobalt/Cobalt_Respawn/Duos/Playlist_Cobalt_Duos_P_Respawn.Playlist_Cobalt_Duos_P_Respawn
+[Operation: Knockout] /Game/Athena/Playlists/Cobalt/Playlist_Showdown_Cobalt_Squads_P_Respawn.Playlist_Showdown_Cobalt_Squads_P_Respawn
+[Operation: Knockout] /Game/Athena/Playlists/Cobalt/Playlist_Cobalt_Squads_P_Respawn.Playlist_Cobalt_Squads_P_Respawn
+[Operation: Knockout] /Game/Athena/Playlists/Cobalt/Playlist_Cobalt_Squads_P_Respawn_4.Playlist_Cobalt_Squads_P_Respawn_4
+[Operation: Knockout] /Game/Athena/Playlists/Cobalt/Playlist_Cobalt_Squads_P_Respawn_2.Playlist_Cobalt_Squads_P_Respawn_2
+[Operation: Knockout] /Game/Athena/Playlists/Cobalt/Playlist_Cobalt_Squads_P_Respawn_8.Playlist_Cobalt_Squads_P_Respawn_8
+[Knockout] /Game/Athena/Playlists/Cobalt/Cobalt_Respawn/Playlist_Cobalt_Squads_Respawn.Playlist_Cobalt_Squads_Respawn
+[Knockout: Air Raid] /Game/Athena/Playlists/Cobalt/Cobalt_Respawn/Twists/Antares/Playlist_Antares_Duos.Playlist_Antares_Duos
+[Knockout: Air Raid] /Game/Athena/Playlists/Cobalt/Cobalt_Respawn/Twists/Antares/Playlist_Antares.Playlist_Antares
+[Knockout: Shuffle] /Game/Athena/Playlists/Cobalt/Cobalt_Respawn/Twists/Mira/Playlist_Mira_Duos.Playlist_Mira_Duos
+[Knockout: Shuffle] /Game/Athena/Playlists/Cobalt/Cobalt_Respawn/Twists/Mira/Playlist_Mira_Trios.Playlist_Mira_Trios
+[Knockout: Shuffle] /Game/Athena/Playlists/Cobalt/Cobalt_Respawn/Twists/Mira/Playlist_Mira_Squads.Playlist_Mira_Squads
+[50v50 (Valet Off)] /Game/Athena/Playlists/50v50/Tournament/Playlist_ShowdownTournament_50v50_ValetOff.Playlist_ShowdownTournament_50v50_ValetOff
+[Creative Free For All] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_FFA_v1.Playlist_Creative_FFA_v1
+[Tournament] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownTournament_Creative_ZW_50_Duos.Playlist_ShowdownTournament_Creative_ZW_50_Duos
+[Arena] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownAlt_Creative_ZW_50_Duos.Playlist_ShowdownAlt_Creative_ZW_50_Duos
+[CTF] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Showdown_CanTheFeather.Playlist_Showdown_CanTheFeather
+[Tournament] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Showdown_Creative_FFA_16.Playlist_Showdown_Creative_FFA_16
+[Tournament] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Showdown_Creative_Duos_16.Playlist_Showdown_Creative_Duos_16
+[Creative Tournament Squad Rumble] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownTournament_Squad_Battle_16.Playlist_ShowdownTournament_Squad_Battle_16
+[Tournament] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Showdown_BlueFlatline16_1v1.Playlist_Showdown_BlueFlatline16_1v1
+[Creative Tournament 16 Player Coop] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownTournament_16_Coop.Playlist_ShowdownTournament_16_Coop
+[Tournament] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownTournament_Creative_ZW_50.Playlist_ShowdownTournament_Creative_ZW_50
+[Arena] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownAlt_Creative_ZW_50.Playlist_ShowdownAlt_Creative_ZW_50
+[Creative Tournament 16 Player 8v8] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownTournament_16_8v8.Playlist_ShowdownTournament_16_8v8
+[Arena] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownAlt_Creative_Duos_16.Playlist_ShowdownAlt_Creative_Duos_16
+[Arena] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownAlt_Creative_FFA_16.Playlist_ShowdownAlt_Creative_FFA_16
+[BoxFight Arena] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownAlt_BlueFlatline16_1v1.Playlist_ShowdownAlt_BlueFlatline16_1v1
+[BoxFight Tournament FFA] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Showdown_BlueFlatline_FFA.Playlist_Showdown_BlueFlatline_FFA
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_V.Playlist_Creative_ZebraWallet_V
+[BoxFight Tournament] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Showdown_BlueFlatline_1v1.Playlist_Showdown_BlueFlatline_1v1
+[BoxFight Arena] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_ShowdownAlt_BlueFlatline_1v1.Playlist_ShowdownAlt_BlueFlatline_1v1
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Trios.Playlist_Creative_ZebraWallet_Trios
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Squads.Playlist_Creative_ZebraWallet_Squads
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Solos.Playlist_Creative_ZebraWallet_Solos
+[Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Random_Squads.Playlist_Creative_ZebraWallet_Random_Squads
+[Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Random_Duos.Playlist_Creative_ZebraWallet_Random_Duos
+[Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Random_Solos.Playlist_Creative_ZebraWallet_Random_Solos
+[Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Random_Trios.Playlist_Creative_ZebraWallet_Random_Trios
+[Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Random2.Playlist_Creative_ZebraWallet_Random2
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Duos.Playlist_Creative_ZebraWallet_Duos
+[Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_Random.Playlist_Creative_ZebraWallet_Random
+[Zone Wars: Downhill River] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_DH.Playlist_Creative_ZebraWallet_DH
+[Zone Wars: Desert] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_D.Playlist_Creative_ZebraWallet_D
+[Downtown Drop] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Vigilante.Playlist_Creative_Vigilante
+[Zone Wars: Colosseum] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_ZebraWallet_A.Playlist_Creative_ZebraWallet_A
+[Creative Team Battle v2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_TDM_v2.Playlist_Creative_TDM_v2
+[World Run] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Squad_Battle_8_B.Playlist_Creative_Squad_Battle_8_B
+[Creative Team Battle] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_TDM_v1.Playlist_Creative_TDM_v1
+[Sky Station Showdown] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Squad_Battle_32_A.Playlist_Creative_Squad_Battle_32_A
+[World Run] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Squad_Battle_32_B.Playlist_Creative_Squad_Battle_32_B
+[World Run] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Squad_Battle_16_B.Playlist_Creative_Squad_Battle_16_B
+[Junkyard Juke] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Squad_Battle_16_A.Playlist_Creative_Squad_Battle_16_A
+[Vertigo] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Splf.Playlist_Creative_Splf
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDrop_1.Playlist_Creative_SourDrop_1
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDrop_2.Playlist_Creative_SourDrop_2
+[SourDropper: 2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_2_Partyof3.Playlist_Creative_SourDropper_2_Partyof3
+[SourDropper: 2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_2_BF_Partyof3.Playlist_Creative_SourDropper_2_BF_Partyof3
+[SourDropper: 2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_2.Playlist_Creative_SourDropper_2
+[SourDropper: 2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_2_BF.Playlist_Creative_SourDropper_2_BF
+[SourDropper] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_1_Partyof3.Playlist_Creative_SourDropper_1_Partyof3
+[SourDropper] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_1_BF.Playlist_Creative_SourDropper_1_BF
+[SourDropper] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_1.Playlist_Creative_SourDropper_1
+[SourDropper] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_SourDropper_1_BF_Partyof3.Playlist_Creative_SourDropper_1_BF_Partyof3
+[Quad Goals] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_QuadGoals.Playlist_Creative_QuadGoals
+[Prop Hunt] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_PuppyHugs.Playlist_Creative_PuppyHugs
+[Puppy Hugs 40] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_PuppyHugs_40.Playlist_Creative_PuppyHugs_40
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Playtest_FFA_16.Playlist_Creative_Playtest_FFA_16
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Playtest_FFA_4.Playlist_Creative_Playtest_FFA_4
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Playtest_FFA_8.Playlist_Creative_Playtest_FFA_8
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Playtest_8v8.Playlist_Creative_Playtest_8v8
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Playtest_Coop_4.Playlist_Creative_Playtest_Coop_4
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Playtest_2v2.Playlist_Creative_Playtest_2v2
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Playtest_4x4.Playlist_Creative_Playtest_4x4
+[Creative] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_PlayOnly_40.Playlist_Creative_PlayOnly_40
+[Creative] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_PlayOnly.Playlist_Creative_PlayOnly
+[Creative Map 100] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Map_100.Playlist_Creative_Map_100
+[Creative Map 40] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Map_40.Playlist_Creative_Map_40
+[Creative Map 16] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Map_16.Playlist_Creative_Map_16
+[Creative Map 60] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Map_60.Playlist_Creative_Map_60
+[Creative Team Battle] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_v1.Playlist_Creative_LTM_v1
+[Creative Squad 1] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_Squad_1.Playlist_Creative_LTM_Squad_1
+[Creative 4Player FFA 2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_Squad_FFA_2.Playlist_Creative_LTM_Squad_FFA_2
+[Creative 4Player FFA 1] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_Squad_FFA_1.Playlist_Creative_LTM_Squad_FFA_1
+[Creative Solo 2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_Solo_2.Playlist_Creative_LTM_Solo_2
+[Creative Solo 3] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_Solo_3.Playlist_Creative_LTM_Solo_3
+[Creative 8 Squad Battle 3] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_40_v3.Playlist_Creative_LTM_40_v3
+[Creative Solo 1] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_Solo_1.Playlist_Creative_LTM_Solo_1
+[Creative 40 Player FFA] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_40_FFA.Playlist_Creative_LTM_40_FFA
+[Creative 8 Squad Battle] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_40_v1.Playlist_Creative_LTM_40_v1
+[Creative 16 Player 2v14] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_16_Coop.Playlist_Creative_LTM_16_Coop
+[Creative 16 Player FFA] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_16_FFA.Playlist_Creative_LTM_16_FFA
+[Creative 16 Player 8v8] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_16_8v8.Playlist_Creative_LTM_16_8v8
+[Creative 16 Player 2v14] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_16_2v14.Playlist_Creative_LTM_16_2v14
+[Knock Town] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_KaleTofu.Playlist_Creative_KaleTofu
+[LTE] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTE.Playlist_Creative_LTE
+[Retribution] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Hyena_Z.Playlist_Creative_Hyena_Z
+[3v3v3v3] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Hyena_T.Playlist_Creative_Hyena_T
+[Mansion of Power] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Hyena_M.Playlist_Creative_Hyena_M
+[Gun Fright] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Hyena_G.Playlist_Creative_Hyena_G
+[Echo Point] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_EpicPanda.Playlist_Creative_EpicPanda
+[Dropper: 2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Dropper_2.Playlist_Creative_Dropper_2
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Drop_2.Playlist_Creative_Drop_2
+[Zone Wars: Vortex] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Drop_1.Playlist_Creative_Drop_1
+[Dropper: 1] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_Dropper_1.Playlist_Creative_Dropper_1
+[CRAB] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_CRAB.Playlist_Creative_CRAB
+[BoxFight] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_BlueFlatline_1v1.Playlist_Creative_BlueFlatline_1v1
+[BoxFight FFA] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_BlueFlatline_FFA.Playlist_Creative_BlueFlatline_FFA
+[Beach Assault] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_BeachAssault.Playlist_Creative_BeachAssault
+[ORANGE VS BLUE 100 (XL) GO GOATED] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_OVB100GG.Playlist_Creative_LTM_OVB100GG
+[Prop Hunt Infinite] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_PropHuntInfinite.Playlist_Creative_LTM_PropHuntInfinite
+[The Hole FFA] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_TheHoleFFA.Playlist_Creative_LTM_TheHoleFFA
+[Soccer Tournament] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_Squad_Battle_16_A.Playlist_Creative_LTM_Squad_Battle_16_A
+[NICK EH 30 ZONE WARS (Duos)] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_NE30ZW.Playlist_Creative_LTM_NE30ZW
+[Lockdown - Horde Survival] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Creative_LTM_LockdownHorde.Playlist_Creative_LTM_LockdownHorde
+[Classic Loot] /Game/Athena/Playlists/Classic/Playlist_Classic_Squads.Playlist_Classic_Squads
+[Classic Loot] /Game/Athena/Playlists/Classic/Playlist_Classic_Duos.Playlist_Classic_Duos
+[Blitz!] /Game/Athena/Playlists/Blitz/Playlist_Blitz_Duos.Playlist_Blitz_Duos
+[Classic Loot] /Game/Athena/Playlists/Classic/Playlist_Classic_Solo.Playlist_Classic_Solo
+[Blitz!] /Game/Athena/Playlists/Blitz/Playlist_Blitz_Squads.Playlist_Blitz_Squads
+[Blitz!] /Game/Athena/Playlists/Blitz/Playlist_Blitz_Solo.Playlist_Blitz_Solo
+[Battle Lab] /Game/Athena/Playlists/BattleLab/Playlist_BattleLab_Fortnitemares_MaxFog.Playlist_BattleLab_Fortnitemares_MaxFog
+[Battle Lab] /Game/Athena/Playlists/BattleLab/Playlist_BattleLab_Fortnitemares_MinFog.Playlist_BattleLab_Fortnitemares_MinFog
+[Battle Lab] /Game/Athena/Playlists/BattleLab/Playlist_BattleLab_Fortnitemares_MedFog.Playlist_BattleLab_Fortnitemares_MedFog
+[Battle Lab] /Game/Athena/Playlists/BattleLab/Playlist_BattleLab.Playlist_BattleLab
+[Solos] /Game/Athena/Playlists/Apollo/Playlist_Intro_Apollo_PastPlayer.Playlist_Intro_Apollo_PastPlayer
+[Solos] /Game/Athena/Playlists/Apollo/Playlist_Intro_Apollo_NewPlayer.Playlist_Intro_Apollo_NewPlayer
+[Solos] /Game/Athena/Playlists/Apollo/Playlist_Intro_Apollo_CurrentPlayer.Playlist_Intro_Apollo_CurrentPlayer
+[Solos] /Game/Athena/Playlists/Apollo/Playlist_Intro_Apollo_20H80B.Playlist_Intro_Apollo_20H80B
+[Solos] /Game/Athena/Playlists/Apollo/Playlist_Intro_Apollo_40H60B.Playlist_Intro_Apollo_40H60B
+[Solos] /Game/Athena/Playlists/Apollo/Playlist_Intro_Apollo_30H70B.Playlist_Intro_Apollo_30H70B
+[Solos] /Game/Athena/Playlists/Apollo/Playlist_Intro_Apollo_05H95B.Playlist_Intro_Apollo_05H95B
+[Solo] /Game/Athena/Playlists/Playlist_Playtest_DefaultSolo.Playlist_Playtest_DefaultSolo
+[Duos] /Game/Athena/Playlists/Playlist_Playtest_DefaultDuo.Playlist_Playtest_DefaultDuo
+[Squads] /Game/Athena/Playlists/Playlist_Playtest_DefaultSquad.Playlist_Playtest_DefaultSquad
+[GibsonSquads] /Game/Athena/Playlists/AI/Playlist_Gibson200_Squads_Temp.Playlist_Gibson200_Squads_Temp
+[Squads] /Game/Athena/Playlists/Playlist_DefaultSquad_FFA.Playlist_DefaultSquad_FFA
+[Solo] /Game/Athena/Playlists/Playlist_DefaultSolo_FFA.Playlist_DefaultSolo_FFA
+[Squads] /Game/Athena/Playlists/Playlist_DefaultSquad.Playlist_DefaultSquad
+[Solo] /Game/Athena/Playlists/Playlist_DefaultSolo.Playlist_DefaultSolo
+[Solo] /Game/Athena/Playlists/Playlist_DefaultPIE.Playlist_DefaultPIE
+[Duos] /Game/Athena/Playlists/Playlist_DefaultDuo_FFA.Playlist_DefaultDuo_FFA
+[Duos] /Game/Athena/Playlists/Playlist_DefaultDuo.Playlist_DefaultDuo
+[Creative] /Game/Athena/Playlists/Creative/Playlist_PlaygroundV2.Playlist_PlaygroundV2
+[SourDropper] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/Playlist_Showdown_SourDropper.Playlist_Showdown_SourDropper
+[16v16 DESERT CHAOS - DOMINATION] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_16v16DesertDomination.Playlist_Creative_LTM_16v16DesertDomination
+[Brite City Mafia] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_BriteCityMafia.Playlist_Creative_LTM_BriteCityMafia
+[Blitz Red Vs Blue] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_BlitzRVB.Playlist_Creative_LTM_BlitzRVB
+[16 V 16 Last Maze Domination] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_16v16LastMaze.Playlist_Creative_LTM_16v16LastMaze
+[CITY ROYALE] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_CityRoyale.Playlist_Creative_LTM_CityRoyale
+[16 Versus 16 DOMINATION] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_16v16Dom.Playlist_Creative_LTM_16v16Dom
+[BHE 1v1 Build fights] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_1V1BF.Playlist_Creative_LTM_1V1BF
+[200 Level Default Deathrun] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_200LevelRun.Playlist_Creative_LTM_200LevelRun
+[222 Levels Default Deathrun] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_222DeathRun.Playlist_Creative_LTM_222DeathRun
+[BIOS ZONE WARS TRIO 1.0 - CUSTOM TEAMS] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_BIOSZWTrio.Playlist_Creative_LTM_BIOSZWTrio
+[ADVANCED RED VS BLUE ] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_AdvancedRVB.Playlist_Creative_LTM_AdvancedRVB
+[2x Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_2XZoneWars.Playlist_Creative_LTM_2XZoneWars
+[Bolt Bash] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_BoltBash.Playlist_Creative_LTM_BoltBash
+[Clix Box Fights] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ClixBF.Playlist_Creative_LTM_ClixBF
+[CAR ROYALE - TEAM RUMBLE!] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_CarRoyaleRumble.Playlist_Creative_LTM_CarRoyaleRumble
+[FIREBALL - CAGEFIGHT/GUNGAME] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_CageFGG.Playlist_Creative_LTM_CageFGG
+[Mystery at Croft Manor] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_CM.Playlist_Creative_LTM_CM
+[The Crossover: Court Crashers] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_CourtCrashers.Playlist_Creative_LTM_CourtCrashers
+[Containment] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Containment.Playlist_Creative_LTM_Containment
+[COLOR SWITCH] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ColorSwitch.Playlist_Creative_LTM_ColorSwitch
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_1.Playlist_Creative_LTM_DAD_1
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_11.Playlist_Creative_LTM_DAD_11
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_10.Playlist_Creative_LTM_DAD_10
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_12.Playlist_Creative_LTM_DAD_12
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_13.Playlist_Creative_LTM_DAD_13
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_15.Playlist_Creative_LTM_DAD_15
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_14.Playlist_Creative_LTM_DAD_14
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_17.Playlist_Creative_LTM_DAD_17
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_16.Playlist_Creative_LTM_DAD_16
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_19.Playlist_Creative_LTM_DAD_19
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_2.Playlist_Creative_LTM_DAD_2
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_20.Playlist_Creative_LTM_DAD_20
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_18.Playlist_Creative_LTM_DAD_18
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_21.Playlist_Creative_LTM_DAD_21
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_22.Playlist_Creative_LTM_DAD_22
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_24.Playlist_Creative_LTM_DAD_24
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_23.Playlist_Creative_LTM_DAD_23
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_3.Playlist_Creative_LTM_DAD_3
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_25.Playlist_Creative_LTM_DAD_25
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_5.Playlist_Creative_LTM_DAD_5
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_4.Playlist_Creative_LTM_DAD_4
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_7.Playlist_Creative_LTM_DAD_7
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_6.Playlist_Creative_LTM_DAD_6
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_9.Playlist_Creative_LTM_DAD_9
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_DAD_8.Playlist_Creative_LTM_DAD_8
+[Snipers vs Runners] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Doll.Playlist_Creative_LTM_Doll
+[Fortnite Fashion Show] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Fashion.Playlist_Creative_LTM_Fashion
+[Fishy Mansion hide & seek] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Fishy.Playlist_Creative_LTM_Fishy
+[Gun Game: Mars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Mars.Playlist_Creative_LTM_Mars
+[Fiend Slayer] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_FiendSlayer.Playlist_Creative_LTM_FiendSlayer
+[Laser Tag Prop Hunt] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Laser.Playlist_Creative_LTM_Laser
+[Fort Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_FortWars.Playlist_Creative_LTM_FortWars
+[ Fishtopia  Fish Tycoon] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_FishtopiaFishTycoon.Playlist_Creative_LTM_FishtopiaFishTycoon
+[Infinite Level Default Deathrun] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_InfiniteDefaultDeathRun.Playlist_Creative_LTM_InfiniteDefaultDeathRun
+[Living Room PVP] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_LivingRoomPVP.Playlist_Creative_LTM_LivingRoomPVP
+[EASY LIFE AT THE O2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_O2Exp.Playlist_Creative_LTM_O2Exp
+[Mars Tycoon] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_MarsTycoon.Playlist_Creative_LTM_MarsTycoon
+[Money Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Money.Playlist_Creative_LTM_Money
+[EASY LIFE AT THE O2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_O2Exp16.Playlist_Creative_LTM_O2Exp16
+[EASY LIFE AT THE O2] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_O2Exp12.Playlist_Creative_LTM_O2Exp12
+[Hotel Fight] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_HotelFight.Playlist_Creative_LTM_HotelFight
+[FinestYT's Realistic (2v2 MatchMaking)] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_FinestYTReal2v2.Playlist_Creative_LTM_FinestYTReal2v2
+[Pandvil Box Fights] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_PandvilBoxfights.Playlist_Creative_LTM_PandvilBoxfights
+[OUTLAW'S HAVEN] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_OutlawsHaven.Playlist_Creative_LTM_OutlawsHaven
+[Prison Breakout] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_FortniteJB.Playlist_Creative_LTM_FortniteJB
+[Freaky Flights - Air Royale] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_FreakyFlights.Playlist_Creative_LTM_FreakyFlights
+[GHOST VS SHADOW PRO] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_GhostVsShadowPro.Playlist_Creative_LTM_GhostVsShadowPro
+[Go Crazy Arena] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_GoCrazyArena.Playlist_Creative_LTM_GoCrazyArena
+[GREEN VS RED VS YELLOW VS BLUE] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_GvRvYvB.Playlist_Creative_LTM_GvRvYvB
+[Capture The Flag] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_LavaCTF.Playlist_Creative_LTM_LavaCTF
+[JDuth 100 Level Default Deathrun] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_JDuth100.Playlist_Creative_LTM_JDuth100
+[MIG 8v8] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_MIG8v8.Playlist_Creative_LTM_MIG8v8
+[LOADOUT WARFARE - POSEIDON V] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_LoadoutWarfare.Playlist_Creative_LTM_LoadoutWarfare
+[3V3V3V3! GO GOATED (SLOW-MO ENABLED)] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_GoGoated3v3.Playlist_Creative_LTM_GoGoated3v3
+[Sniper Noscope Map] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_OneShot.Playlist_Creative_LTM_OneShot
+[Dark Mines - Murder Mystery] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Mystery.Playlist_Creative_LTM_Mystery
+[RED VS BLUE 2.0] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_NewRVB2.Playlist_Creative_LTM_NewRVB2
+[PIRATES OF FORTILLA] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_PiratesOF.Playlist_Creative_LTM_PiratesOF
+[Pararoyale] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Pararoyale.Playlist_Creative_LTM_Pararoyale
+[Pro 100] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_PRO100.Playlist_Creative_LTM_PRO100
+[Pro FFA Arena - Fight!] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ProFFAArena.Playlist_Creative_LTM_ProFFAArena
+[Pro 2 ] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_PRO2.Playlist_Creative_LTM_PRO2
+[Pro Red vs Blue Bounty] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ProRVB.Playlist_Creative_LTM_ProRVB
+[Primal Rumble] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_PrimalRumble.Playlist_Creative_LTM_PrimalRumble
+[PRO RED VS BLUE] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ProRVB100.Playlist_Creative_LTM_ProRVB100
+[Red vs Blue Rumble] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_RVBRumble.Playlist_Creative_LTM_RVBRumble
+[Red Vs Blue ( XS )] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_RVBXS.Playlist_Creative_LTM_RVBXS
+[Shadow vs Ghost] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ShadowVsGhost.Playlist_Creative_LTM_ShadowVsGhost
+[Red vs Blue: OG Prison] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_RVBOGPrison.Playlist_Creative_LTM_RVBOGPrison
+[Ritual's Skydock Boxfights!] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Skydock.Playlist_Creative_LTM_Skydock
+[Spy Tycoon] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_SpyTycoon.Playlist_Creative_LTM_SpyTycoon
+[SURVIVAL SIMULATOR] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_SurvivalSim.Playlist_Creative_LTM_SurvivalSim
+[PWR Salvage Survival] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_PWR_SalvageSurvival.Playlist_Creative_LTM_PWR_SalvageSurvival
+[SURVIVE THE CITY- NO PARKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_SurviveTheCity.Playlist_Creative_LTM_SurviveTheCity
+[Survival Simulator (Desert) ] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_SurvivalSimDesert.Playlist_Creative_LTM_SurvivalSimDesert
+[Pro Fishing] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ProFishing.Playlist_Creative_LTM_ProFishing
+[Red/Green/Yellow/Purple Car fight] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_RGYPCarFight.Playlist_Creative_LTM_RGYPCarFight
+[Top Vehicle Games Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_VehicleHub.Playlist_Creative_LTM_VehicleHub
+[Rockets vs Cars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_RocketsVsCars.Playlist_Creative_LTM_RocketsVsCars
+[Sky Wars Red VS Green DINOSAURS] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_RVGDinosaurs.Playlist_Creative_LTM_RVGDinosaurs
+[Red VS Blue GO GOATED! 8v8] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_RVBGG8v8.Playlist_Creative_LTM_RVBGG8v8
+[SIMPLE TRIOs ZoneWars (40 Players)] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_SimpleTriosZoneWars.Playlist_Creative_LTM_SimpleTriosZoneWars
+[March Through Time] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_TheMarch.Playlist_Creative_LTM_TheMarch
+[Sunrise City - Horde Survival] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_SunriseHorde.Playlist_Creative_LTM_SunriseHorde
+[Theme Park] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ThemeParkSummerEvent.Playlist_Creative_LTM_ThemeParkSummerEvent
+[VOLCANO WARS] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_VolcanoWars.Playlist_Creative_LTM_VolcanoWars
+[Tropical Thunder] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_TropicalThunder.Playlist_Creative_LTM_TropicalThunder
+[WATERMANIA - ULTIMATE SUMMER CLASH] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_WatermaniaUltimate.Playlist_Creative_LTM_WatermaniaUltimate
+[Wildlands Survival] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_WildlandsSurvival.Playlist_Creative_LTM_WildlandsSurvival
+[Worlds Collide: Hero Shooters - CTF] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_WorldsCollideCTF.Playlist_Creative_LTM_WorldsCollideCTF
+[Zombie Island] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ZombieIsland.Playlist_Creative_LTM_ZombieIsland
+[Realistic Solos] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Realistic.Playlist_Creative_LTM_Realistic
+[The Pit] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Pit.Playlist_Creative_LTM_Pit
+[Summer Splash Deathrun] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Summer.Playlist_Creative_LTM_Summer
+[Skyfall: Box Fight] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Skyfall.Playlist_Creative_LTM_Skyfall
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Template.Playlist_Creative_LTM_Template
+[Tropical Zone Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Tropical.Playlist_Creative_LTM_Tropical
+[Creator Showcase] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Template_Random.Playlist_Creative_LTM_Template_Random
+[Hide and Seek: Underwater Labs] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Underwater.Playlist_Creative_LTM_Underwater
+[The Underworld - Gun Game] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Underworld.Playlist_Creative_LTM_Underworld
+[Pro Billionaire Tycoon] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Tycoon.Playlist_Creative_LTM_Tycoon
+[TUMBLE LADS] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Tumble.Playlist_Creative_LTM_Tumble
+[Wall Wars] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_WallWars.Playlist_Creative_LTM_WallWars
+[ZONE WARS: WATER PARK] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Waterpark.Playlist_Creative_LTM_Waterpark
+[3:2 ZONE WARS + BOX FIGHT] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ZWBF.Playlist_Creative_LTM_ZWBF
+[VERTIGO DEATHRUNS] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_VertigoDR.Playlist_Creative_LTM_VertigoDR
+[Zone Wars: PURGATORY] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ZoneWarsP.Playlist_Creative_LTM_ZoneWarsP
+[Zone Wars With Placement Points] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ZWPlacement.Playlist_Creative_LTM_ZWPlacement
+[Zodiac Library - Gun Game] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_ZodiacGG.Playlist_Creative_LTM_ZodiacGG
+[World's End Millionaire Mansion!] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_WorldsEndMillionaireMansion.Playlist_Creative_LTM_WorldsEndMillionaireMansion
+[Duos] /Game/Athena/Playlists/DefaultBots/Playlist_Bots_DefaultDuo.Playlist_Bots_DefaultDuo
+[Solo] /Game/Athena/Playlists/DefaultBots/Playlist_Bots_DefaultSolo.Playlist_Bots_DefaultSolo
+[Squads] /Game/Athena/Playlists/DefaultBots/Playlist_Bots_DefaultSquad.Playlist_Bots_DefaultSquad
+[Spy Within: Shopper's Delight] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Spy_Shopper.Playlist_Creative_LTM_Spy_Shopper
+[Spy Within: Steamboat] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Spy_Steam.Playlist_Creative_LTM_Spy_Steam
+[Spy Within: Holiday Workshop] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Spy_Santa.Playlist_Creative_LTM_Spy_Santa
+[Spy Within: Midas' Museum] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Spy_Midas.Playlist_Creative_LTM_Spy_Midas
+[Spy Within: Gold Mansion] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Spy_Gold.Playlist_Creative_LTM_Spy_Gold
+[Spy Within: Midnight City] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Spy_Crystal.Playlist_Creative_LTM_Spy_Crystal
+[Spy Within: Gilded Galaxy] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/CLTMs/Playlist_Creative_LTM_Spy_Gilded.Playlist_Creative_LTM_Spy_Gilded
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_4PlayerStandard_SB.Playlist_Creative_MMS_4PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Squads/Playlist_Creative_MMS_TeamsOf4_16PlayersMax_SB.Playlist_Creative_MMS_TeamsOf4_16PlayersMax_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_8PlayerStandard_SB.Playlist_Creative_MMS_8PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_9PlayerStandard_SB.Playlist_Creative_MMS_9PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_7PlayerStandard_SB.Playlist_Creative_MMS_7PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_6PlayerStandard_SB.Playlist_Creative_MMS_6PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_48PlayerStandard_SB.Playlist_Creative_MMS_48PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_5PlayerStandard_SB.Playlist_Creative_MMS_5PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_50PlayerStandard_SB.Playlist_Creative_MMS_50PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_49PlayerStandard_SB.Playlist_Creative_MMS_49PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_47PlayerStandard_SB.Playlist_Creative_MMS_47PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_46PlayerStandard_SB.Playlist_Creative_MMS_46PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_45PlayerStandard_SB.Playlist_Creative_MMS_45PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_39PlayerStandard_SB.Playlist_Creative_MMS_39PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_44PlayerStandard_SB.Playlist_Creative_MMS_44PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_42PlayerStandard_SB.Playlist_Creative_MMS_42PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_43PlayerStandard_SB.Playlist_Creative_MMS_43PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_41PlayerStandard_SB.Playlist_Creative_MMS_41PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_40PlayerStandard_SB.Playlist_Creative_MMS_40PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_3PlayerStandard_SB.Playlist_Creative_MMS_3PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_38PlayerStandard_SB.Playlist_Creative_MMS_38PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_37PlayerStandard_SB.Playlist_Creative_MMS_37PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_2PlayerStandard_SB.Playlist_Creative_MMS_2PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_36PlayerStandard_SB.Playlist_Creative_MMS_36PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_35PlayerStandard_SB.Playlist_Creative_MMS_35PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_33PlayerStandard_SB.Playlist_Creative_MMS_33PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_34PlayerStandard_SB.Playlist_Creative_MMS_34PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_30PlayerStandard_SB.Playlist_Creative_MMS_30PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_32PlayerStandard_SB.Playlist_Creative_MMS_32PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_28PlayerStandard_SB.Playlist_Creative_MMS_28PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_31PlayerStandard_SB.Playlist_Creative_MMS_31PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_29PlayerStandard_SB.Playlist_Creative_MMS_29PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_26PlayerStandard_SB.Playlist_Creative_MMS_26PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_27PlayerStandard_SB.Playlist_Creative_MMS_27PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_25PlayerStandard_SB.Playlist_Creative_MMS_25PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_24PlayerStandard_SB.Playlist_Creative_MMS_24PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_22PlayerStandard_SB.Playlist_Creative_MMS_22PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_23PlayerStandard_SB.Playlist_Creative_MMS_23PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_20PlayerStandard_SB.Playlist_Creative_MMS_20PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_21PlayerStandard_SB.Playlist_Creative_MMS_21PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_16PlayerStandard_SB.Playlist_Creative_MMS_16PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_1PlayerStandard_SB.Playlist_Creative_MMS_1PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_14PlayerStandard_SB.Playlist_Creative_MMS_14PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_15PlayerStandard_SB.Playlist_Creative_MMS_15PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_13PlayerStandard_SB.Playlist_Creative_MMS_13PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Duos/Playlist_Creative_MMS_TeamsOf2_8PlayersMax_SB.Playlist_Creative_MMS_TeamsOf2_8PlayersMax_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_12PlayerStandard_SB.Playlist_Creative_MMS_12PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/FFA/Playlist_Creative_MMS_Comp_FFA_4PlayersMax_SB.Playlist_Creative_MMS_Comp_FFA_4PlayersMax_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_11PlayerStandard_SB.Playlist_Creative_MMS_11PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Generic/Playlist_Creative_MMS_10PlayerStandard_SB.Playlist_Creative_MMS_10PlayerStandard_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/FFA/Playlist_Creative_MMS_Comp_FFA_8PlayersMax_SB.Playlist_Creative_MMS_Comp_FFA_8PlayersMax_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf4_12PlayersMax.Playlist_Creative_MMS_TeamsOf4_12PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/FFA/Playlist_Creative_MMS_Comp_FFA_16PlayersMax_SB.Playlist_Creative_MMS_Comp_FFA_16PlayersMax_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/FFA/Playlist_Creative_MMS_Comp_FFA_10PlayersMax_SB.Playlist_Creative_MMS_Comp_FFA_10PlayersMax_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/SkillBased/Duos/Playlist_Creative_MMS_TeamsOf2_16PlayersMax_SB.Playlist_Creative_MMS_TeamsOf2_16PlayersMax_SB
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf4_16PlayersMax.Playlist_Creative_MMS_TeamsOf4_16PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf3_9PlayersMax.Playlist_Creative_MMS_TeamsOf3_9PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf3_15PlayersMax.Playlist_Creative_MMS_TeamsOf3_15PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_8PlayersMax.Playlist_Creative_MMS_Comp_FFA_8PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf2_14PlayersMax.Playlist_Creative_MMS_TeamsOf2_14PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf2_8PlayersMax.Playlist_Creative_MMS_TeamsOf2_8PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf3_12PlayersMax.Playlist_Creative_MMS_TeamsOf3_12PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf2_12PlayersMax.Playlist_Creative_MMS_TeamsOf2_12PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf2_6PlayersMax.Playlist_Creative_MMS_TeamsOf2_6PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf2_16PlayersMax.Playlist_Creative_MMS_TeamsOf2_16PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_6PlayersMax.Playlist_Creative_MMS_Comp_FFA_6PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_TeamsOf2_10PlayersMax.Playlist_Creative_MMS_TeamsOf2_10PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_7PlayersMax.Playlist_Creative_MMS_Comp_FFA_7PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_9PlayersMax.Playlist_Creative_MMS_Comp_FFA_9PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_14PlayersMax.Playlist_Creative_MMS_Comp_FFA_14PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_15PlayersMax.Playlist_Creative_MMS_Comp_FFA_15PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_3PlayersMax.Playlist_Creative_MMS_Comp_FFA_3PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_5PlayersMax.Playlist_Creative_MMS_Comp_FFA_5PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_4PlayersMax.Playlist_Creative_MMS_Comp_FFA_4PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_16PlayersMax.Playlist_Creative_MMS_Comp_FFA_16PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_12PlayersMax.Playlist_Creative_MMS_Comp_FFA_12PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_13PlayersMax.Playlist_Creative_MMS_Comp_FFA_13PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_11PlayersMax.Playlist_Creative_MMS_Comp_FFA_11PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_9PlayerStandard.Playlist_Creative_MMS_9PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_8v8_Competitive.Playlist_Creative_MMS_8v8_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_Comp_FFA_10PlayersMax.Playlist_Creative_MMS_Comp_FFA_10PlayersMax
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_6v6_Competitive.Playlist_Creative_MMS_6v6_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_7PlayerStandard.Playlist_Creative_MMS_7PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_8PlayerStandard.Playlist_Creative_MMS_8PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_7v7_Competitive.Playlist_Creative_MMS_7v7_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_6PlayerStandard.Playlist_Creative_MMS_6PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_5PlayerStandard.Playlist_Creative_MMS_5PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_5v5_Competitive.Playlist_Creative_MMS_5v5_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_50PlayerStandard.Playlist_Creative_MMS_50PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_50_Player_No_MMS.Playlist_Creative_MMS_50_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_4v4_Competitive.Playlist_Creative_MMS_4v4_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_9_Player_No_MMS.Playlist_Creative_MMS_9_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_8_Player_No_MMS.Playlist_Creative_MMS_8_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_4PlayerStandard.Playlist_Creative_MMS_4PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_7_Player_No_MMS.Playlist_Creative_MMS_7_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_6_Player_No_MMS.Playlist_Creative_MMS_6_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_5_Player_No_MMS.Playlist_Creative_MMS_5_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_4_Player_No_MMS.Playlist_Creative_MMS_4_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_49_Player_No_MMS.Playlist_Creative_MMS_49_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_49PlayerStandard.Playlist_Creative_MMS_49PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_48_Player_No_MMS.Playlist_Creative_MMS_48_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_46_Player_No_MMS.Playlist_Creative_MMS_46_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_44_Player_No_MMS.Playlist_Creative_MMS_44_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_48PlayerStandard.Playlist_Creative_MMS_48PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_47_Player_No_MMS.Playlist_Creative_MMS_47_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_43_Player_No_MMS.Playlist_Creative_MMS_43_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_47PlayerStandard.Playlist_Creative_MMS_47PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_46PlayerStandard.Playlist_Creative_MMS_46PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_45_Player_No_MMS.Playlist_Creative_MMS_45_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_43PlayerStandard.Playlist_Creative_MMS_43PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_45PlayerStandard.Playlist_Creative_MMS_45PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_44PlayerStandard.Playlist_Creative_MMS_44PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_42_Player_No_MMS.Playlist_Creative_MMS_42_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_42PlayerStandard.Playlist_Creative_MMS_42PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_41PlayerStandard.Playlist_Creative_MMS_41PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_40PlayerStandard.Playlist_Creative_MMS_40PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_41_Player_No_MMS.Playlist_Creative_MMS_41_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_39_Player_No_MMS.Playlist_Creative_MMS_39_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_3_Player_No_MMS.Playlist_Creative_MMS_3_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_40_Player_No_MMS.Playlist_Creative_MMS_40_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_39PlayerStandard.Playlist_Creative_MMS_39PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_38_Player_No_MMS.Playlist_Creative_MMS_38_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_38PlayerStandard.Playlist_Creative_MMS_38PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_37PlayerStandard.Playlist_Creative_MMS_37PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_36_Player_No_MMS.Playlist_Creative_MMS_36_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_37_Player_No_MMS.Playlist_Creative_MMS_37_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_36PlayerStandard.Playlist_Creative_MMS_36PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_35PlayerStandard.Playlist_Creative_MMS_35PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_34_Player_No_MMS.Playlist_Creative_MMS_34_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_35_Player_No_MMS.Playlist_Creative_MMS_35_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_33_Player_No_MMS.Playlist_Creative_MMS_33_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_34PlayerStandard.Playlist_Creative_MMS_34PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_32_Player_No_MMS.Playlist_Creative_MMS_32_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_33PlayerStandard.Playlist_Creative_MMS_33PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_31_Player_No_MMS.Playlist_Creative_MMS_31_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_32PlayerStandard.Playlist_Creative_MMS_32PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_31PlayerStandard.Playlist_Creative_MMS_31PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_30_Player_No_MMS.Playlist_Creative_MMS_30_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_30PlayerStandard.Playlist_Creative_MMS_30PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_29_Player_No_MMS.Playlist_Creative_MMS_29_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_2_Player_No_MMS.Playlist_Creative_MMS_2_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_29PlayerStandard.Playlist_Creative_MMS_29PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_28PlayerStandard.Playlist_Creative_MMS_28PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_27PlayerStandard.Playlist_Creative_MMS_27PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_27_Player_No_MMS.Playlist_Creative_MMS_27_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_28_Player_No_MMS.Playlist_Creative_MMS_28_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_26_Player_No_MMS.Playlist_Creative_MMS_26_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_26PlayerStandard.Playlist_Creative_MMS_26PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_25PlayerStandard.Playlist_Creative_MMS_25PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_25_Player_No_MMS.Playlist_Creative_MMS_25_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_24PlayerStandard.Playlist_Creative_MMS_24PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_23_Player_No_MMS.Playlist_Creative_MMS_23_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_24_Player_No_MMS.Playlist_Creative_MMS_24_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_21_Player_No_MMS.Playlist_Creative_MMS_21_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_22PlayerStandard.Playlist_Creative_MMS_22PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_22_Player_No_MMS.Playlist_Creative_MMS_22_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_23PlayerStandard.Playlist_Creative_MMS_23PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_21PlayerStandard.Playlist_Creative_MMS_21PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_20PlayerStandard.Playlist_Creative_MMS_20PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_20_Player_No_MMS.Playlist_Creative_MMS_20_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_1_Player_No_MMS.Playlist_Creative_MMS_1_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_1v1_Competitive.Playlist_Creative_MMS_1v1_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_3PlayerStandard.Playlist_Creative_MMS_3PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_3v3_Competitive.Playlist_Creative_MMS_3v3_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_1PlayerStandard.Playlist_Creative_MMS_1PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_2v2_Competitive.Playlist_Creative_MMS_2v2_Competitive
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_2PlayerStandard.Playlist_Creative_MMS_2PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_14PlayerStandard.Playlist_Creative_MMS_14PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_16PlayerStandard.Playlist_Creative_MMS_16PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_15PlayerStandard.Playlist_Creative_MMS_15PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_16_Player_No_MMS.Playlist_Creative_MMS_16_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_12PlayerStandard.Playlist_Creative_MMS_12PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_13PlayerStandard.Playlist_Creative_MMS_13PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_13_Player_No_MMS.Playlist_Creative_MMS_13_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_11_Player_No_MMS.Playlist_Creative_MMS_11_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_15_Player_No_MMS.Playlist_Creative_MMS_15_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_14_Player_No_MMS.Playlist_Creative_MMS_14_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_12_Player_No_MMS.Playlist_Creative_MMS_12_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_10_Player_No_MMS.Playlist_Creative_MMS_10_Player_No_MMS
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_11PlayerStandard.Playlist_Creative_MMS_11PlayerStandard
+[CREATIVE MATCHMAKING] /Game/Athena/Playlists/Creative/Creative_PlayOnlyPlaylists/MMS/Playlist_Creative_MMS_10PlayerStandard.Playlist_Creative_MMS_10PlayerStandard
+[No Build Duos] /Game/Athena/Playlists/ItemTest/Playlist_ItemTest_NoBuild.Playlist_ItemTest_NoBuild
+[Blitz Tournament] /Game/Athena/Playlists/Showdown/Playlist_Showdown_Blitz_Squads.Playlist_Showdown_Blitz_Squads
+[Test Build] /Game/Athena/Playlists/TestBuild/Playlist_TestBuild_Solo.Playlist_TestBuild_Solo
+[Test Build] /Game/Athena/Playlists/TestBuild/Playlist_TestBuild_Duos.Playlist_TestBuild_Duos
+[Test Build] /Game/Athena/Playlists/TestBuild/Playlist_TestBuild_Squads.Playlist_TestBuild_Squads
+[VK Edit] /VKEdit/Playlists/Playlist_VK_Edit.Playlist_VK_Edit
+[Floor Is Lava] /Game/Athena/Playlists/Fill/Playlist_Fill_Solo.Playlist_Fill_Solo
+[Floor Is Lava] /Game/Athena/Playlists/Fill/Playlist_Fill_Duos.Playlist_Fill_Duos
+[Floor Is Lava] /Game/Athena/Playlists/Fill/Playlist_Fill_Squads.Playlist_Fill_Squads
+[Tournament] /Game/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Trios.Playlist_ShowdownTesting_Trios
+[Tournament] /Game/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Squads.Playlist_ShowdownTesting_Squads
+[Tournament] /Game/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Duos.Playlist_ShowdownTesting_Duos
+[Tournament] /Game/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Solo.Playlist_ShowdownTesting_Solo
+[The Floor Restores] /Game/Athena/Playlists/Fluoride/Playlist_Fluoride_Duos.Playlist_Fluoride_Duos
+[The Floor Restores] /Game/Athena/Playlists/Fluoride/Playlist_Fluoride_Squads.Playlist_Fluoride_Squads
+[The Floor Restores] /Game/Athena/Playlists/Fluoride/Playlist_FluorideShowdown_Solo.Playlist_FluorideShowdown_Solo
+[The Floor Restores] /Game/Athena/Playlists/Fluoride/Playlist_Fluoride_Solo.Playlist_Fluoride_Solo
+[Final Fight] /Game/Athena/Playlists/Final/Playlist_Final_50.Playlist_Final_50
+[Final Fight] /Game/Athena/Playlists/Final/Playlist_Final_20.Playlist_Final_20
+[Final Fight] /Game/Athena/Playlists/Final/Playlist_Final_12.Playlist_Final_12
+[Solo] /Game/Athena/Playlists/Fortnite/Playlist_Fortnite_B_Solo.Playlist_Fortnite_B_Solo
+[Solo] /Game/Athena/Playlists/Fortnite/Playlist_Ox_Fortnite_B_Solo.Playlist_Ox_Fortnite_B_Solo
+[Squads] /Game/Athena/Playlists/Fortnite/Playlist_Ox_Fortnite_B_Squads.Playlist_Ox_Fortnite_B_Squads
+[Squads] /Game/Athena/Playlists/Fortnite/Playlist_Fortnite_B_Squads_G.Playlist_Fortnite_B_Squads_G
+[Duos] /Game/Athena/Playlists/Fortnite/Playlist_Ox_Fortnite_B_Duos.Playlist_Ox_Fortnite_B_Duos
+[Solo] /Game/Athena/Playlists/Fortnite/Playlist_Fortnite_B_Solo_G.Playlist_Fortnite_B_Solo_G
+[Squads] /Game/Athena/Playlists/Fortnite/Playlist_Fortnite_B_Squads.Playlist_Fortnite_B_Squads
+[Duos] /Game/Athena/Playlists/Fortnite/Playlist_Fortnite_B_Duos_G.Playlist_Fortnite_B_Duos_G
+[Duos] /Game/Athena/Playlists/Fortnite/Playlist_Fortnite_B_Duos.Playlist_Fortnite_B_Duos
+[Final Five] /Game/Athena/Playlists/Fortnite/Playlist_Fortnite.Playlist_Fortnite
+[Heavy Metal] /Game/Athena/Playlists/Heavy/Playlist_Heavy_Solo.Playlist_Heavy_Solo
+[Heavy Metal] /Game/Athena/Playlists/Heavy/Playlist_Heavy_Squads.Playlist_Heavy_Squads
+[Heavy Metal] /Game/Athena/Playlists/Heavy/Playlist_Heavy_Duos.Playlist_Heavy_Duos
+[Fly Explosives] /Game/Athena/Playlists/HighExplosives/Playlist_FlyExplosives_Solo.Playlist_FlyExplosives_Solo
+[Fly Explosives] /Game/Athena/Playlists/HighExplosives/Playlist_FlyExplosives_Squads.Playlist_FlyExplosives_Squads
+[Fly Explosives] /Game/Athena/Playlists/HighExplosives/Playlist_FlyExplosives_Duos.Playlist_FlyExplosives_Duos
+[High Explosives] /Game/Athena/Playlists/HighExplosives/Tournament/Playlist_ShowdownTournament_HighExplosives_Solo.Playlist_ShowdownTournament_HighExplosives_Solo
+[High Explosives] /Game/Athena/Playlists/HighExplosives/Playlist_HighExplosives_Squads.Playlist_HighExplosives_Squads
+[High Explosives] /Game/Athena/Playlists/HighExplosives/Playlist_HighExplosives_Duos.Playlist_HighExplosives_Duos
+[High Explosives] /Game/Athena/Playlists/HighExplosives/Playlist_HighExplosives_Solo.Playlist_HighExplosives_Solo
+[One Shot] /Game/Athena/Playlists/Low/Playlist_ShowdownTournament_Low_Squads.Playlist_ShowdownTournament_Low_Squads
+[One Shot] /Game/Athena/Playlists/Low/Playlist_ShowdownTournament_Low_Trios.Playlist_ShowdownTournament_Low_Trios
+[One Shot] /Game/Athena/Playlists/Low/Playlist_ShowdownTournament_Low_Solo.Playlist_ShowdownTournament_Low_Solo
+[One Shot] /Game/Athena/Playlists/Low/Playlist_ShowdownTournament_Low_Duos.Playlist_ShowdownTournament_Low_Duos
+[One Shot] /Game/Athena/Playlists/Low/Playlist_Low_Solo.Playlist_Low_Solo
+[One Shot] /Game/Athena/Playlists/Low/Playlist_Low_Squads.Playlist_Low_Squads
+[One Shot] /Game/Athena/Playlists/Low/Playlist_Low_Duos.Playlist_Low_Duos
+[Team Rumble] /Game/Athena/Playlists/Respawn/Playlist_Respawn_24_Alt.Playlist_Respawn_24_Alt
+[Love Shot] /Game/Athena/Playlists/Low/Love/Playlist_Love_Squads.Playlist_Love_Squads
+[Love Shot] /Game/Athena/Playlists/Low/Love/Playlist_Love_Solo.Playlist_Love_Solo
+[Love Shot] /Game/Athena/Playlists/Low/Love/Playlist_Love_Duos.Playlist_Love_Duos
+[Fishing Frenzy] /Game/Athena/Playlists/Polaris/Playlist_Polaris_Solo.Playlist_Polaris_Solo
+[Close Encounters] /Game/Athena/Playlists/Shotguns/Playlist_Close_Duos.Playlist_Close_Duos
+[Close Encounters] /Game/Athena/Playlists/Shotguns/Playlist_Close_Squads.Playlist_Close_Squads
+[Close Encounters] /Game/Athena/Playlists/Shotguns/Playlist_Close_Solo.Playlist_Close_Solo
+[Close Encounters] /Game/Athena/Playlists/Shotguns/Tournament/Playlist_ShowdownTournament_Close_Solo.Playlist_ShowdownTournament_Close_Solo
+[Tournament] /Game/Athena/Playlists/Showdown/Playlist_Showdown_Duos.Playlist_Showdown_Duos
+[Tournament] /Game/Athena/Playlists/Showdown/Playlist_Showdown_Trios.Playlist_Showdown_Trios
+[Tournament] /Game/Athena/Playlists/Showdown/Playlist_Showdown_Solo.Playlist_Showdown_Solo
+[Tournament] /Game/Athena/Playlists/Showdown/Playlist_Showdown_Squads.Playlist_Showdown_Squads
+[Tournament] /Game/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Trios.Playlist_ShowdownAlt_Trios
+[Arena] /Game/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Squads.Playlist_ShowdownAlt_Squads
+[Arena] /Game/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Solo.Playlist_ShowdownAlt_Solo
+[Arena] /Game/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Duos.Playlist_ShowdownAlt_Duos
+[Arena] /Game/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Solo_QA.Playlist_ShowdownAlt_Solo_QA
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Trios.Playlist_ShowdownTournament_Trios
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Duos.Playlist_ShowdownTournament_Duos
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Solo.Playlist_ShowdownTournament_Solo
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Squads.Playlist_ShowdownTournament_Squads
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Solo_QA.Playlist_ShowdownTournament_Solo_QA
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownScrims_Trios.Playlist_ShowdownScrims_Trios
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Solo_Test.Playlist_ShowdownTournament_Solo_Test
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownScrims_Duos.Playlist_ShowdownScrims_Duos
+[Tournament] /Game/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownScrims_Solo.Playlist_ShowdownScrims_Solo
+[Tournament] /Game/Athena/Playlists/Showdown/HZ/Playlist_ShowdownTournament_Duos_HZ.Playlist_ShowdownTournament_Duos_HZ
+[Sniper Shootout] /Game/Athena/Playlists/Snipers/Playlist_Snipers_Squads.Playlist_Snipers_Squads
+[Sniper Shootout] /Game/Athena/Playlists/Snipers/Playlist_Snipers_Solo.Playlist_Snipers_Solo
+[Sniper Shootout] /Game/Athena/Playlists/Snipers/Playlist_Snipers_Duos.Playlist_Snipers_Duos
+[Fog of War] /Game/Athena/Playlists/Sneaky/Playlist_Sneaky_Squads.Playlist_Sneaky_Squads
+[Fog of War] /Game/Athena/Playlists/Sneaky/Tournament/Playlist_ShowdownTournament_Sneaky_Solo.Playlist_ShowdownTournament_Sneaky_Solo
+[Solid Gold] /Game/Athena/Playlists/SolidGold/Playlist_SolidGold_Solo.Playlist_SolidGold_Solo
+[Solid Gold] /Game/Athena/Playlists/SolidGold/Playlist_SolidGold_Squads.Playlist_SolidGold_Squads
+[Solid Gold] /Game/Athena/Playlists/SolidGold/Playlist_SolidGold_Duos.Playlist_SolidGold_Duos
+[Solid Gold] /Game/Athena/Playlists/SolidGold/Tournament/Playlist_ShowdownTournament_SolidGold_Solo.Playlist_ShowdownTournament_SolidGold_Solo
+[Solid Gold] /Game/Athena/Playlists/SolidGold/Tournament/Playlist_ShowdownTournament_SolidGold_Trios.Playlist_ShowdownTournament_SolidGold_Trios
+[Solid Gold] /Game/Athena/Playlists/SolidGold/Tournament/Playlist_ShowdownAlt_SolidGold_Solo.Playlist_ShowdownAlt_SolidGold_Solo
+[Sword Fight] /Game/Athena/Playlists/Sword/Tournament/Playlist_ShowdownTournament_Sword_Solo.Playlist_ShowdownTournament_Sword_Solo
+[Sword Fight] /Game/Athena/Playlists/Sword/Tournament/Playlist_ShowdownTournament_Sword_Duos.Playlist_ShowdownTournament_Sword_Duos
+[Sword Fight] /Game/Athena/Playlists/Sword/Playlist_Sword_Squads.Playlist_Sword_Squads
+[Sword Fight] /Game/Athena/Playlists/Sword/Playlist_Sword_Solo.Playlist_Sword_Solo
+[Sword Fight] /Game/Athena/Playlists/Sword/Playlist_Sword_Duos.Playlist_Sword_Duos
+[Throwdown] /Game/Athena/Playlists/Toss/Playlist_Toss_Trios.Playlist_Toss_Trios
+[Throwdown] /Game/Athena/Playlists/Toss/Playlist_Toss_Solo.Playlist_Toss_Solo
+[Throwdown] /Game/Athena/Playlists/Toss/Playlist_Toss_Squads.Playlist_Toss_Squads
+[Throwdown] /Game/Athena/Playlists/Toss/Playlist_Toss_Duos.Playlist_Toss_Duos
+[Trios] /Game/Athena/Playlists/Trios/Playlist_Bots_Trios.Playlist_Bots_Trios
+[Trios] /Game/Athena/Playlists/Trios/Playlist_Trios.Playlist_Trios
+[Tutorial] /Game/Athena/Playlists/Tutorial/Playlist_Tutorial_DefensiveBuilding.Playlist_Tutorial_DefensiveBuilding
+[Tutorial] /Game/Athena/Playlists/Tutorial/Playlist_Tutorial_1.Playlist_Tutorial_1
+[Tank Battle] /Game/Athena/Playlists/Tank/Playlist_Tank_Squads.Playlist_Tank_Squads
+[Tank Battle] /Game/Athena/Playlists/Tank/Playlist_Tank_Solo.Playlist_Tank_Solo
+[Tank Battle] /Game/Athena/Playlists/Tank/Playlist_Tank_Duos.Playlist_Tank_Duos
+[Siphon] /Game/Athena/Playlists/Vamp/Playlist_Vamp_Squads.Playlist_Vamp_Squads
+[Siphon] /Game/Athena/Playlists/Vamp/Playlist_Vamp_Solo.Playlist_Vamp_Solo
+[Siphon] /Game/Athena/Playlists/Vamp/Playlist_Vamp_Duos.Playlist_Vamp_Duos
+[Unvaulted] /Game/Athena/Playlists/Unvaulted/Playlist_Unvaulted_Squads.Playlist_Unvaulted_Squads
+[Unvaulted] /Game/Athena/Playlists/Unvaulted/Playlist_Unvaulted_Solo.Playlist_Unvaulted_Solo
+[Unvaulted] /Game/Athena/Playlists/Unvaulted/Playlist_Unvaulted_Duos.Playlist_Unvaulted_Duos
+[Wild West] /Game/Athena/Playlists/WW/Playlist_WW_Solo.Playlist_WW_Solo
+[Wild West] /Game/Athena/Playlists/WW/Playlist_WW_Squad.Playlist_WW_Squad
+[Wild West] /Game/Athena/Playlists/WW/Playlist_WW_Duo.Playlist_WW_Duo
+[Arsenal] /Game/Athena/Playlists/gg/Playlist_ShowdownTournament_Gungame_Solo.Playlist_ShowdownTournament_Gungame_Solo
+[Arsenal] /Game/Athena/Playlists/gg/Playlist_ShowdownTournament_Gg_Reverse.Playlist_ShowdownTournament_Gg_Reverse
+[Arsenal] /Game/Athena/Playlists/gg/Playlist_Gungame_Reverse_Squads.Playlist_Gungame_Reverse_Squads
+[Arsenal] /Game/Athena/Playlists/gg/Playlist_Gungame_Reverse.Playlist_Gungame_Reverse
+[Prototype Testing] /Game/Athena/Playlists/ItemTest/Playlist_ItemTest.Playlist_ItemTest
+[Party Royale] /Game/Athena/Playlists/Papaya/Playlist_Papaya.Playlist_Papaya
+[Party Royale] /Game/Athena/Playlists/Papaya/Playlist_Papaya_Hermes.Playlist_Papaya_Hermes
+[Party Royale] /Game/Athena/Playlists/Papaya/Playlist_PapayaSmall.Playlist_PapayaSmall
+[Party Royale] /Game/Athena/Playlists/Papaya/Playlist_PapayaBig.Playlist_PapayaBig
+[Creative] /Game/Athena/Playlists/Playground/Playlist_Playground.Playlist_Playground
+[Horde Rush] /Game/Athena/Playlists/Mash/Playlist_Mash_Squads_Legacy.Playlist_Mash_Squads_Legacy
+[Duo Rumble: Siphon] /Game/Athena/Playlists/Respawn/Variants/Respawn_Vamp/Playlist_Respawn_Vamp_Duos.Playlist_Respawn_Vamp_Duos
+[Team Rumble: Siphon] /Game/Athena/Playlists/Respawn/Variants/Respawn_Vamp/Playlist_Respawn_24_Vamp.Playlist_Respawn_24_Vamp
+[Solo Rumble: Siphon] /Game/Athena/Playlists/Respawn/Variants/Respawn_Vamp/Playlist_Respawn_Vamp_Solo.Playlist_Respawn_Vamp_Solo
+[Team Rumble: Unvaulted] /Game/Athena/Playlists/Respawn/Variants/Respawn_Unvaulted/Playlist_Respawn_24_Unvaulted.Playlist_Respawn_24_Unvaulted
+[Team Rumble: Solid Gold] /Game/Athena/Playlists/Respawn/Variants/Respawn_SolidGold/Playlist_Respawn_24_SolidGold.Playlist_Respawn_24_SolidGold
+[Team Rumble: One Shot] /Game/Athena/Playlists/Respawn/Variants/Respawn_Low/Playlist_Respawn_24_Low.Playlist_Respawn_24_Low
+[Team Rumble] /Game/Athena/Playlists/Respawn/Playlist_Respawn_24.Playlist_Respawn_24
+[NFL Rumble] /Game/Athena/Playlists/Omaha/Playlist_Omaha.Playlist_Omaha
+[Operation: Dropzone] /Game/Athena/Playlists/Respawn/Op/Playlist_Showdown_Respawn_Op.Playlist_Showdown_Respawn_Op
+[Operation: Dropzone] /Game/Athena/Playlists/Respawn/Op/Playlist_Rumble_Op_Playtest.Playlist_Rumble_Op_Playtest
+[Operation: Dropzone] /Game/Athena/Playlists/Respawn/Op/Playlist_Rumble_Op_12.Playlist_Rumble_Op_12
+[Operation: Dropzone] /Game/Athena/Playlists/Respawn/Op/Playlist_Rumble_Op_16.Playlist_Rumble_Op_16
+[Operation: Dropzone] /Game/Athena/Playlists/Respawn/Op/Playlist_Rumble_Op.Playlist_Rumble_Op
+[Bounty] /Game/Athena/Playlists/Wax/Playlist_Bounty_Solo.Playlist_Bounty_Solo
+[Bounty] /Game/Athena/Playlists/Wax/Playlist_Bounty_Squads.Playlist_Bounty_Squads
+[Bounty] /Game/Athena/Playlists/Wax/Playlist_Bounty_Duos.Playlist_Bounty_Duos
+[Ground Game] /Game/Athena/Playlists/Ground/Playlist_Ground_Squads.Playlist_Ground_Squads
+[Ground Game] /Game/Athena/Playlists/Ground/Playlist_Ground_Solo.Playlist_Ground_Solo
+[Ground Game] /Game/Athena/Playlists/Ground/Playlist_Ground_Trios.Playlist_Ground_Trios
+[Ground Game] /Game/Athena/Playlists/Ground/Playlist_Ground_Duos.Playlist_Ground_Duos
+[[PH] Skyfire Bots] /Skyfire/Playlists/Playlist_Skyfire_Squads_Bots.Playlist_Skyfire_Squads_Bots
+[[PH] Skyfire] /Skyfire/Playlists/Playlist_Skyfire_Trios.Playlist_Skyfire_Trios
+[[PH] Skyfire] /Skyfire/Playlists/Playlist_Skyfire_Solo.Playlist_Skyfire_Solo
+[[PH] Skyfire] /Skyfire/Playlists/Playlist_Skyfire_Duos.Playlist_Skyfire_Duos
+[[PH] Skyfire] /Skyfire/Playlists/Playlist_Skyfire_Squads.Playlist_Skyfire_Squads
+[IrwinTest100] /Lager/Tests/Playlists/Playlist_LagerIrwin100Test.Playlist_LagerIrwin100Test
+[LeadAlloy] /LeadAlloy/Playlists/Playlist_LeadAlloy_Duos.Playlist_LeadAlloy_Duos
+[The Floor is Lava] /Melt/Playlists/Playlist_ShowdownTournament_MeltBase_Duos.Playlist_ShowdownTournament_MeltBase_Duos
+[Grefg's Floor is Lava] /Melt/Playlists/Playlist_ShowdownTournament_Melt_Squads.Playlist_ShowdownTournament_Melt_Squads
+[[PH] Melt Tournament Test] /Melt/Playlists/Playlist_ShowdownTournament_Melt_Squads_Test.Playlist_ShowdownTournament_Melt_Squads_Test
+[[PH] Melt Tournament Test] /Melt/Playlists/Playlist_ShowdownTournament_Melt_Solo_Test.Playlist_ShowdownTournament_Melt_Solo_Test
+[The Floor is Lava] /Melt/Playlists/Playlist_Melt_Squads.Playlist_Melt_Squads
+[Grefg's Floor is Lava] /Melt/Playlists/Playlist_ShowdownTournament_Melt_Solo.Playlist_ShowdownTournament_Melt_Solo
+[The Floor is Lava] /Melt/Playlists/Playlist_ShowdownTournament_MeltBase_Trios.Playlist_ShowdownTournament_MeltBase_Trios
+[The Floor is Lava] /Melt/Playlists/Playlist_ShowdownTournament_MeltBase_Squads.Playlist_ShowdownTournament_MeltBase_Squads
+[The Floor is Lava] /Melt/Playlists/Playlist_ShowdownTournament_MeltBase_Solo.Playlist_ShowdownTournament_MeltBase_Solo
+[The Floor is Lava] /Melt/Playlists/Playlist_Melt_Trios.Playlist_Melt_Trios
+[[PH]Melt] /Melt/Playlists/Playlist_Melt.Playlist_Melt
+[The Floor is Lava] /Melt/Playlists/Playlist_Melt_Solo.Playlist_Melt_Solo
+[The Floor is Lava] /Melt/Playlists/Playlist_Melt_Duos.Playlist_Melt_Duos
+[Floor is Lava Disarmed] /Melt/Playlists/Playlist_MeltDisarmed_Trios.Playlist_MeltDisarmed_Trios
+[Floor is Lava Disarmed] /Melt/Playlists/Playlist_MeltDisarmed_Squads.Playlist_MeltDisarmed_Squads
+[Floor is Lava Disarmed] /Melt/Playlists/Playlist_MeltDisarmed_Solo.Playlist_MeltDisarmed_Solo
+[Floor is Lava Disarmed] /Melt/Playlists/Playlist_MeltDisarmed_Duos.Playlist_MeltDisarmed_Duos
+[Dropwave] /Phosphorus/Playlists/Playlist_Phosphorus_Solo.Playlist_Phosphorus_Solo
+[Dropwave] /Phosphorus/Playlists/Playlist_Phosphorus_Squads.Playlist_Phosphorus_Squads
+[Dropwave] /Phosphorus/Playlists/Playlist_Phosphorus_Duos.Playlist_Phosphorus_Duos
+[Shockwave] /PhosphorusWipeout/Playlists/Playlist_PhosphorusWipeout_Duos.Playlist_PhosphorusWipeout_Duos
+[Shockwave] /PhosphorusWipeout/Playlists/Playlist_PhosphorusWipeout_Trios.Playlist_PhosphorusWipeout_Trios
+[Shockwave] /PhosphorusWipeout/Playlists/Playlist_PhosphorusWipeout_Squads.Playlist_PhosphorusWipeout_Squads
+[Shockwave] /PhosphorusWipeout/Playlists/Playlist_PhosphorusWipeout_Solo.Playlist_PhosphorusWipeout_Solo
+[Mando's Bounty] /Vendetta/Playlists/Playlist_Vendetta_Duos.Playlist_Vendetta_Duos
+[Mando's Bounty] /Vendetta/Playlists/Playlist_Vendetta_Trios.Playlist_Vendetta_Trios
+[Mando's Bounty] /Vendetta/Playlists/Playlist_Vendetta_Squads.Playlist_Vendetta_Squads
+[Mando's Bounty] /Vendetta/Playlists/Playlist_Vendetta_Solo.Playlist_Vendetta_Solo
+[[PH] Vendetta Trios] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Trios_Test.Playlist_ShowdownTournament_Vendetta_Trios_Test
+[Mando's Bounty] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Trios.Playlist_ShowdownTournament_Vendetta_Trios
+[[PH] Vendetta Squads] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Squads_Test.Playlist_ShowdownTournament_Vendetta_Squads_Test
+[[PH] Vendetta Solo] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Solo_Test.Playlist_ShowdownTournament_Vendetta_Solo_Test
+[Mando's Bounty] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Squads.Playlist_ShowdownTournament_Vendetta_Squads
+[Mando's Bounty] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Solo.Playlist_ShowdownTournament_Vendetta_Solo
+[[PH] Vendetta Duos] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Duos_Test.Playlist_ShowdownTournament_Vendetta_Duos_Test
+[Mando's Bounty] /Vendetta/Playlists/Playlist_ShowdownTournament_Vendetta_Duos.Playlist_ShowdownTournament_Vendetta_Duos
+[[PH] VIP Rumble] /Bodyguard/Playlists/Playlist_Bodyguard_Rumble.Playlist_Bodyguard_Rumble
+[Bodyguard] /Bodyguard/Playlists/Playlist_Bodyguard_Squads.Playlist_Bodyguard_Squads
+[Bodyguard] /Bodyguard/Playlists/Playlist_Bodyguard_Trios.Playlist_Bodyguard_Trios
+[Bodyguard Squads Respawn] /Bodyguard/Playlists/Playlist_Bodyguard_Squads_Respawn.Playlist_Bodyguard_Squads_Respawn
+[Bodyguard] /Bodyguard/Playlists/Playlist_Bodyguard_Duos.Playlist_Bodyguard_Duos
+[Takeover 4v4] /Hydrogen/Playlists/Playlist_Hydrogen_8.Playlist_Hydrogen_8
+[Takeover] /Hydrogen/Playlists/Playlist_Hydrogen_24.Playlist_Hydrogen_24
+[Takeover] /Hydrogen/Playlists/Playlist_Hydrogen_32.Playlist_Hydrogen_32
+[Takeover] /Hydrogen/Playlists/Playlist_Hydrogen_16.Playlist_Hydrogen_16
+[Impostors] /MoleGame/Playlists/Playlist_MoleGame.Playlist_MoleGame
+[Comeback] /Rebirth/Playlists/Playlist_ShowdownTournament_Rebirth_Solo.Playlist_ShowdownTournament_Rebirth_Solo
+[Comeback] /Rebirth/Playlists/Playlist_Rebirth_Squads.Playlist_Rebirth_Squads
+[Comeback] /Rebirth/Playlists/Playlist_Rebirth_Solo.Playlist_Rebirth_Solo
+[Comeback] /Rebirth/Playlists/Playlist_Rebirth_Trios.Playlist_Rebirth_Trios
+[Comeback] /Rebirth/Playlists/Playlist_Rebirth_Duos.Playlist_Rebirth_Duos
+[Operation: Sky Fire] /KiwiPlaylist/Playlists/Playlist_Kiwi_Test.Playlist_Kiwi_Test
+[Operation: Sky Fire] /KiwiPlaylist/Playlists/Playlist_Kiwi.Playlist_Kiwi
