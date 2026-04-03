@@ -1,0 +1,473 @@
+[0][ Save the World] : FortPlaylistAthena /Game/Athena/Playlists/Campaign/Campaign.Campaign
+[1][ Solo] : FortPlaylistAthena /Game/Athena/Playlists/Playlist_DefaultPIE.Playlist_DefaultPIE
+[2][ Creative] : FortPlaylistAthena /CreativeCore/Playlists/Playlist_Playground.Playlist_Playground
+[3][ Creative] : FortPlaylistAthena /CreativeCore/Playlists/Playlist_PlaygroundV2.Playlist_PlaygroundV2
+[4][ CREATIVE MATCHMAKING] : FortPlaylistAthena /CreativeCore/Playlists/Creative_PlayOnlyPlaylists/Playlist_Creative_Play_V2.Playlist_Creative_Play_V2
+[5][ Play Session] : FortPlaylistAthena /VKPlay/Playlists/Playlist_VK_Play.Playlist_VK_Play
+[6][ UEFN Session] : FortPlaylistAthena /VKEdit/Playlists/Playlist_VK_Edit.Playlist_VK_Edit
+[7][ Squads] : FortPlaylistAthena /Deliver/Playlists/Playlist_Deliver_Squads.Playlist_Deliver_Squads
+[8][ Ship It! Express] : FortPlaylistAthena /Deliver/Playlists/Playlist_Deliver_Squads_ZB.Playlist_Deliver_Squads_ZB
+[9][ Locomotion Initiative] : FortPlaylistAthena /LocomotionInitiative/Playlists/Playlist_LocomotionInitiative.Playlist_LocomotionInitiative
+[10][ Festival Jam Stage] : FortPlaylistAthena /SparksLobby/Playlist/Playlist_FMClubIsland.Playlist_FMClubIsland
+[11][ Festival Main Stage] : FortPlaylistAthena /SparksLobby/Playlist/Playlist_PilgrimQuickplay.Playlist_PilgrimQuickplay
+[12][ Festival Battle Stage] : FortPlaylistAthena /SparksLobby/Playlist/Playlist_PilgrimBattleStage.Playlist_PilgrimBattleStage
+[13][ Party Royale] : FortPlaylistAthena /PapayaGameplay/Athena/Playlists/Papaya/Playlist_Papaya.Playlist_Papaya
+[14][ Contextual Action Proto] : FortPlaylistAthena /ContextualActionContent/Playlists/Playlist_ContextualActionProto.Playlist_ContextualActionProto
+[15][ beantest] : FortPlaylistAthena /Beanstalk/Playlist_Beanstalk.Playlist_Beanstalk
+[16][ Del Mar - Speed Run Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_SpeedRun_Advanced_Root.Playlist_DelMar_SpeedRun_Advanced_Root
+[17][ Del Mar - Speed Run Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_SpeedRun_Root_Temp.Playlist_DelMar_SpeedRun_Root_Temp
+[18][ Del Mar - Speed Run Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_SpeedRun_Root.Playlist_DelMar_SpeedRun_Root
+[19][ Del Mar - Speed Run Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_SpeedRun_Standard_Root.Playlist_DelMar_SpeedRun_Standard_Root
+[20][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_RankedTest_Root.Playlist_DelMar_RankedTest_Root
+[21][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_Racing_Root_Temp.Playlist_DelMar_Racing_Root_Temp
+[22][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_Ranked_Root_Temp.Playlist_DelMar_Ranked_Root_Temp
+[23][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_Ranked_Root.Playlist_DelMar_Ranked_Root
+[24][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Competitive.Playlist_DelMar_Competitive
+[25][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Competitive_Alternate.Playlist_DelMar_Competitive_Alternate
+[26][ Del Mar] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar.Playlist_DelMar
+[27][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Challenge.Playlist_DelMar_Challenge
+[28][ Del Mar - Death Race Mode] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_DeathRace.Playlist_DelMar_DeathRace
+[29][ Del Mar - Perf Test 01] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Competitive_PerfTest01.Playlist_DelMar_Competitive_PerfTest01
+[30][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Competitive_Rotation.Playlist_DelMar_Competitive_Rotation
+[31][ Del Mar - Easy Rider] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Competitive_EasyRider.Playlist_DelMar_Competitive_EasyRider
+[32][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Limited.Playlist_DelMar_Limited
+[33][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Habanero_Competitive.Playlist_DelMar_Habanero_Competitive
+[34][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Habanero_Competitive_Alternate.Playlist_DelMar_Habanero_Competitive_Alternate
+[35][ Del Mar - Tutorials] : FortPlaylistAthena /DelMarCore/Playlists/Playlist_DelMar_Tutorial.Playlist_DelMar_Tutorial
+[36][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Apollo_Ranked.Playlist_DelMar_Apollo_Ranked
+[37][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Aqueduct.Playlist_DelMar_Aqueduct
+[38][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Alpine.Playlist_DelMar_Alpine
+[39][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Borealis.Playlist_DelMar_Borealis
+[40][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze01Adv_Ranked.Playlist_DelMar_Bronze01Adv_Ranked
+[41][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze01_Ranked.Playlist_DelMar_Bronze01_Ranked
+[42][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze02Adv_Ranked.Playlist_DelMar_Bronze02Adv_Ranked
+[43][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze02Adv_Racing.Playlist_DelMar_Bronze02Adv_Racing
+[44][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze02_NUX.Playlist_DelMar_Bronze02_NUX
+[45][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze01Adv_Racing.Playlist_DelMar_Bronze01Adv_Racing
+[46][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze03_Racing.Playlist_DelMar_Bronze03_Racing
+[47][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze03Adv_Racing.Playlist_DelMar_Bronze03Adv_Racing
+[48][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze04_Racing.Playlist_DelMar_Bronze04_Racing
+[49][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze04Adv_Ranked.Playlist_DelMar_Bronze04Adv_Ranked
+[50][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze03_NUX.Playlist_DelMar_Bronze03_NUX
+[51][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze06_NUX.Playlist_DelMar_Bronze06_NUX
+[52][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze04_Ranked.Playlist_DelMar_Bronze04_Ranked
+[53][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze06_Ranked.Playlist_DelMar_Bronze06_Ranked
+[54][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze06_Racing.Playlist_DelMar_Bronze06_Racing
+[55][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09Drifting_NUX.Playlist_DelMar_Bronze09Drifting_NUX
+[56][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze07.Playlist_DelMar_Bronze07
+[57][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze06Adv_Ranked.Playlist_DelMar_Bronze06Adv_Ranked
+[58][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze06Adv_Racing.Playlist_DelMar_Bronze06Adv_Racing
+[59][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09Drifting_Racing.Playlist_DelMar_Bronze09Drifting_Racing
+[60][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09DriftingAdv_Ranked.Playlist_DelMar_Bronze09DriftingAdv_Ranked
+[61][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09Flying_Racing.Playlist_DelMar_Bronze09Flying_Racing
+[62][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09DriftingAdv_Racing.Playlist_DelMar_Bronze09DriftingAdv_Racing
+[63][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze10_NUX.Playlist_DelMar_Bronze10_NUX
+[64][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09FlyingAdv_Racing.Playlist_DelMar_Bronze09FlyingAdv_Racing
+[65][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09Flying_Ranked.Playlist_DelMar_Bronze09Flying_Ranked
+[66][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze10_Racing.Playlist_DelMar_Bronze10_Racing
+[67][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09FlyingAdv_Ranked.Playlist_DelMar_Bronze09FlyingAdv_Ranked
+[68][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze10Adv_Racing.Playlist_DelMar_Bronze10Adv_Racing
+[69][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze10_Ranked.Playlist_DelMar_Bronze10_Ranked
+[70][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_CoralCove.Playlist_DelMar_CoralCove
+[71][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Cascade.Playlist_DelMar_Cascade
+[72][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_DifficultTrack.Playlist_DelMar_DifficultTrack
+[73][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Cruise.Playlist_DelMar_Cruise
+[74][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_GoldRush.Playlist_DelMar_GoldRush
+[75][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Driftmania_Ranked.Playlist_DelMar_Driftmania_Ranked
+[76][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Driftmania_Racing.Playlist_DelMar_Driftmania_Racing
+[77][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Draino_Racing.Playlist_DelMar_Draino_Racing
+[78][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Infinity_Racing.Playlist_DelMar_Infinity_Racing
+[79][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Hydra_Racing.Playlist_DelMar_Hydra_Racing
+[80][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Iron.Playlist_DelMar_Iron
+[81][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Infinity_Ranked.Playlist_DelMar_Infinity_Ranked
+[82][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_JackRabbit_Ranked.Playlist_DelMar_JackRabbit_Ranked
+[83][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_JackRabbit_Racing.Playlist_DelMar_JackRabbit_Racing
+[84][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Kickflip_Racing.Playlist_DelMar_Kickflip_Racing
+[85][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Jumper_Racing.Playlist_DelMar_Jumper_Racing
+[86][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_NUXJumper_Racing.Playlist_DelMar_NUXJumper_Racing
+[87][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_NUXJumper_Ranked.Playlist_DelMar_NUXJumper_Ranked
+[88][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_NUXJumper_NUX.Playlist_DelMar_NUXJumper_NUX
+[89][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Kickflip_Ranked.Playlist_DelMar_Kickflip_Ranked
+[90][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Ouroboros_Ranked.Playlist_DelMar_Ouroboros_Ranked
+[91][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Olympus_Ranked.Playlist_DelMar_Olympus_Ranked
+[92][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Ouroboros_Racing.Playlist_DelMar_Ouroboros_Racing
+[93][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Olympus_Racing.Playlist_DelMar_Olympus_Racing
+[94][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_OuroborosAdv_Racing.Playlist_DelMar_OuroborosAdv_Racing
+[95][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Phoenix_Ranked.Playlist_DelMar_Phoenix_Ranked
+[96][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_OuroborosAdv_Ranked.Playlist_DelMar_OuroborosAdv_Ranked
+[97][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Phoenix_Racing.Playlist_DelMar_Phoenix_Racing
+[98][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_PirateAdventure.Playlist_DelMar_PirateAdventure
+[99][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Rally_Ranked.Playlist_DelMar_Rally_Ranked
+[100][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Poseidon_Racing.Playlist_DelMar_Poseidon_Racing
+[101][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Poseidon_Ranked.Playlist_DelMar_Poseidon_Ranked
+[102][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Riviera_Racing.Playlist_DelMar_Riviera_Racing
+[103][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_RallyAdv_Racing.Playlist_DelMar_RallyAdv_Racing
+[104][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Riviera_Ranked.Playlist_DelMar_Riviera_Ranked
+[105][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_RallyAdv_Ranked.Playlist_DelMar_RallyAdv_Ranked
+[106][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_RoundTwoEasy.Playlist_DelMar_RoundTwoEasy
+[107][ Del Mar - Tutorials] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Seamless_Tutorial.Playlist_DelMar_Seamless_Tutorial
+[108][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Snap_Racing.Playlist_DelMar_Snap_Racing
+[109][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Sidewinder_Racing.Playlist_DelMar_Sidewinder_Racing
+[110][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Sidewinder_Ranked.Playlist_DelMar_Sidewinder_Ranked
+[111][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Snap_Ranked.Playlist_DelMar_Snap_Ranked
+[112][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Twister.Playlist_DelMar_Twister
+[113][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_SweetJumps_Ranked.Playlist_DelMar_SweetJumps_Ranked
+[114][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Bronze09Flying_SpeedRun.Playlist_DelMar_Bronze09Flying_SpeedRun
+[115][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Bronze06_SpeedRun.Playlist_DelMar_Bronze06_SpeedRun
+[116][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Turbine_Ranked.Playlist_DelMar_Turbine_Ranked
+[117][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Apollo2_SpeedRun.Playlist_DelMar_Apollo2_SpeedRun
+[118][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Sidewinder_SpeedRun.Playlist_DelMar_Sidewinder_SpeedRun
+[119][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Riviera_SpeedRun.Playlist_DelMar_Riviera_SpeedRun
+[120][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Olympus_SpeedRun.Playlist_DelMar_Olympus_SpeedRun
+[121][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Driftmania_SpeedRun.Playlist_DelMar_Driftmania_SpeedRun
+[122][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Habanero_Competitive_QA_3.Playlist_DelMar_Habanero_Competitive_QA_3
+[123][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Root/Playlist_DelMar_Racing_Root.Playlist_DelMar_Racing_Root
+[124][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Snap2_SpeedRun.Playlist_DelMar_Snap2_SpeedRun
+[125][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Habanero_Competitive_QA_1.Playlist_DelMar_Habanero_Competitive_QA_1
+[126][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Habanero_Competitive_QA_2.Playlist_DelMar_Habanero_Competitive_QA_2
+[127][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_9.Playlist_DelMar_Competitive_QA_9
+[128][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_10.Playlist_DelMar_Competitive_QA_10
+[129][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_6.Playlist_DelMar_Competitive_QA_6
+[130][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_8.Playlist_DelMar_Competitive_QA_8
+[131][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_4.Playlist_DelMar_Competitive_QA_4
+[132][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_5.Playlist_DelMar_Competitive_QA_5
+[133][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_2.Playlist_DelMar_Competitive_QA_2
+[134][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_3.Playlist_DelMar_Competitive_QA_3
+[135][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_10.Playlist_DelMar_Challenge_QA_10
+[136][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_1.Playlist_DelMar_Competitive_QA_1
+[137][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_2.Playlist_DelMar_Challenge_QA_2
+[138][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_1.Playlist_DelMar_Challenge_QA_1
+[139][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_6.Playlist_DelMar_Challenge_QA_6
+[140][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_7.Playlist_DelMar_Challenge_QA_7
+[141][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_3.Playlist_DelMar_Challenge_QA_3
+[142][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_5.Playlist_DelMar_Challenge_QA_5
+[143][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_4.Playlist_DelMar_Challenge_QA_4
+[144][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze01_Racing.Playlist_DelMar_Bronze01_Racing
+[145][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Apollo_Racing.Playlist_DelMar_Apollo_Racing
+[146][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/COD/Playlist_DelMar_Competitive_COD_1.Playlist_DelMar_Competitive_COD_1
+[147][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze03_Ranked.Playlist_DelMar_Bronze03_Ranked
+[148][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Cave.Playlist_DelMar_Cave
+[149][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze03Adv_Ranked.Playlist_DelMar_Bronze03Adv_Ranked
+[150][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze08.Playlist_DelMar_Bronze08
+[151][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Mobius.Playlist_DelMar_Mobius
+[152][ Del Mar - Competitive Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Competitive_QA_7.Playlist_DelMar_Competitive_QA_7
+[153][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Bronze01_SpeedRun.Playlist_DelMar_Bronze01_SpeedRun
+[154][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09Flying_NUX.Playlist_DelMar_Bronze09Flying_NUX
+[155][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Turbine_Racing.Playlist_DelMar_Turbine_Racing
+[156][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Hydra2_Racing.Playlist_DelMar_Hydra2_Racing
+[157][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/SpeedRun/Playlist_DelMar_Bronze10_SpeedRun.Playlist_DelMar_Bronze10_SpeedRun
+[158][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_SweetJumps_Racing.Playlist_DelMar_SweetJumps_Racing
+[159][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze04Adv_Racing.Playlist_DelMar_Bronze04Adv_Racing
+[160][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze02_Ranked.Playlist_DelMar_Bronze02_Ranked
+[161][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze02_Racing.Playlist_DelMar_Bronze02_Racing
+[162][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Hydra2_Ranked.Playlist_DelMar_Hydra2_Ranked
+[163][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Draino_Ranked.Playlist_DelMar_Draino_Ranked
+[164][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze10Adv_Ranked.Playlist_DelMar_Bronze10Adv_Ranked
+[165][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Bronze09Drifting_Ranked.Playlist_DelMar_Bronze09Drifting_Ranked
+[166][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Jumper_Ranked.Playlist_DelMar_Jumper_Ranked
+[167][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Hydra_Ranked.Playlist_DelMar_Hydra_Ranked
+[168][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_9.Playlist_DelMar_Challenge_QA_9
+[169][ Del Mar - Competitive Rotation] : FortPlaylistAthena /DelMarCore/Playlists/Levels/Playlist_DelMar_Rally_Racing.Playlist_DelMar_Rally_Racing
+[170][ Del Mar - Challenge Mode] : FortPlaylistAthena /DelMarCore/Playlists/QA_Playlists/Playlist_DelMar_Challenge_QA_8.Playlist_DelMar_Challenge_QA_8
+[171][ Solo] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Ranked/Playlist_Habanero_ClydeSolo_S1.Playlist_Habanero_ClydeSolo_S1
+[172][ Solo] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Ranked/Playlist_Habanero_ClydeSolo_S2.Playlist_Habanero_ClydeSolo_S2
+[173][ Solo] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Ranked/Playlist_Habanero_ClydeSolo_S2P2.Playlist_Habanero_ClydeSolo_S2P2
+[174][ Solo] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Ranked/Playlist_Habanero_ClydeSolo_S3.Playlist_Habanero_ClydeSolo_S3
+[175][ Trios] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Ranked/Playlist_Habanero_ClydeTrio_S1.Playlist_Habanero_ClydeTrio_S1
+[176][ Trios] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Ranked/Playlist_Habanero_ClydeTrio_S3.Playlist_Habanero_ClydeTrio_S3
+[177][ Trios] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Ranked/Playlist_Habanero_ClydeTrio_S2.Playlist_Habanero_ClydeTrio_S2
+[178][ Trios] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Ranked/Playlist_Habanero_ClydeTrio_S2P2.Playlist_Habanero_ClydeTrio_S2P2
+[179][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Bots/Playlist_Bots_ClydeSquadNoBuild_S2.Playlist_Bots_ClydeSquadNoBuild_S2
+[180][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Playlist_ClydeSquadNoBuild_S1.Playlist_ClydeSquadNoBuild_S1
+[181][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Bots/Playlist_Bots_ClydeSquadNoBuild_S2P2.Playlist_Bots_ClydeSquadNoBuild_S2P2
+[182][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Bots/Playlist_Bots_ClydeSquadNoBuild_S3.Playlist_Bots_ClydeSquadNoBuild_S3
+[183][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Playlist_ClydeSquadNoBuild_S3.Playlist_ClydeSquadNoBuild_S3
+[184][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Playlist_ClydeSquadNoBuild_S2P2.Playlist_ClydeSquadNoBuild_S2P2
+[185][ Zero Build - Squads] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_NoBuild_CTS_Squads.Playlist_Showdown_Clyde_NoBuild_CTS_Squads
+[186][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Bots/Playlist_Bots_ClydeSquadNoBuild_S1.Playlist_Bots_ClydeSquadNoBuild_S1
+[187][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Playlist_ClydeSquadNoBuild_S2.Playlist_ClydeSquadNoBuild_S2
+[188][ Squads] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Ranked/Playlist_Habanero_ClydeSquad_S2.Playlist_Habanero_ClydeSquad_S2
+[189][ Squads] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Ranked/Playlist_Habanero_ClydeSquad_S1.Playlist_Habanero_ClydeSquad_S1
+[190][ Squads] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Ranked/Playlist_Habanero_ClydeSquad_S2P2.Playlist_Habanero_ClydeSquad_S2P2
+[191][ Squads] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Ranked/Playlist_Habanero_ClydeSquad_S3.Playlist_Habanero_ClydeSquad_S3
+[192][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/Playlist_ShowdownTournament_Clyde_NoBuild_Trios.Playlist_ShowdownTournament_Clyde_NoBuild_Trios
+[193][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Playlist_ClydeTrioNoBuild_S2.Playlist_ClydeTrioNoBuild_S2
+[194][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_NoBuild_CTS_Trios.Playlist_Showdown_Clyde_NoBuild_CTS_Trios
+[195][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Playlist_ClydeTrioNoBuild_S1.Playlist_ClydeTrioNoBuild_S1
+[196][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Bots/Playlist_Bots_ClydeTrioNoBuild_S2P2.Playlist_Bots_ClydeTrioNoBuild_S2P2
+[197][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Bots/Playlist_Bots_ClydeTrioNoBuild_S2.Playlist_Bots_ClydeTrioNoBuild_S2
+[198][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Bots/Playlist_Bots_ClydeTrioNoBuild_S1.Playlist_Bots_ClydeTrioNoBuild_S1
+[199][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Playlist_ClydeTrioNoBuild_S2P2.Playlist_ClydeTrioNoBuild_S2P2
+[200][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Playlist_ClydeTrioNoBuild_S3.Playlist_ClydeTrioNoBuild_S3
+[201][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/RankedCups/Playlist_ShowdownTournament_Clyde_NoBuild_RC_Trios.Playlist_ShowdownTournament_Clyde_NoBuild_RC_Trios
+[202][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Bots/Playlist_Bots_ClydeTrioNoBuild_S3.Playlist_Bots_ClydeTrioNoBuild_S3
+[203][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Bots/Playlist_Bots_ClydeTrios_S1.Playlist_Bots_ClydeTrios_S1
+[204][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/RankedCups/Playlist_ShowdownTournament_Clyde_RC_Trios.Playlist_ShowdownTournament_Clyde_RC_Trios
+[205][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Playlist_ClydeTrio_S1.Playlist_ClydeTrio_S1
+[206][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Bots/Playlist_Bots_ClydeTrio_S2P2.Playlist_Bots_ClydeTrio_S2P2
+[207][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Bots/Playlist_Bots_ClydeTrio_S3.Playlist_Bots_ClydeTrio_S3
+[208][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Playlist_ClydeTrio_S3.Playlist_ClydeTrio_S3
+[209][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/Playlist_ShowdownTournament_Clyde_Trios.Playlist_ShowdownTournament_Clyde_Trios
+[210][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_CTS_Trios.Playlist_Showdown_Clyde_CTS_Trios
+[211][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Playlist_ClydeTrio_S2.Playlist_ClydeTrio_S2
+[212][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Playlist_ClydeTrio_S2P2.Playlist_ClydeTrio_S2P2
+[213][ BATTLE ROYALE TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Bots/Playlist_Bots_ClydeTrio_S2.Playlist_Bots_ClydeTrio_S2
+[214][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Ranked/Playlist_ClydeDuoNoBuild_Habanero_S1.Playlist_ClydeDuoNoBuild_Habanero_S1
+[215][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Ranked/Playlist_ClydeDuoNoBuild_Habanero_S2.Playlist_ClydeDuoNoBuild_Habanero_S2
+[216][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Ranked/Playlist_ClydeDuoNoBuild_Habanero_S2P2.Playlist_ClydeDuoNoBuild_Habanero_S2P2
+[217][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Ranked/Playlist_ClydeDuoNoBuild_Habanero_S3.Playlist_ClydeDuoNoBuild_Habanero_S3
+[218][ Duos] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Ranked/Playlist_Habanero_ClydeDuo_S2.Playlist_Habanero_ClydeDuo_S2
+[219][ Duos] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Ranked/Playlist_Habanero_ClydeDuo_S1.Playlist_Habanero_ClydeDuo_S1
+[220][ Duos] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Ranked/Playlist_Habanero_ClydeDuo_S3.Playlist_Habanero_ClydeDuo_S3
+[221][ Duos] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Ranked/Playlist_Habanero_ClydeDuo_S2P2.Playlist_Habanero_ClydeDuo_S2P2
+[222][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Bots/Playlist_Bots_ClydeDuo_S1.Playlist_Bots_ClydeDuo_S1
+[223][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Playlist_ClydeDuo_S1.Playlist_ClydeDuo_S1
+[224][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Playlist_ClydeDuo_S2.Playlist_ClydeDuo_S2
+[225][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Playlist_ClydeDuo_S2P2.Playlist_ClydeDuo_S2P2
+[226][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Playlist_ClydeDuo_S3.Playlist_ClydeDuo_S3
+[227][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Bots/Playlist_Bots_ClydeDuo_S2P2.Playlist_Bots_ClydeDuo_S2P2
+[228][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Bots/Playlist_Bots_ClydeDuo_S3.Playlist_Bots_ClydeDuo_S3
+[229][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_CTS_Duos.Playlist_Showdown_Clyde_CTS_Duos
+[230][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/Playlist_ShowdownTournament_Clyde_Duos.Playlist_ShowdownTournament_Clyde_Duos
+[231][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/RankedCups/Playlist_ShowdownTournament_Clyde_RC_Duos.Playlist_ShowdownTournament_Clyde_RC_Duos
+[232][ BATTLE ROYALE  DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Bots/Playlist_Bots_ClydeDuo_S2.Playlist_Bots_ClydeDuo_S2
+[233][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Playlist_ClydeSquad_S1.Playlist_ClydeSquad_S1
+[234][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Bots/Playlist_Bots_ClydeSquad_S1.Playlist_Bots_ClydeSquad_S1
+[235][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Bots/Playlist_Bots_ClydeSquad_S2.Playlist_Bots_ClydeSquad_S2
+[236][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Playlist_ClydeSquad_S2.Playlist_ClydeSquad_S2
+[237][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Playlist_ClydeSquad_S3.Playlist_ClydeSquad_S3
+[238][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Playlist_ClydeSquad_S2P2.Playlist_ClydeSquad_S2P2
+[239][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Bots/Playlist_Bots_ClydeSquad_S3.Playlist_Bots_ClydeSquad_S3
+[240][ Squads] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_CTS_Squads.Playlist_Showdown_Clyde_CTS_Squads
+[241][ BATTLE ROYALE SQUAD] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Bots/Playlist_Bots_ClydeSquad_S2P2.Playlist_Bots_ClydeSquad_S2P2
+[242][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Playlist_ClydeSoloNoBuild_S1.Playlist_ClydeSoloNoBuild_S1
+[243][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Playlist_ClydeSoloNoBuild_S2.Playlist_ClydeSoloNoBuild_S2
+[244][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Bots/Playlist_Bots_ClydeSoloNoBuild_S1.Playlist_Bots_ClydeSoloNoBuild_S1
+[245][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Bots/Playlist_Bots_ClydeSoloNoBuild_S2.Playlist_Bots_ClydeSoloNoBuild_S2
+[246][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Bots/Playlist_Bots_ClydeSoloNoBuild_S2P2.Playlist_Bots_ClydeSoloNoBuild_S2P2
+[247][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Playlist_ClydeSoloNoBuild_S2P2.Playlist_ClydeSoloNoBuild_S2P2
+[248][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Bots/Playlist_Bots_ClydeSoloNoBuild_S3.Playlist_Bots_ClydeSoloNoBuild_S3
+[249][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Playlist_ClydeSoloNoBuild_S3.Playlist_ClydeSoloNoBuild_S3
+[250][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/Playlist_ShowdownTournament_Clyde_NoBuild_Solo.Playlist_ShowdownTournament_Clyde_NoBuild_Solo
+[251][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_NoBuild_CTS_Solo.Playlist_Showdown_Clyde_NoBuild_CTS_Solo
+[252][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/RankedCups/Playlist_ShowdownTournament_Clyde_NoBuild_RC_Solo.Playlist_ShowdownTournament_Clyde_NoBuild_RC_Solo
+[253][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Ranked/Playlist_ClydeTrioNoBuild_Habanero_S2.Playlist_ClydeTrioNoBuild_Habanero_S2
+[254][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Ranked/Playlist_ClydeTrioNoBuild_Habanero_S1.Playlist_ClydeTrioNoBuild_Habanero_S1
+[255][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Ranked/Playlist_ClydeTrioNoBuild_Habanero_S3.Playlist_ClydeTrioNoBuild_Habanero_S3
+[256][ BATTLE ROYALE NO BUILD TRIOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Ranked/Playlist_ClydeTrioNoBuild_Habanero_S2P2.Playlist_ClydeTrioNoBuild_Habanero_S2P2
+[257][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Ranked/Playlist_ClydeSquadNoBuild_Habanero_S1.Playlist_ClydeSquadNoBuild_Habanero_S1
+[258][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Ranked/Playlist_ClydeSquadNoBuild_Habanero_S2P2.Playlist_ClydeSquadNoBuild_Habanero_S2P2
+[259][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Ranked/Playlist_ClydeSquadNoBuild_Habanero_S3.Playlist_ClydeSquadNoBuild_Habanero_S3
+[260][ BATTLE ROYALE NO BUILD SQUADS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Ranked/Playlist_ClydeSquadNoBuild_Habanero_S2.Playlist_ClydeSquadNoBuild_Habanero_S2
+[261][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Ranked/Playlist_ClydeSoloNoBuild_Habanero_S1.Playlist_ClydeSoloNoBuild_Habanero_S1
+[262][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Ranked/Playlist_ClydeSoloNoBuild_Habanero_S2.Playlist_ClydeSoloNoBuild_Habanero_S2
+[263][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Ranked/Playlist_ClydeSoloNoBuild_Habanero_S2P2.Playlist_ClydeSoloNoBuild_Habanero_S2P2
+[264][ BATTLE ROYALE NO BUILD SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Ranked/Playlist_ClydeSoloNoBuild_Habanero_S3.Playlist_ClydeSoloNoBuild_Habanero_S3
+[265][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Bots/Playlist_Bots_ClydeDuoNoBuild_S1.Playlist_Bots_ClydeDuoNoBuild_S1
+[266][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S1/Playlist_ClydeDuoNoBuild_S1.Playlist_ClydeDuoNoBuild_S1
+[267][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Playlist_ClydeDuoNoBuild_S2P2.Playlist_ClydeDuoNoBuild_S2P2
+[268][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Bots/Playlist_Bots_ClydeDuoNoBuild_S2.Playlist_Bots_ClydeDuoNoBuild_S2
+[269][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2P2/Bots/Playlist_Bots_ClydeDuoNoBuild_S2P2.Playlist_Bots_ClydeDuoNoBuild_S2P2
+[270][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Bots/Playlist_Bots_ClydeDuoNoBuild_S3.Playlist_Bots_ClydeDuoNoBuild_S3
+[271][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S3/Playlist_ClydeDuoNoBuild_S3.Playlist_ClydeDuoNoBuild_S3
+[272][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/Playlist_ShowdownTournament_Clyde_NoBuild_Duos.Playlist_ShowdownTournament_Clyde_NoBuild_Duos
+[273][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_NoBuild_CTS_Duos.Playlist_Showdown_Clyde_NoBuild_CTS_Duos
+[274][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/RankedCups/Playlist_ShowdownTournament_Clyde_NoBuild_RC_Duos.Playlist_ShowdownTournament_Clyde_NoBuild_RC_Duos
+[275][ BATTLE ROYALE NO BUILD DUOS] : FortPlaylistAthena /Clyde/Playlist/BR_NoBuild/ClydeNoBuild_S2/Playlist_ClydeDuoNoBuild_S2.Playlist_ClydeDuoNoBuild_S2
+[276][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Playlist_ClydeSolo_S1.Playlist_ClydeSolo_S1
+[277][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/RankedCups/Playlist_ShowdownTournament_Clyde_RC_Solo.Playlist_ShowdownTournament_Clyde_RC_Solo
+[278][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Playlist_ClydeSolo_S2.Playlist_ClydeSolo_S2
+[279][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S1/Bots/Playlist_Bots_ClydeSolo_S1.Playlist_Bots_ClydeSolo_S1
+[280][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2/Bots/Playlist_Bots_ClydeSolo_S2.Playlist_Bots_ClydeSolo_S2
+[281][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Playlist_ClydeSolo_S2P2.Playlist_ClydeSolo_S2P2
+[282][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S2P2/Bots/Playlist_Bots_ClydeSolo_S2P2.Playlist_Bots_ClydeSolo_S2P2
+[283][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Bots/Playlist_Bots_ClydeSolo_S3.Playlist_Bots_ClydeSolo_S3
+[284][ BATTLE ROYALE SOLOS] : FortPlaylistAthena /Clyde/Playlist/BR_Build/Clyde_S3/Playlist_ClydeSolo_S3.Playlist_ClydeSolo_S3
+[285][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/CustomTournamentSettings/Playlist_Showdown_Clyde_CTS_Solo.Playlist_Showdown_Clyde_CTS_Solo
+[286][ Tournament] : FortPlaylistAthena /Clyde/Playlist/Competitive/Playlist_ShowdownTournament_Clyde_Solo.Playlist_ShowdownTournament_Clyde_Solo
+[287][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_BlastBerry_Squads.Playlist_Habanero_NoBuild_BlastBerry_Squads
+[288][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_Sunflower_Squads.Playlist_Habanero_NoBuild_Sunflower_Squads
+[289][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerNoBuildSquad_NoFill.Playlist_ShowdownTournament_SunflowerNoBuildSquad_NoFill
+[290][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerNoBuildSquad_Fill.Playlist_ShowdownTournament_SunflowerNoBuildSquad_Fill
+[291][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerryNoBuildSquad_NoFill.Playlist_ShowdownTournament_BlastBerryNoBuildSquad_NoFill
+[292][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerryNoBuildSquad_Fill.Playlist_ShowdownTournament_BlastBerryNoBuildSquad_Fill
+[293][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerNoBuildSquad.Playlist_SunflowerNoBuildSquad
+[294][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerryNoBuildSquad.Playlist_BlastBerryNoBuildSquad
+[295][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_Sunflower_Squads.Playlist_Habanero_Sunflower_Squads
+[296][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerSquad_Fill.Playlist_ShowdownTournament_SunflowerSquad_Fill
+[297][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_BlastBerry_Squads.Playlist_Habanero_BlastBerry_Squads
+[298][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerrySquad_NoFill.Playlist_ShowdownTournament_BlastBerrySquad_NoFill
+[299][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerrySquad_Fill.Playlist_ShowdownTournament_BlastBerrySquad_Fill
+[300][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerSquad_NoFill.Playlist_ShowdownTournament_SunflowerSquad_NoFill
+[301][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerrySquad.Playlist_BlastBerrySquad
+[302][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerSquad.Playlist_SunflowerSquad
+[303][ Ranked Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_PunchBerry_Duos.Playlist_Habanero_PunchBerry_Duos
+[304][ Reload - Zero Build Solo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerryNoBuildSolo.Playlist_PunchBerryNoBuildSolo
+[305][ Reload - Zero Build Trio] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerNoBuildTrio.Playlist_SunflowerNoBuildTrio
+[306][ Reload - Zero Build Trio] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerryNoBuildTrio.Playlist_BlastBerryNoBuildTrio
+[307][ Reload - Trio] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerryTrio.Playlist_PunchBerryTrio
+[308][ Reload - Trio] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerTrio.Playlist_SunflowerTrio
+[309][ Reload - Trio] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerryTrio.Playlist_BlastBerryTrio
+[310][ Reload - Solo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerSolo.Playlist_SunflowerSolo
+[311][ Ranked Reload - Solo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_Sunflower_Solo.Playlist_Habanero_Sunflower_Solo
+[312][ Reload - Solo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerrySolo2.Playlist_BlastBerrySolo2
+[313][ Reload - Solo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerrySolo.Playlist_BlastBerrySolo
+[314][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_PunchBerry_Duos.Playlist_Habanero_NoBuild_PunchBerry_Duos
+[315][ Reload - Zero Build Trio] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerryNoBuildTrio.Playlist_PunchBerryNoBuildTrio
+[316][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerryDuo.Playlist_PunchBerryDuo
+[317][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_PunchBerryDuo_NoFill.Playlist_ShowdownTournament_PunchBerryDuo_NoFill
+[318][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerryNoBuildDuo.Playlist_PunchBerryNoBuildDuo
+[319][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_PunchBerrySquad_NoFill.Playlist_ShowdownTournament_PunchBerrySquad_NoFill
+[320][ Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerrySquad.Playlist_PunchBerrySquad
+[321][ Reload - Zero Build Solo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerryNoBuildSolo.Playlist_BlastBerryNoBuildSolo
+[322][ Reload - Zero Build Solo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerNoBuildSolo.Playlist_SunflowerNoBuildSolo
+[323][ Reload - Zero Build Solo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_Sunflower_Solo.Playlist_Habanero_NoBuild_Sunflower_Solo
+[324][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_PunchBerry_Squads.Playlist_Habanero_NoBuild_PunchBerry_Squads
+[325][ Reload - Solo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerrySolo.Playlist_PunchBerrySolo
+[326][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerDuo_NoFill.Playlist_ShowdownTournament_SunflowerDuo_NoFill
+[327][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_BlastBerry_Duos.Playlist_Habanero_BlastBerry_Duos
+[328][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_Sunflower_Duos.Playlist_Habanero_Sunflower_Duos
+[329][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerDuo_Fill.Playlist_ShowdownTournament_SunflowerDuo_Fill
+[330][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerryDuo_Fill.Playlist_ShowdownTournament_BlastBerryDuo_Fill
+[331][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerryDuo_NoFill.Playlist_ShowdownTournament_BlastBerryDuo_NoFill
+[332][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerDuo.Playlist_SunflowerDuo
+[333][ Reload - Duo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerryDuo.Playlist_BlastBerryDuo
+[334][ Ranked Reload - Solo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_PunchBerry_Solo.Playlist_Habanero_PunchBerry_Solo
+[335][ Reload - Zero Build Squads] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_PunchBerryNoBuildSquad.Playlist_PunchBerryNoBuildSquad
+[336][ Reload - Zero Build Solo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_PunchBerry_Solo.Playlist_Habanero_NoBuild_PunchBerry_Solo
+[337][ Ranked Reload - Squads] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_PunchBerry_Squads.Playlist_Habanero_PunchBerry_Squads
+[338][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_Sunflower_Duos.Playlist_Habanero_NoBuild_Sunflower_Duos
+[339][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerNoBuildDuo_Fill.Playlist_ShowdownTournament_SunflowerNoBuildDuo_Fill
+[340][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Habanero/Playlist_Habanero_NoBuild_BlastBerry_Duos.Playlist_Habanero_NoBuild_BlastBerry_Duos
+[341][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerryNoBuildDuo_Fill.Playlist_ShowdownTournament_BlastBerryNoBuildDuo_Fill
+[342][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_SunflowerNoBuildDuo.Playlist_SunflowerNoBuildDuo
+[343][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_BlastBerryNoBuildDuo_NoFill.Playlist_ShowdownTournament_BlastBerryNoBuildDuo_NoFill
+[344][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Playlist_BlastBerryNoBuildDuo.Playlist_BlastBerryNoBuildDuo
+[345][ Reload - Zero Build Duo] : FortPlaylistAthena /BlastBerry/Playlists/Comp/Playlist_ShowdownTournament_SunflowerNoBuildDuo_NoFill.Playlist_ShowdownTournament_SunflowerNoBuildDuo_NoFill
+[346][ Zero Build - Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/BotPlaylists/Playlist_Bots_NoBuildBR_Trio.Playlist_Bots_NoBuildBR_Trio
+[347][ Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Trios/Playlist_Trios.Playlist_Trios
+[348][ Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Habanero/Playlist_HabaneroDuo.Playlist_HabaneroDuo
+[349][ Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Trios/Playlist_Bots_Trios.Playlist_Bots_Trios
+[350][ Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Habanero/Playlist_HabaneroTrio.Playlist_HabaneroTrio
+[351][ Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Playlist_DefaultSquad.Playlist_DefaultSquad
+[352][ Squads 23] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Playlist_DefaultSquad_Helios.Playlist_DefaultSquad_Helios
+[353][ Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/DefaultBots/Playlist_Bots_DefaultDuo.Playlist_Bots_DefaultDuo
+[354][ Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/DefaultBots/Playlist_Bots_DefaultSquad.Playlist_Bots_DefaultSquad
+[355][ Squads 23] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Playlist_DefaultSquad_23.Playlist_DefaultSquad_23
+[356][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Squads.Playlist_ShowdownTesting_Squads
+[357][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Duos.Playlist_ShowdownTesting_Duos
+[358][ Zero Build - Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/HabaneroZBM/Playlist_NoBuildBR_Habanero_Trio.Playlist_NoBuildBR_Habanero_Trio
+[359][ Zero Build - Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/BotPlaylists/Playlist_Bots_NoBuildBR_Squad.Playlist_Bots_NoBuildBR_Squad
+[360][ Zero Build - Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Playlist_NoBuildBR_Duo.Playlist_NoBuildBR_Duo
+[361][ Gameplay Test No Build Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/ItemTest/NoBuildTest/Playlist_ItemTest_NoBuild.Playlist_ItemTest_NoBuild
+[362][ Zero Build - Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/BotPlaylists/Playlist_Bots_NoBuildBR_Duo.Playlist_Bots_NoBuildBR_Duo
+[363][ Zero Build - Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Playlist_NoBuildBR_Squad.Playlist_NoBuildBR_Squad
+[364][ Zero Build - Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/HabaneroZBM/Playlist_NoBuildBR_Habanero_Duo.Playlist_NoBuildBR_Habanero_Duo
+[365][ Zero Build - Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/HabaneroZBM/Playlist_NoBuildBR_Habanero_Squad.Playlist_NoBuildBR_Habanero_Squad
+[366][ Test Build] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/TestBuild/Playlist_TestBuild_Solo.Playlist_TestBuild_Solo
+[367][ Test Build] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/TestBuild/Playlist_TestBuild_Squads.Playlist_TestBuild_Squads
+[368][ Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Playlist_DefaultDuo.Playlist_DefaultDuo
+[369][ Solo (AIProfiling)] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/AI/Playlist_DefaultSolo_AIProfiling.Playlist_DefaultSolo_AIProfiling
+[370][ Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/DefaultBots/Playlist_Bots_DefaultSolo.Playlist_Bots_DefaultSolo
+[371][ Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Habanero/Playlist_HabaneroSolo.Playlist_HabaneroSolo
+[372][ Test Build] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/TestBuild/Playlist_TestBuild_Duos.Playlist_TestBuild_Duos
+[373][ Metal Moshpit] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/MoonJade/Playlist_BR_Lite.Playlist_BR_Lite
+[374][ Zero Build - Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/BotPlaylists/Playlist_Bots_NoBuildBR_Solo.Playlist_Bots_NoBuildBR_Solo
+[375][ Zero Build - Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/HabaneroZBM/Playlist_NoBuildBR_Habanero_Solo.Playlist_NoBuildBR_Habanero_Solo
+[376][ Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Playlist_DefaultSolo.Playlist_DefaultSolo
+[377][ Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Habanero/QA/Playlist_HabaneroSquad_100_30.Playlist_HabaneroSquad_100_30
+[378][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Solo.Playlist_ShowdownTesting_Solo
+[379][ Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Habanero/Playlist_HabaneroSquad.Playlist_HabaneroSquad
+[380][ Zero Build - Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Playlist_NoBuildBR_Trio.Playlist_NoBuildBR_Trio
+[381][ Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Habanero/QA/Playlist_HabaneroSquad_80_40.Playlist_HabaneroSquad_80_40
+[382][ Zero Build - Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Playlist_NoBuildBR_Solo.Playlist_NoBuildBR_Solo
+[383][ Duos Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_NPM_Duos.Playlist_ShowdownTournament_NoBuildBR_NPM_Duos
+[384][ Trios Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_NPM_Trios.Playlist_ShowdownTournament_NoBuildBR_NPM_Trios
+[385][ Squads Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/RankedCups/Playlist_ShowdownTournament_NoBuildBR_RC_Squads.Playlist_ShowdownTournament_NoBuildBR_RC_Squads
+[386][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownAlt_NoBuildBR_Squads.Playlist_ShowdownAlt_NoBuildBR_Squads
+[387][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/RankedCups/Playlist_ShowdownTournament_RC_Duos.Playlist_ShowdownTournament_RC_Duos
+[388][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/RankedCups/Playlist_ShowdownTournament_RC_Squads.Playlist_ShowdownTournament_RC_Squads
+[389][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FNCS/Playlist_ShowdownTournament_FNCS_NPM_Duos.Playlist_ShowdownTournament_FNCS_NPM_Duos
+[390][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FNCS/Playlist_ShowdownTournament_FNCS_PBM_Duos.Playlist_ShowdownTournament_FNCS_PBM_Duos
+[391][ Duos Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/RankedCups/Playlist_ShowdownTournament_NoBuildBR_RC_Duos.Playlist_ShowdownTournament_NoBuildBR_RC_Duos
+[392][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Squads.Playlist_ShowdownTournament_Squads
+[393][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FillOnly/Playlist_ShowdownTournament_FillOnly_Duos.Playlist_ShowdownTournament_FillOnly_Duos
+[394][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FNCS/Playlist_ShowdownTournament_FNCS_Duos_JIP.Playlist_ShowdownTournament_FNCS_Duos_JIP
+[395][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FNCS/Playlist_ShowdownTournament_FNCS_Duos.Playlist_ShowdownTournament_FNCS_Duos
+[396][ Squads Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_NPM_Squads.Playlist_ShowdownTournament_NoBuildBR_NPM_Squads
+[397][ Duos Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_Duos.Playlist_ShowdownTournament_NoBuildBR_Duos
+[398][ Duos Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_Headset_Duos.Playlist_ShowdownTournament_NoBuildBR_Headset_Duos
+[399][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownAlt_NoBuildBR_Duos.Playlist_ShowdownAlt_NoBuildBR_Duos
+[400][ Trios Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_Trios.Playlist_ShowdownTournament_NoBuildBR_Trios
+[401][ Squads Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_Squads.Playlist_ShowdownTournament_NoBuildBR_Squads
+[402][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_NPM_Squads.Playlist_ShowdownTournament_NPM_Squads
+[403][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_NPM_Duos.Playlist_ShowdownTournament_NPM_Duos
+[404][ Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_CTS_Duos.Playlist_Showdown_CTS_Duos
+[405][ Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_CTS_Squads.Playlist_Showdown_CTS_Squads
+[406][ Duos] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_NoBuildBR_CTS_Duos.Playlist_Showdown_NoBuildBR_CTS_Duos
+[407][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownScrims_Duos.Playlist_ShowdownScrims_Duos
+[408][ Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_NoBuildBR_CTS_Trios.Playlist_Showdown_NoBuildBR_CTS_Trios
+[409][ Squads] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_NoBuildBR_CTS_Squads.Playlist_Showdown_NoBuildBR_CTS_Squads
+[410][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_Duos_DS.Playlist_ShowdownTournament_Duos_DS
+[411][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_Architect_Duos.Playlist_ShowdownTournament_Architect_Duos
+[412][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_Gen_Squads.Playlist_ShowdownTournament_Gen_Squads
+[413][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_Gen_Duos.Playlist_ShowdownTournament_Gen_Duos
+[414][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_LS_Duos.Playlist_ShowdownTournament_LS_Duos
+[415][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTournament_DefaultDuo.Playlist_ShowdownTournament_DefaultDuo
+[416][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_ZF_Duos.Playlist_ShowdownTournament_ZF_Duos
+[417][ Duos Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_NoBuildBR_CRS_Duos.Playlist_ShowdownTournament_NoBuildBR_CRS_Duos
+[418][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/RankedCups/Playlist_ShowdownTournament_RC_Solo.Playlist_ShowdownTournament_RC_Solo
+[419][ Solo Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/RankedCups/Playlist_ShowdownTournament_NoBuildBR_RC_Solo.Playlist_ShowdownTournament_NoBuildBR_RC_Solo
+[420][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Solo_Test.Playlist_ShowdownTournament_Solo_Test
+[421][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Solo_QA.Playlist_ShowdownTournament_Solo_QA
+[422][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Solo.Playlist_ShowdownTournament_Solo
+[423][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownAlt_NoBuildBR_Solo.Playlist_ShowdownAlt_NoBuildBR_Solo
+[424][ Solo Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_NPM_Solo.Playlist_ShowdownTournament_NoBuildBR_NPM_Solo
+[425][ Solo Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_Solo.Playlist_ShowdownTournament_NoBuildBR_Solo
+[426][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_NPM_Solo.Playlist_ShowdownTournament_NPM_Solo
+[427][ Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_CTS_Solo.Playlist_Showdown_CTS_Solo
+[428][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_Gen_Solo.Playlist_ShowdownTournament_Gen_Solo
+[429][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownScrims_Solo.Playlist_ShowdownScrims_Solo
+[430][ Solo] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_NoBuildBR_CTS_Solo.Playlist_Showdown_NoBuildBR_CTS_Solo
+[431][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_LS_Solo.Playlist_ShowdownTournament_LS_Solo
+[432][ Duos Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FillOnly/Playlist_ShowdownTournament_FillOnly_ZBM_Duos.Playlist_ShowdownTournament_FillOnly_ZBM_Duos
+[433][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Duos.Playlist_ShowdownTournament_Duos
+[434][ Duos Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownTournament_NoBuildBR_Duos_DS.Playlist_ShowdownTournament_NoBuildBR_Duos_DS
+[435][ Team Rumble] : FortPlaylistAthena /Rumble/Playlists/Playlist_Respawn_24_Alt.Playlist_Respawn_24_Alt
+[436][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Squads.Playlist_ShowdownAlt_Squads
+[437][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Duos.Playlist_ShowdownAlt_Duos
+[438][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_Showdown_Duos.Playlist_Showdown_Duos
+[439][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_Showdown_Squads.Playlist_Showdown_Squads
+[440][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_Showdown_Solo.Playlist_Showdown_Solo
+[441][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Solo.Playlist_ShowdownAlt_Solo
+[442][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Solo_QA.Playlist_ShowdownAlt_Solo_QA
+[443][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FNCS/Playlist_ShowdownTournament_FNCS_PBM_Trios.Playlist_ShowdownTournament_FNCS_PBM_Trios
+[444][ Trios Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FillOnly/Playlist_ShowdownTournament_FillOnly_ZBM_Trios.Playlist_ShowdownTournament_FillOnly_ZBM_Trios
+[445][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/FNCS/Playlist_ShowdownTournament_FNCS_NPM_Trios.Playlist_ShowdownTournament_FNCS_NPM_Trios
+[446][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_NPM_Trios.Playlist_ShowdownTournament_NPM_Trios
+[447][ Arena] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Competitive/Playlist_ShowdownAlt_NoBuildBR_Trios.Playlist_ShowdownAlt_NoBuildBR_Trios
+[448][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_Showdown_Trios.Playlist_Showdown_Trios
+[449][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownScrims_Trios.Playlist_ShowdownScrims_Trios
+[450][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Lightning/Playlist_ShowdownTournament_Gen_Trios.Playlist_ShowdownTournament_Gen_Trios
+[451][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Trios.Playlist_ShowdownAlt_Trios
+[452][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Testing/Playlist_ShowdownTesting_Trios.Playlist_ShowdownTesting_Trios
+[453][ Tournament] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Tournament/Playlist_ShowdownTournament_Trios.Playlist_ShowdownTournament_Trios
+[454][ Trios] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Showdown/Custom/Playlist_Showdown_CTS_Trios.Playlist_Showdown_CTS_Trios
+[455][ Throwdown] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Toss/Playlist_Toss_Duos.Playlist_Toss_Duos
+[456][ Throwdown] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Toss/Playlist_Toss_Squads.Playlist_Toss_Squads
+[457][ Throwdown] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Toss/Playlist_Toss_Solo.Playlist_Toss_Solo
+[458][ Throwdown] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Toss/Playlist_Toss_Trios.Playlist_Toss_Trios
+[459][ Big Battle] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/NoBuildBR/Playlist_NoBuildBR_BigBattle.Playlist_NoBuildBR_BigBattle
+[460][ Solid Gold] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/SolidGold/Playlist_SolidGold_Trios.Playlist_SolidGold_Trios
+[461][ Solid Gold] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/SolidGold/Playlist_SolidGold_Duos.Playlist_SolidGold_Duos
+[462][ Solid Gold] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/SolidGold/Playlist_SolidGold_Solo.Playlist_SolidGold_Solo
+[463][ Solid Gold] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/SolidGold/Playlist_SolidGold_Squads.Playlist_SolidGold_Squads
+[464][ Prototype Testing] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/ItemTest/Playlist_ItemTest.Playlist_ItemTest
+[465][ Team Rumble] : FortPlaylistAthena /Rumble/Playlists/Playlist_Respawn_24.Playlist_Respawn_24
+[466][ Horde Rush] : FortPlaylistAthena /BRPlaylists/Athena/Playlists/Mash/Playlist_Mash_Squads_Legacy.Playlist_Mash_Squads_Legacy
+[467][ Paprika Playtest] : FortPlaylistAthena /PaprikaCore/Playlists/Playlist_PaprikaPlaytest.Playlist_PaprikaPlaytest
+[468][ Storm Test Build Squads] : FortPlaylistAthena /StormShieldModifier/Playlists/Playlist_StormDataTest_Squad.Playlist_StormDataTest_Squad
+[469][ Squads] : FortPlaylistAthena /PaprikaCore/Playlists/Playlist_PaprikaSquad.Playlist_PaprikaSquad
+[470][ [PH] Split Storm MidGame] : FortPlaylistAthena /StormShieldModifier/Playlists/Playlist_StormTest_Squad_Mid.Playlist_StormTest_Squad_Mid
+[471][ Storm Test ZeroBuild Squads] : FortPlaylistAthena /StormShieldModifier/Playlists/Playlist_NoBuildBR_Squad_Storm_Data_Test.Playlist_NoBuildBR_Squad_Storm_Data_Test
+[472][ [PH] Split Storm Endgame] : FortPlaylistAthena /StormShieldModifier/Playlists/Playlist_StormTest_Squad.Playlist_StormTest_Squad

@@ -1,0 +1,3011 @@
+[NONE : Uncommon] : EditTool
+
+[Tactical Pistol : Mythic] - [MusterCoreWeapons] : WID_Pistol_Muster_Athena_UR
+
+[Tactical Assault Rifle : Rare] - [MusterCoreWeapons] : WID_Assault_TacticalScope_Athena_R_Ore_T03
+
+[Buried Treasure : Legendary] - [MusterPlayerAugments] : AGID_Plunder_Booty
+
+[Flaming Hoops Spawner : Common] - [FlamingHoopsGameplay] : WID_Moonflax_FlamingHoops_Spawner
+
+[Pickaxe : Common] : Random_Comsmetic_Pickaxe
+
+[Grotto Keycard : Legendary] : AGID_Athena_Keycard_Base
+
+[Authority Keycard : Legendary] : AGID_Athena_Keycard_Agency
+
+[Rig Keycard : Legendary] : AGID_Athena_Keycard_OilRig
+
+[Yacht Keycard : Legendary] : AGID_Athena_Keycard_Yacht
+
+[Shark Keycard : Legendary] : AGID_Athena_Keycard_SJI
+
+[Iron Man's Repulsor Gauntlets : Rare] - [HighTower] : AGID_HighTower_Tomato_Repulsors
+
+[Doctor Doom's Arcane Gauntlets : Rare] - [HighTower] : AGID_HighTower_Date_ChainLightning
+
+[Venom's Smash & Grab : Legendary] - [HighTower] : AGID_HighTower_Vertigo_Punch
+
+[Thor's Mjolnir Strike : Legendary] - [HighTower] : AGID_HighTower_Tapas_SkyStrike
+
+[Iron Man's Unibeam : Legendary] - [HighTower] : AGID_HighTower_Tomato_RepulsorCannon
+
+[Storm's Whirlwind Blast : Epic] - [HighTower] : AGID_HighTower_Squash_WhirlwindBlast
+
+[Black Panther's Kinetic Armor : Epic] - [HighTower] : AGID_HighTower_Plum_KineticAbs
+
+[She-Hulk's Fists : Rare] - [HighTower] : AGID_HighTower_HoneyDew_Fist
+
+[Silver Surfer's Board : Epic] - [HighTower] : AGID_HighTower_Soy_Boarding
+
+[Groot's Bramble Shield : Epic] - [HighTower] : AGID_HighTower_Grape_BrambleShield
+
+[Doctor Doom's Mystical Bomb : Legendary] - [HighTower] : AGID_HighTower_Date_BallLightning
+
+[Stark Jetpack : Epic] - [HighTower] : AGID_Tomato_Jelly_WithHands
+
+[Booster Jets : Rare] - [HighTower] : AGID_HighTower_Tomato_Repulsors_Jump
+
+[Levitate : Rare] - [HighTower] : AGID_HighTower_Date_ChainLightning_Jump
+
+[Doctor Doom's Mystical Bomb : Mythic] - [HighTower] : WID_HighTower_Date_BallLightning_CoreBR
+
+[Storm's Tornado Launch : Mythic] - [HighTower] : AGID_HighTower_Squash_TornadoJump
+
+[Stark Industries Energy Rifle : Epic] - [HighTower] : WID_Assault_Updated_Stark_Athena_VR_Ore_T03
+[Stark Industries Energy Rifle : Rare] - [HighTower] : WID_Assault_Updated_Stark_Athena_R_Ore_T03
+[Stark Industries Energy Rifle : Legendary] - [HighTower] : WID_Assault_Updated_Stark_Athena_SR_Ore_T03
+
+[Iron Man's Repulsor Gauntlets : Mythic] - [HighTower] : WID_HighTower_Tomato_Repulsor_CoreBR
+[Iron Man's Repulsor Gauntlets : Mythic] - [HighTower] : WID_HighTower_Tomato_Repulsor
+
+[Doctor Doom's Arcane Gauntlets : Mythic] - [HighTower] : WID_HighTower_Date_ChainLightning_CoreBR
+[Doctor Doom's Arcane Gauntlets : Mythic] - [HighTower] : WID_HighTower_Date_Combo_CoreBR
+[Doctor Doom's Arcane Gauntlets : Mythic] - [HighTower] : WID_HighTower_Date_ArcaneBlast
+[Doctor Doom's Arcane Gauntlets : Common] - [HighTower] : WID_HighTower_Date_ChainLightning
+
+[Leap Smash : Mythic] - [HighTower] : AGID_HighTower_HoneyDew_JumpSmash
+
+[Venom's Smash & Grab : Mythic] - [HighTower] : WID_HighTower_Vertigo_Punch_CoreBR
+
+[She-Hulk's Fists : Mythic] - [HighTower] : WID_HighTower_HoneyDew_Fists_CoreBR
+
+[Thor's Mjolnir Strike : Mythic] - [HighTower] : WID_HighTower_Tapas_SkyStrike_CoreBR
+
+[ Silver Surfer's Board : Mythic] - [HighTower] : WID_HighTower_Soy_Boarding_CoreBR
+
+[Storm's Whirlwind Blast : Mythic] - [HighTower] : WID_HighTower_Squash_WhirlwindBlast_CoreBR
+
+[Groot's Bramble Shield : Mythic] - [HighTower] : WID_HighTower_Grape_BrambleShield_CoreBR
+
+[Stark Industries Energy Rifle : Legendary] - [HighTower] : WID_Assault_Stark_Athena_SR_Ore_T03
+[Stark Industries Energy Rifle : Epic] - [HighTower] : WID_Assault_Stark_Athena_VR_Ore_T03
+[Stark Industries Energy Rifle : Rare] - [HighTower] : WID_Assault_Stark_Athena_R_Ore_T03
+
+[Mystique's Dual Auto Pistols : Common] - [HighTower] : WID_HighTower_Mango_DualPistol_Auto_Heavy_Athena
+
+[She Hulk's Fists : Common] - [HighTower] : WID_HighTower_HoneyDew_Fists
+
+[NONE : Mythic] - [MurkyVoleGameplay] : AGID_Athena_MurkyVole_BackPack
+
+[War Machine's Arsenal : Mythic] - [MurkyVoleGameplay] : WID_Athena_MurkyVole_GauntletGuns
+
+[War Machine's Hover Jets : Epic] - [MurkyVoleGameplay] : AGID_Athena_MurkyVole_HoverJets
+
+[War Machine's Auto Turret : Epic] - [MurkyVoleGameplay] : WID_Athena_MurkyVole_Turret
+
+[Victory Crown : Mythic] - [VictoryCrownsGameplay] : AGID_VictoryCrown
+
+[Pickaxe : Common] : WID_Harvest_Pickaxe_PunkKoiFemale1H
+
+[Estate Vault Keycard : Legendary] : AGID_CP_Heist_VaultKeycard
+
+[Shark Keycard : Legendary] : AGID_CP_Keycard_SJI
+
+[Rig Keycard : Legendary] : AGID_CP_Keycard_OilRig
+
+[Command Cavern Keycard : Legendary] : AGID_CP_Keycard_HollowBase
+
+[Fortilla Keycard : Legendary] : AGID_CP_Keycard_Fortilla
+
+[Catty Corner Keycard : Legendary] : AGID_CP_Keycard_BoxFactory
+
+[Grotto Keycard : Legendary] : AGID_CP_Keycard_Base
+
+[Authority Keycard : Legendary] : AGID_CP_Keycard_Agency
+
+[Gliders : Rare] : Athena_Glider_Item_BigTeamMode
+
+[Upgrade Bench : Rare] : AGID_Wumba
+
+[Chug Cannon : Transcendent] : AGID_WaffleTruck_Rocket_Slurp
+
+[Blade : Rare] : AGID_Sword_BS
+
+[Infinity Blade : Mythic] : AGID_Sword
+
+[Shadow Stone : Epic] : AGID_SpookyMist
+
+[Sneaky Snowmando : Rare] : AGID_SneakySnowmanV3
+
+[Sneaky Snowman : Rare] : AGID_SneakySnowmanV2
+
+[Creepin' Cardboard : Epic] : AGID_CoolCarpet_VR
+[Creepin' Cardboard : Rare] : AGID_CoolCarpet_R
+[Creepin' Cardboard : Uncommon] : AGID_CoolCarpet
+
+[Shadow Bomb : Epic] : AGID_SmokeBomb
+[Shadow Bomb : Epic] : AGID_InvisibilityPowerup
+
+[Crash Pad : Rare] : Passive_AppleSun_Athena
+
+[NONE : Epic] : AGID_NightNight
+
+[Bandage Bazooka : Epic] : AGID_Lotus_MustacheSpyTech+
+[Bandage Bazooka : Rare] : AGID_Lotus_MustacheSpyTech
+[Bandage Bazooka : Epic] : AGID_Lotus_Mustache
+
+[Iron Man Keycard : Legendary] : AGID_Athena_Keycard_Tomato
+
+[Command Cavern Keycard : Legendary] : AGID_Athena_Keycard_HollowBase
+
+[Yacht Keycard : Legendary] : AGID_Athena_Keycard_HDP
+
+[Fortilla Keycard : Legendary] : AGID_Athena_Keycard_Fortilla
+
+[Doctor Doom Keycard : Legendary] : AGID_Athena_Keycard_Date
+
+[Catty Corner Keycard : Legendary] : AGID_Athena_Keycard_BoxFactory
+
+[Flag : Rare] : AGID_Flag_Melee
+
+[Buried Treasure : Legendary] : AGID_Athena_Booty
+
+[Jewel : Rare] : Creative_Bling_Pack
+[Jewel : Rare] : Athena_Bling_Pack
+
+[Gliders : Rare] : Athena_Glider_Item
+
+[Jetpack : Epic] : AGID_BoostJumpPack_VR
+[Jetpack : Legendary] : AGID_BoostJumpPack_Retuned
+[Jetpack : Rare] : AGID_BoostJumpPack_R
+[Jetpack : Rare] : AGID_BoostJumpPack_Papaya
+
+[Jetpack (Infinite Fuel) : Legendary] : AGID_BoostJumpPack_Infinite
+
+[Jetpack : Legendary] : AGID_BoostJumpPack
+
+[CAPTAIN AMERICA'S SHIELD : Mythic] : AGID_AshtonPack_Chicago
+
+[Pickaxe : Common] : WID_Harvest_Pickaxe_Athena_C_T01
+[Pickaxe : Common] : Weapon_Pickaxe_HydroIgnite
+[Pickaxe : Common] : WID_Harvest_Pickaxe_SpyMale1H
+[Pickaxe : Common] : WID_Harvest_Pickaxe_NeonCatSpyFemale
+[Pickaxe : Common] : WID_Harvest_Pickaxe_LancelotMale
+
+[Bottle Rocket : Common] : WeaponData_BottleRocket
+
+[Remote Explosives : Rare] : WeaponData_C4
+
+[M80 : Common] : WeaponData_M80
+
+[Air Strike  : Legendary] : Athena_AppleSauce
+
+[Crash Pad : Rare] : WID_Athena_AppleSun
+[Crash Pad : Epic] : WID_Athena_AppleSun_R
+
+[Balloons : Rare] : Athena_Balloons_Consumable
+
+[Legacy Bandage : Common] : Athena_Bandage
+
+[Ocean's Bottomless Chug Jug : Mythic] : WID_Athena_BottomlessChugJug
+
+[Bush : Legendary] : Athena_Bush
+
+[Chug Splash : Rare] : Athena_ChillBronco
+[Chug Splash : Rare] : Athena_ChillBronco_NPC
+[Chug Splash : Epic] : Athena_ChillBronco_VR
+
+[Decoy : Rare] : WID_Athena_DangerGrape
+[Decoy : Rare] : WID_Athena_DangerGrape_NoDrop_NoWeapons
+[Decoy : Epic] : WID_Athena_DangerGrape_VR
+
+[Storm Flip : Epic] : Athena_DogSweater
+
+[Disguise : Legendary] : Athena_DishFries
+
+[Vendetta Flopper : Legendary] : WID_Athena_BattleFlopper
+
+[Slurpfish : Epic] : WID_Athena_Flopper_Effective
+
+[Spicy Fish : Rare] : WID_Athena_Flopper_FireFlopper
+
+[Stink Fish : Uncommon] : WID_Athena_Flopper_GasFlopper
+
+[Hop Flopper : Epic] : WID_Athena_Flopper_HopFlopper
+
+[Jellyfish : Rare] : WID_Athena_Flopper_JellyFish
+
+[Midas Flopper : Legendary] : WID_Athena_MechanicFlopper
+
+[Rift Fish : Epic] : WID_Athena_Flopper_Rift
+
+[Shield Fish : Rare] : WID_Athena_Flopper_Shield
+
+[Small Fry : Common] : WID_Athena_FlopperSmall
+
+[Snowy Flopper : Uncommon] : WID_Athena_Flopper_Snowman
+
+[Thermal Fish : Legendary] : WID_Athena_Flopper_Thermal
+
+[Flopper : Uncommon] : WID_Athena_Flopper
+
+[Zero Point Fish : Rare] : WID_Athena_Flopper_Zero
+
+[Apple : Common] : WID_Athena_Apple
+
+[Banana : Common] : WID_Athena_Banana
+
+[Cabbage : Common] : WID_Athena_Cabbage
+
+[Candy Corn : Common] : WID_Athena_CandyCorn
+
+[Hop Drop : Common] : WID_Athena_HopDrop
+
+[Jelly Bean : Common] : WID_Athena_JellyBean
+
+[Pepper Mint : Common] : WID_Athena_PepperMint
+
+[Thermal Taffy : Common] : WID_Athena_ThermalTaffy
+
+[Coconut : Common] : WID_Athena_Coconut
+
+[Corn : Common] : WID_Athena_Corn
+
+[Golden Truffle : Mythic] : WID_Athena_GoldenTruffle
+
+[Pepper : Common] : WID_Athena_Pepper
+
+[Bouncy Egg : Common] : WID_Athena_ShieldHops
+
+[Shield Mushroom : Common] : WID_Athena_ShieldMushroom
+
+[Slurp Mushroom : Common] : WID_Athena_SlurpMushroom
+
+[Tomato : Common] : WID_Athena_Tomato
+
+[Friendly Bot Grenade : Common] : WID_Athena_FrenchYedoc_JWFriendly
+
+[Enemy Bot Grenade : Common] : WID_Athena_FrenchYedoc_JWUnfriendly
+
+[Junk Rift : Epic] : WID_Athena_JollyRascal
+
+[Legacy Med Kit : Uncommon] : Athena_Medkit
+
+[Slurp Juice : Legendary] : Athena_PurpleStuff
+
+[Rift-To-Go : Epic] : Athena_Rift_Item
+
+[Legacy Shield Potion : Rare] : Athena_Shields
+
+[Legacy Small Shield Potion : Uncommon] : Athena_ShieldSmall
+
+[Shockwave Grenade : Epic] : Athena_ShockGrenade
+
+[Shield Bubble : Rare] : Athena_SilverBlazer_V2
+[Shield Bubble : Epic] : Athena_SilverBlazer_V2_VR
+
+[Shadow Bomb : Uncommon] : Athena_SmokeBomb
+
+[Creepin' Cardboard : Uncommon] : Athena_CoolCarpet
+
+[Sneaky Snowman : Common] : Athena_SneakySnowmanV2
+
+[Sneaky Snowmando : Common] : WID_Athena_SneakySnowmanV3
+
+[Vault Access Key : Mythic] : SparklyJIbbletToken
+
+[Chili Chug Splash : Transcendent] : WID_Athena_SpicySoda
+
+[Chug Jug : Legendary] : Athena_SuperMedkit
+
+[Witch Broom : Mythic] : WID_Athena_WitchBroom_Durability
+[Witch Broom : Mythic] : WID_Athena_WitchBroom
+
+[Zero Point Pretzel : Uncommon] : Athena_Consumable_ZeroPoint_Pretzel
+
+[Zapper Trap : Epic] : Athena_ZippyTrout
+
+[Upgrade Bench : Common] : D_Wumba
+
+[Blade : Rare] : D_Sword_BS
+
+[Infinity Blade : Mythic] : D_Sword
+
+[Shadow Stone : Epic] : D_SpookyMist
+
+[Yacht Keycard : Common] : D_Athena_Keycard_Yacht
+
+[Grotto Keycard : Common] : D_Athena_Keycard_UndergroundBase
+
+[Iron Man Keycard : Common] : D_Athena_Keycard_Tomato
+
+[Authority Keycard : Common] : D_Athena_Keycard_TheAgency
+
+[Shark Keycard : Common] : D_Athena_Keycard_SharkIsland
+
+[Oil Rig Keycard : Common] : D_Athena_Keycard_OilRig
+
+[Command Cavern Keycard : Common] : D_Athena_Keycard_HollowBase
+
+[Yacht Keycard : Common] : D_Athena_Keycard_HDP
+
+[Fortilla Keycard : Common] : D_Athena_Keycard_Fortilla
+
+[Doctor Doom Keycard : Common] : D_Athena_Keycard_Date
+
+[Catty Corner Keycard : Common] : D_Athena_Keycard_BoxFactory
+
+[Shadow Stone : Epic] : Deco_Butterfly
+
+[Buried Treasure : Mythic] : D_Athena_Booty
+
+[Gliders : Common] : D_Glider_Item
+
+[Air Strike : Common] : D_CarminePack
+
+[Jetpack : Common] : D_BoostJumpPack_Test
+
+[NONE : Mythic] : D_AshtonPack_Turbo
+[NONE : Uncommon] : D_BoostJumpPack_Test_AshtonPack_Milo
+[NONE : Common] : D_AshtonPack_Indigo
+[NONE : Mythic] : D_AshtonPack_Chicago
+
+[Teleporter : Common] : D_Teleporter
+
+[Air Strike : Common] : D_AirStrike
+
+[AirStrike : Common] : G_AirStrike
+
+[Adrenaline Rush : Common] : G_Generic_AdrenalineRush
+
+[Retractable Wall Spikes : Uncommon] : TID_ZippyTroutTrap_Wall
+
+[Retractable Floor Spikes : Uncommon] : TID_ZippyTroutTrap_Floor
+
+[Retractable Ceiling Spikes : Uncommon] : TID_ZippyTroutTrap_Ceiling
+
+[Environmental Trap - Poison Dart (Wall) : Uncommon] : TID_PoisonDartTrap_Wall
+
+[Environmental Trap - Poison Dart (Floor) : Uncommon] : TID_PoisonDartTrap_Floor
+
+[Environmental Trap - Poison Dart (Ceiling) : Uncommon] : TID_PoisonDartTrap_Ceiling
+
+[Item Spawner Plate : Rare] : TID_Floor_Minigame_Spawner
+
+[Team Settings & Inventory : Rare] : TID_Floor_GameStartingInventory
+
+[Environmental Trap - Fire (Wall) : Uncommon] : TID_Wall_FrostedTips_Athena
+
+[Environmental Trap - Fire (Floor) : Uncommon] : TID_Floor_FrostedTips_Athena
+
+[Environmental Trap - Fire (Ceiling) : Uncommon] : TID_Ceiling_FrostedTips_Athena
+
+[Fire Trap : Uncommon] : TID_Context_FrostedTips_UEFN
+[Fire Trap : Uncommon] : TID_Context_FrostedTips_Athena
+
+[Barrier : Rare] : TID_Ceiling_BarrierDevice
+
+[Elimination Zone : Rare] : TID_Ceiling_EliminationZone
+
+[Weapon-free zone : Rare] : TID_Ceiling_NoWeaponZone
+
+[Environmental Trap - Bouncer (Floor) : Rare] : TID_Floor_BouncePad_Athena_R_T01
+
+[Environmental Trap -  Bouncer (Wall) : Rare] : TID_Wall_BouncePad_Athena_R_T01
+
+[Bouncer : Rare] : TID_Context_BouncePad_Athena
+[Bouncer : Rare] : TID_Context_BouncePad_UEFN
+
+[Barrier : Epic] : TID_Floor_BarrierDevice
+[Barrier : Rare] : TID_Wall_BarrierDevice
+
+[Barrier Plate Device : Rare] : TID_Context_Device_Barrier
+
+[Elimination Zone : Rare] : TID_Floor_EliminationZone
+[Elimination Zone : Rare] : TID_Wall_EliminationZone
+
+[Damage Volume Plate : Rare] : TID_Context_EliminationZone
+
+[Environmental Trap - Chiller (Ceiling) : Rare] : TID_Ceiling_Freeze_Athena_R_T01
+
+[Environmental Trap - Chiller (Floor) : Rare] : TID_Floor_Freeze_Athena_R_T01
+
+[Environmental Trap - Chiller (Wall) : Rare] : TID_Wall_Freeze_Athena_R_T01
+
+[Chiller : Common] : TID_Context_Freeze_Athena
+[Chiller : Common] : TID_Context_Freeze_UEFN
+
+[Mutator Zone : Rare] : TID_Floor_NoWeaponZone
+
+[Weapon-free zone : Rare] : TID_Wall_NoWeaponZone
+
+[Mutator Zone Plate : Rare] : TID_Context_NoWeaponZone
+
+[Speed Boost : Rare] : TID_Wall_SpeedBoost
+[Speed Boost : Rare] : TID_Floor_SpeedBoost
+[Speed Boost : Rare] : TID_Context_SpeedBoost
+[Speed Boost : Epic] : TID_Wall_SpeedBoost_High
+[Speed Boost : Epic] : TID_Floor_SpeedBoost_High
+[Speed Boost : Epic] : TID_Context_SpeedBoost_High
+[Speed Boost : Uncommon] : TID_Floor_SpeedBoost_Low
+[Speed Boost : Uncommon] : TID_Wall_SpeedBoost_Low
+[Speed Boost : Uncommon] : TID_Context_SpeedBoost_Low
+
+[Environmental Trap -  Spike (Ceiling) : Rare] : TID_Ceiling_Spikes_Athena_R_T01
+
+[Environmental Trap -  Spike (Wall) : Rare] : TID_Wall_Spikes_Athena_R_T01
+
+[Environmental Trap -  Spike (Floor) : Rare] : TID_Floor_Spikes_Athena_R_T01
+
+[Damage Trap : Uncommon] : TID_ContextTrap_Athena
+
+[TrickTile : Rare] : TID_Ceiling_TrickTile
+[TrickTile : Rare] : TID_Wall_TrickTile
+
+[Trick Tile : Rare] : TID_Floor_TrickTile
+[Trick Tile : Rare] : TID_ContextTrap_TrickTile
+
+[Damage Trap : Uncommon] : TID_ContextTrap_UEFN
+
+[NONE : Uncommon] : TID_Creative_AdvancedStormBeacon
+[NONE : Uncommon] : TID_Creative_AdvancedStormController
+[NONE : Uncommon] : TID_Creative_BallSpawner
+[NONE : Uncommon] : TID_Creative_BasicStormController
+[NONE : Uncommon] : TID_Creative_Billboard
+[NONE : Uncommon] : TID_Creative_CaptureArea
+[NONE : Uncommon] : TID_Creative_CaptureItemSpawner
+[NONE : Uncommon] : TID_Creative_ClassSelector
+[NONE : Uncommon] : TID_Creative_ClassSettings
+[NONE : Uncommon] : TID_Creative_CreatureManager
+[NONE : Uncommon] : TID_Creative_CreaturePlacer
+[NONE : Uncommon] : TID_Creative_CustomLight_Concert_x1
+[NONE : Uncommon] : TID_Creative_CustomLight_Concert_x4
+[NONE : Uncommon] : TID_Creative_CustomLight_IceCastleTorch
+[NONE : Uncommon] : TID_Creative_DeimosSpawner
+[NONE : Uncommon] : TID_Creative_HoloScreen
+[NONE : Uncommon] : TID_Creative_HUDMessage
+
+[Vending Machine : Uncommon] : TID_Creative_ItemSpawnerVendingMachine
+
+[Map Indicator Device : Uncommon] : TID_Creative_MapMarker
+
+[Prop-O-Matic Manager : Rare] : TID_Creative_PropPossessorConfig
+
+[NONE : Uncommon] : TID_Creative_PropPossessorConfigProp
+[NONE : Uncommon] : TID_Creative_Quest
+[NONE : Uncommon] : TID_Creative_RoundSettings
+[NONE : Uncommon] : TID_Creative_ShootingTarget
+[NONE : Uncommon] : TID_Creative_ShootingTargetTrack
+[NONE : Uncommon] : TID_Creative_Teleporter
+[NONE : Uncommon] : TID_Creative_TimerObjective
+[NONE : Uncommon] : TID_Creative_Trigger
+[NONE : Uncommon] : TID_Creative_TVScreen
+[NONE : Uncommon] : TID_CreativeExplosiveBarrel
+[NONE : Uncommon] : TID_CreativePowerup_Grind
+[NONE : Uncommon] : TID_CreativePowerup_Invulnerability
+[NONE : Uncommon] : TID_CreativePowerup_Statboost
+[NONE : Uncommon] : TID_CreativeRadio
+
+[Sentry Trap : Legendary] : TID_Floor_Backup
+
+[Baller Spawn : Legendary] : TID_Floor_BallerSpawner
+
+[X-4 Stormwing Spawn : Legendary] : TID_Floor_BiplaneSpawner
+
+[Cannon Spawn : Legendary] : TID_Floor_CannonSpawner
+
+[Full Damage Rail : Rare] : TID_Floor_DamageRailFull
+
+[Environmental Trap - Damage Rail Full (Floor) : Rare] : TID_Floor_DamageRailFull_UEFN
+
+[Half Damage Rail : Rare] : TID_Floor_DamageRailHalf
+
+[Environmental Trap - Damage Rail Half (Floor) : Rare] : TID_Floor_DamageRailHalf_UEFN
+
+[ATK Spawn : Legendary] : TID_Floor_GolfCartSpawner
+
+[Driftboard Spawn : Legendary] : TID_Floor_HoverboardSpawner
+
+[Game Start Plate : Uncommon] : TID_Floor_Minigame_Start_Plate
+
+[Game Trigger Plate : Transcendent] : TID_Floor_Minigame_Trigger_Plate
+
+[Mounted Turret : Legendary] : TID_Floor_MountedTurret_Athena
+
+[Environmental Trap - Mounted Turret : Legendary] : TID_Floor_MountedTurret_UEFN
+
+[Cozy Campfire : Rare] : TID_Floor_Player_Campfire_Athena
+
+[Jump Pad (Up) : Rare] : TID_Floor_Player_Jump_Pad_Athena
+
+[Jump Pad (Directional) : Rare] : TID_Floor_Player_Jump_Pad_Free_Direction_Athena
+
+[Launch Pad : Epic] : TID_Floor_Player_Launch_Pad_Athena
+
+[Environmental Trap - Launch Pad : Epic] : TID_Floor_Player_Launch_Pad_UEFN
+
+[Player Spawn Plate : Rare] : TID_Floor_Player_Start_Plate_VR_T01
+
+[Player Checkpoint Plate : Rare] : TID_Floor_PlayerCheckpoint
+
+[Quadcrasher Spawn : Legendary] : TID_Floor_QuadSpawner
+
+[Scoreboard : Rare] : TID_Floor_Scoreboard
+
+[Shopping Cart Spawn : Legendary] : TID_Floor_ShoppingCartSpawner
+
+[Movement Modulator : Rare] : TID_Floor_SpeedIncrease
+
+[Retractable Floor Spikes : Uncommon] : TID_Floor_Spikes_Athena_R_T03
+
+[Pulse Trigger : Rare] : TID_Floor_SweepTrigger
+
+[Timer : Rare] : TID_Floor_Toy_Siren
+
+[Vehicle Spawner : Common] : TID_Floor_VehicleSpawner
+
+[Poison Dart Trap : Uncommon] : TID_PoisonDartTrap_Context
+[Poison Dart Trap : Uncommon] : TID_PoisonDartTrap_Context_UEFN
+
+[Environmental Trap - Ice Block (Floor) : Rare] : TID_Trap_Floor_IceBlock_UEFN
+
+[Ice Block : Rare] : TID_Trap_Floor_OilSlick
+
+[Zapper Trap : Epic] : TID_ZippyTroutTrap_Context
+
+[Environmental Trap - Bouncer (Ceiling) : Epic] : TID_Ceiling_BouncePad_Athena_R_T01
+
+[Held Item : Unattainable] : WID_HeldObject_Component_PropaneTank
+[Held Item : Unattainable] : WID_HeldObject_Component_Handles
+[Held Item : Unattainable] : WID_HeldObject_Component_Flat_InfiltrationCase
+[Held Item : Unattainable] : WID_HeldObject_Component_Flat
+[Held Item : Unattainable] : WID_HeldObject_Component_Barrel
+[Held Item : Unattainable] : WID_HeldObject_Component_Ball
+[Held Item : Unattainable] : WID_HeldObject_Component_AI
+[Held Item : Unattainable] : WID_HeldObject_Component
+
+[Upgrade Bench : Rare] : WID_Athena_Wumba
+
+[Bandage Bazooka : Mythic] : WID_Lotus_Mustache
+
+[Flag : Common] : WID_Flag_Melee
+
+[Port-a-Fort : Rare] : Athena_TowerGrenade
+
+[Dynamite : Uncommon] : Athena_TNT
+[Dynamite : Epic] : Athena_Spytech_VR_TNT
+[Dynamite : Rare] : Athena_Spytech_R_TNT
+
+[Chiller Grenade : Common] : Athena_IceGrenade
+
+[Spiky Stadium : Rare] : Athena_SpikeArena_Grenade
+
+[Port-a-Fortress : Legendary] : Athena_SuperTowerGrenade_A
+
+[Holiday Presents! : Legendary] : Athena_HolidayGiftBox
+
+[Birthday Presents! : Legendary] : Athena_BirthdayGiftBox
+
+[Presents! : Legendary] : Athena_GiftBox
+
+[Port-a-Bridge : Legendary] : Athena_SuperBridgeGrenade
+
+[Clinger : Epic] : Athena_StickyGrenade_VR
+[Clinger : Rare] : Athena_StickyGrenade_R
+[Clinger : Uncommon] : Athena_StickyGrenade
+
+[Smoke Grenade : Uncommon] : Athena_SmokeGrenade
+
+[Firefly Jar : Rare] : WID_Athena_Grenade_Molotov
+
+[Impulse Grenade : Rare] : Athena_KnockGrenade
+
+[Harpoon Gun : Rare] : WID_Athena_HappyGhost_Infinite_Melt
+[Harpoon Gun : Rare] : WID_Athena_HappyGhost_Infinite
+[Harpoon Gun : Rare] : WID_Athena_HappyGhost
+
+[Grenade : Common] : Athena_Grenade
+
+[Stink Bomb : Epic] : Athena_SpyTech_GasGrenade
+[Stink Bomb : Rare] : Athena_GasGrenade
+
+[Buried Treasure Map : Legendary] : SFB_ItemDef_Map
+
+[Harvesting Tool : Common] : Dev_WID_Test_Pickaxe
+
+[Biplane : Rare] : Ferret_Weapon
+
+[Pro Fishing Rod : Rare] : WID_Athena_FloppingRabbit_HighTier
+
+[Fishing Rod : Common] : WID_Athena_FloppingRabbit
+
+[Pickaxe : Common] : Weapon_Pickaxe_SlicedBread
+
+[Assault Rifle   : Common] : WID_Assault_Auto_Athena_C_Ore_T02
+[Assault Rifle   : Rare] : WID_Assault_Auto_Athena_R_Ore_T03
+[Assault Rifle   : Legendary] : WID_Assault_Auto_Athena_SR_Ore_T03
+[Assault Rifle   : Uncommon] : WID_Assault_Auto_Athena_UC_Ore_T03
+[Assault Rifle   : Epic] : WID_Assault_Auto_Athena_VR_Ore_T03
+
+[Legacy Drum Gun : Rare] : WID_Assault_AutoDrum_Athena_R_Ore_T03
+[Legacy Drum Gun : Uncommon] : WID_Assault_AutoDrum_Athena_UC_Ore_T03
+
+[Assault Rifle   : Common] : WID_Assault_AutoHigh_Athena_C_Ore_T03
+[Assault Rifle   : Rare] : WID_Assault_AutoHigh_Athena_R_Ore_T03
+[Assault Rifle   : Legendary] : WID_Assault_AutoHigh_Athena_SR_GoldWrap
+[Assault Rifle   : Legendary] : WID_Assault_AutoHigh_Athena_SR_Ore_T03
+[Assault Rifle   : Uncommon] : WID_Assault_AutoHigh_Athena_UC_Ore_T03
+[Assault Rifle   : Epic] : WID_Assault_AutoHigh_Athena_VR_Ore_T03
+
+[Heavy Assault Rifle : Common] : WID_Assault_Heavy_Athena_C_Ore_T03
+[Heavy Assault Rifle : Rare] : WID_Assault_Heavy_Athena_R_Ore_T03
+[Heavy Assault Rifle : Legendary] : WID_Assault_Heavy_Athena_SR_Ore_T03
+[Heavy Assault Rifle : Uncommon] : WID_Assault_Heavy_Athena_UC_Ore_T03
+[Heavy Assault Rifle : Epic] : WID_Assault_Heavy_Athena_VR_Ore_T03
+
+[Infantry Rifle : Common] : WID_Assault_Infantry_Athena_C
+[Infantry Rifle : Rare] : WID_Assault_Infantry_Athena_R
+[Infantry Rifle : Legendary] : WID_Assault_Infantry_Athena_SR
+[Infantry Rifle : Uncommon] : WID_Assault_Infantry_Athena_UC
+[Infantry Rifle : Epic] : WID_Assault_Infantry_Athena_VR
+
+[Minigun : Rare] : WID_Assault_LMG_Athena_R_Ore_T03
+[Minigun : Legendary] : WID_Assault_LMG_Athena_SR_Ore_T03
+[Minigun : Epic] : WID_Assault_LMG_Athena_VR_Ore_T03
+
+[Light Machine Gun : Common] : WID_Assault_LMGSAW_Athena_C_Ore_T03
+[Light Machine Gun : Rare] : WID_Assault_LMGSAW_Athena_R_Ore_T03
+[Light Machine Gun : Legendary] : WID_Assault_LMGSAW_Athena_SR_Ore_T03
+[Light Machine Gun : Uncommon] : WID_Assault_LMGSAW_Athena_UC_Ore_T03
+[Light Machine Gun : Epic] : WID_Assault_LMGSAW_Athena_VR_Ore_T03
+
+[Legacy Tactical Assault Rifle : Common] : WID_Assault_PistolCaliber_AR_Athena_C_Ore_T03
+[Legacy Tactical Assault Rifle : Rare] : WID_Assault_PistolCaliber_AR_Athena_R_Ore_T03
+[Legacy Tactical Assault Rifle : Legendary] : WID_Assault_PistolCaliber_AR_Athena_SR_Ore_T03
+[Legacy Tactical Assault Rifle : Uncommon] : WID_Assault_PistolCaliber_AR_Athena_UC_Ore_T03
+[Legacy Tactical Assault Rifle : Epic] : WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03
+
+[Burst Assault Rifle : Common] : WID_Assault_SemiAuto_Athena_C_Ore_T02
+[Burst Assault Rifle : Rare] : WID_Assault_SemiAuto_Athena_R_Ore_T03
+[Burst Assault Rifle : Legendary] : WID_Assault_SemiAuto_Athena_SR_Ore_T03
+[Burst Assault Rifle : Uncommon] : WID_Assault_SemiAuto_Athena_UC_Ore_T03
+
+[Ocean's Burst Assault Rifle : Mythic] : WID_Assault_SemiAuto_Athena_UR_Ore_T03
+
+[Slone's Burst Assault Rifle : Mythic] : WID_Assault_SemiAuto_Athena_UR_Slone
+
+[Burst Assault Rifle : Epic] : WID_Assault_SemiAuto_Athena_VR_Ore_T03
+
+[Suppressed Assault Rifle : Rare] : WID_Assault_Suppressed_Athena_R_Ore_T03
+[Suppressed Assault Rifle : Legendary] : WID_Assault_Suppressed_Athena_SR_Ore_T03
+[Suppressed Assault Rifle : Epic] : WID_Assault_Suppressed_Athena_VR_Ore_T03
+[Suppressed Assault Rifle : Legendary] : WID_Assault_Suppressed_SpyTech_Athena_SR_Ore_T03
+[Suppressed Assault Rifle : Epic] : WID_Assault_Suppressed_SpyTech_Athena_VR_Ore_T03
+
+[Scoped Assault Rifle : Rare] : WID_Assault_Surgical_Athena_R_Ore_T03
+[Scoped Assault Rifle : Legendary] : WID_Assault_Surgical_Athena_SR_Ore_T03
+[Scoped Assault Rifle : Uncommon] : WID_Assault_Surgical_Athena_UC_Ore_T03
+[Scoped Assault Rifle : Epic] : WID_Assault_Surgical_Athena_VR_Ore_T03
+
+[Thermal Scoped Assault Rifle : Common] : WID_Assault_Surgical_Thermal_Athena_C_Ore_T03
+[Thermal Scoped Assault Rifle : Rare] : WID_Assault_Surgical_Thermal_Athena_R_Ore_T03
+[Thermal Scoped Assault Rifle : Legendary] : WID_Assault_Surgical_Thermal_Athena_SR_Ore_T03
+[Thermal Scoped Assault Rifle : Uncommon] : WID_Assault_Surgical_Thermal_Athena_UC_Ore_T03
+[Thermal Scoped Assault Rifle : Epic] : WID_Assault_Surgical_Thermal_Athena_VR_Ore_T03
+
+[Submachine Gun : Legendary] : WID_Athena_SMG_SR
+[Submachine Gun : Epic] : WID_Athena_SMG_VR
+
+[Dual Pistols : Epic] : WID_DualPistol_SemiAuto_Athena_SR_Ore_T03
+[Dual Pistols : Rare] : WID_DualPistol_SemiAuto_Athena_VR_Ore_T03
+
+[Dual Suppressed Pistols : Rare] : WID_DualPistol_Suppresseed_Athena_R_T01
+[Dual Suppressed Pistols : Uncommon] : WID_DualPistol_Suppresseed_Athena_UC_T01
+[Dual Suppressed Pistols : Epic] : WID_DualPistol_Suppresseed_Athena_VR_T01
+
+[Boom Bow : Legendary] : WID_ExplosiveBow_Athena_SR
+
+[Proximity Grenade Launcher   : Legendary] : WID_GrenadeLauncher_Prox_Athena_SR
+[Proximity Grenade Launcher   : Epic] : WID_GrenadeLauncher_Prox_Athena_VR
+
+[Harvesting Tool : Common] : WID_Harvest_HalloweenScythe_Athena_C_T01
+
+[Pickaxe : Common] : WID_Harvest_Pickaxe_SpeedyMidnight
+
+[Grappler : Epic] : WID_Hook_Gun_Papaya_R_Ore_T03
+[Grappler : Rare] : WID_Hook_Gun_Spytech_R_Ore_T03
+[Grappler : Epic] : WID_Hook_Gun_Spytech_VR_Ore_T03
+[Grappler : Epic] : WID_Hook_Gun_VR_Ore_T03
+
+[Grenade Launcher   : Rare] : WID_Launcher_Grenade_Athena_R_Ore_T03
+[Grenade Launcher   : Legendary] : WID_Launcher_Grenade_Athena_SR_Ore_T03
+[Grenade Launcher   : Epic] : WID_Launcher_Grenade_Athena_VR_Ore_T03
+
+[Quad Launcher : Legendary] : WID_Launcher_Military_Athena_SR_Ore_T03
+[Quad Launcher : Epic] : WID_Launcher_Military_Athena_VR_Ore_T03
+
+[Rocket Launcher    : Common] : WID_Launcher_Rocket_Athena_C_Ore_T03
+[Rocket Launcher    : Rare] : WID_Launcher_Rocket_Athena_R_Ore_T03
+[Rocket Launcher    : Legendary] : WID_Launcher_Rocket_Athena_SR_Ore_T03
+[Rocket Launcher    : Uncommon] : WID_Launcher_Rocket_Athena_UC_Ore_T03
+[Rocket Launcher    : Epic] : WID_Launcher_Rocket_Athena_VR_Ore_T03
+
+[Shockwave Launcher : Legendary] : WID_Launcher_Shockwave_Athena_SR
+
+[Kit's Shockwave Launcher : Mythic] : WID_Launcher_Shockwave_Athena_UR_Ore_T03
+
+[Pistol : Common] : WID_Pistol_Auto_Athena_C
+[Pistol : Rare] : WID_Pistol_Auto_Athena_R
+[Pistol : Legendary] : WID_Pistol_Auto_Athena_SR
+[Pistol : Uncommon] : WID_Pistol_Auto_Athena_UC
+[Pistol : Epic] : WID_Pistol_Auto_Athena_VR
+
+[Machine Pistol : Common] : WID_Pistol_AutoHeavy_Athena_C_Ore_T02
+[Machine Pistol : Rare] : WID_Pistol_AutoHeavy_Athena_R_Ore_T03
+[Machine Pistol : Uncommon] : WID_Pistol_AutoHeavy_Athena_UC_Ore_T03
+
+[Submachine Gun : Common] : WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03
+[Submachine Gun : Rare] : WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03
+[Submachine Gun : Legendary] : WID_Pistol_AutoHeavyPDW_Athena_SR_Ore_T03
+[Submachine Gun : Uncommon] : WID_Pistol_AutoHeavyPDW_Athena_UC_Ore_T03
+[Submachine Gun : Epic] : WID_Pistol_AutoHeavyPDW_Athena_VR_Ore_T03
+
+[Suppressed Submachine Gun : Common] : WID_Pistol_AutoHeavySuppressed_Athena_C_Ore_T02
+[Suppressed Submachine Gun : Rare] : WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03
+[Suppressed Submachine Gun : Legendary] : WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03
+[Suppressed Submachine Gun : Uncommon] : WID_Pistol_AutoHeavySuppressed_Athena_UC_Ore_T03
+[Suppressed Submachine Gun : Mythic] : WID_Pistol_AutoHeavySuppressed_Athena_UR_Ore_T03
+[Suppressed Submachine Gun : Epic] : WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03
+
+[Burst SMG : Common] : WID_Pistol_BurstFireSMG_Athena_C_Ore_T03
+[Burst SMG : Rare] : WID_Pistol_BurstFireSMG_Athena_R_Ore_T03
+[Burst SMG : Uncommon] : WID_Pistol_BurstFireSMG_Athena_UC_Ore_T03
+
+[Flint-Knock Pistol : Common] : WID_Pistol_Flintlock_Athena_C
+[Flint-Knock Pistol : Uncommon] : WID_Pistol_Flintlock_Athena_UC
+
+[Legacy Hand Cannon : Rare] : WID_Pistol_HandCannon_Athena_R_Ore_T03
+[Legacy Hand Cannon : Legendary] : WID_Pistol_HandCannon_Athena_SR_Ore_T03
+[Legacy Hand Cannon : Epic] : WID_Pistol_HandCannon_Athena_VR_Ore_T03
+
+[Hand Cannon : Legendary] : WID_Pistol_HandCannon_Tech_Athena_SR_Ore_T03
+[Hand Cannon : Epic] : WID_Pistol_HandCannon_Tech_Athena_VR_Ore_T03
+
+[Machine SMG : Common] : WID_Pistol_Machine_Athena_C
+[Machine SMG : Rare] : WID_Pistol_Machine_Athena_R
+[Machine SMG : Legendary] : WID_Pistol_Machine_Athena_SR
+[Machine SMG : Uncommon] : WID_Pistol_Machine_Athena_UC
+[Machine SMG : Epic] : WID_Pistol_Machine_Athena_VR
+
+[Rapid Fire SMG : Common] : WID_Pistol_RapidFireSMG_Athena_C_Ore_T03
+[Rapid Fire SMG : Rare] : WID_Pistol_RapidFireSMG_Athena_R_Ore_T03
+[Rapid Fire SMG : Legendary] : WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03
+[Rapid Fire SMG : Uncommon] : WID_Pistol_RapidFireSMG_Athena_UC_Ore_T03
+[Rapid Fire SMG : Mythic] : WID_Pistol_RapidFireSMG_Athena_UR_Ore_T03
+[Rapid Fire SMG : Epic] : WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03
+
+[Six Shooter : Rare] : WID_Pistol_Revolver_SingleAction_Athena_R
+[Six Shooter : Uncommon] : WID_Pistol_Revolver_SingleAction_Athena_UC
+[Six Shooter : Epic] : WID_Pistol_Revolver_SingleAction_Athena_VR
+
+[Tactical Submachine Gun : Rare] : WID_Pistol_Scavenger_Athena_R_Ore_T03
+[Tactical Submachine Gun : Legendary] : WID_Pistol_Scavenger_Athena_SR_Ore_T03
+[Tactical Submachine Gun : Uncommon] : WID_Pistol_Scavenger_Athena_UC_Ore_T03
+[Tactical Submachine Gun : Epic] : WID_Pistol_Scavenger_Athena_VR_Ore_T03
+
+[Scoped Revolver : Legendary] : WID_Pistol_Scoped_Athena_SR_Ore_T03
+[Scoped Revolver : Epic] : WID_Pistol_Scoped_Athena_VR_Ore_T03
+
+[Pistol : Common] : WID_Pistol_SemiAuto_Athena_C_Ore_T02
+[Pistol : Rare] : WID_Pistol_SemiAuto_Athena_R_Ore_T03
+
+[Semi-Auto Suppressed Pistol : Epic] : WID_Pistol_SemiAuto_Athena_SR_Ore_T03
+
+[Pistol : Uncommon] : WID_Pistol_SemiAuto_Athena_UC_Ore_T03
+
+[Semi-Auto Suppressed Pistol : Rare] : WID_Pistol_SemiAuto_Athena_VR_Ore_T03
+[Semi-Auto Suppressed Pistol : Legendary] : WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03
+[Semi-Auto Suppressed Pistol : Uncommon] : WID_Pistol_SemiAuto_Suppressed_Athena_UC_Ore_T03
+
+[Revolver : Common] : WID_Pistol_SixShooter_Athena_C_Ore_T02
+[Revolver : Rare] : WID_Pistol_SixShooter_Athena_R_Ore_T03
+[Revolver : Legendary] : WID_Pistol_SixShooter_Athena_SR_Ore_T03
+[Revolver : Uncommon] : WID_Pistol_SixShooter_Athena_UC_Ore_T03
+[Revolver : Epic] : WID_Pistol_SixShooter_Athena_VR_Ore_T03
+
+[Pistol : Legendary] : WID_Pistol_Standard_Athena_SR
+[Pistol : Epic] : WID_Pistol_Standard_Athena_VR
+
+[Suppressed Pistol : Common] : WID_Pistol_Suppressed_Athena_C
+[Suppressed Pistol : Rare] : WID_Pistol_Suppressed_Athena_R
+[Suppressed Pistol : Legendary] : WID_Pistol_Suppressed_Athena_SR
+[Suppressed Pistol : Uncommon] : WID_Pistol_Suppressed_Athena_UC
+[Suppressed Pistol : Epic] : WID_Pistol_Suppressed_Athena_VR
+
+[Drum Shotgun : Common] : WID_Shotgun_AutoDrum_Athena_C_Ore_T03
+[Drum Shotgun : Rare] : WID_Shotgun_AutoDrum_Athena_R_Ore_T03
+[Drum Shotgun : Legendary] : WID_Shotgun_AutoDrum_Athena_SR_Ore_T03
+[Drum Shotgun : Uncommon] : WID_Shotgun_AutoDrum_Athena_UC_Ore_T03
+
+[Enhanced Drum Shotgun : Mythic] : WID_Shotgun_AutoDrum_Athena_UR_Ore_T03
+
+[Drum Shotgun : Epic] : WID_Shotgun_AutoDrum_Athena_VR_Ore_T03
+
+[Double Barrel Shotgun : Legendary] : WID_Shotgun_BreakBarrel_Athena_SR_Ore_T03
+[Double Barrel Shotgun : Epic] : WID_Shotgun_BreakBarrel_Athena_VR_Ore_T03
+
+[Dragon's Breath Shotgun : Legendary] : WID_Shotgun_BreakBarrel_Dragon_Athena_SR_Ore_T03
+[Dragon's Breath Shotgun : Epic] : WID_Shotgun_BreakBarrel_Dragon_Athena_VR_Ore_T03
+
+[Charge Shotgun : Common] : WID_Shotgun_Charge_Athena_C_Ore_T03
+[Charge Shotgun : Rare] : WID_Shotgun_Charge_Athena_R_Ore_T03
+[Charge Shotgun : Legendary] : WID_Shotgun_Charge_Athena_SR_Ore_T03
+[Charge Shotgun : Uncommon] : WID_Shotgun_Charge_Athena_UC_Ore_T03
+
+[Kit's Charge Shotgun : Mythic] : WID_Shotgun_Charge_Athena_UR_Ore_T03
+
+[Charge Shotgun : Epic] : WID_Shotgun_Charge_Athena_VR_Ore_T03
+
+[Legacy Combat Shotgun : Common] : WID_Shotgun_Combat_Athena_C_Ore_T03
+[Legacy Combat Shotgun : Rare] : WID_Shotgun_Combat_Athena_R_Ore_T03
+[Legacy Combat Shotgun : Legendary] : WID_Shotgun_Combat_Athena_SR_Ore_T03
+[Legacy Combat Shotgun : Uncommon] : WID_Shotgun_Combat_Athena_UC_Ore_T03
+[Legacy Combat Shotgun : Epic] : WID_Shotgun_Combat_Athena_VR_Ore_T03
+
+[Heavy Shotgun : Common] : WID_Shotgun_Heavy_Athena_C
+[Heavy Shotgun : Rare] : WID_Shotgun_Heavy_Athena_R
+[Heavy Shotgun : Legendary] : WID_Shotgun_Heavy_Athena_SR
+[Heavy Shotgun : Uncommon] : WID_Shotgun_Heavy_Athena_UC
+[Heavy Shotgun : Epic] : WID_Shotgun_Heavy_Athena_VR
+
+[Tactical Shotgun : Legendary] : WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03
+[Tactical Shotgun : Epic] : WID_Shotgun_HighSemiAuto_Athena_VR_Ore_T03
+[Tactical Shotgun : Uncommon] : WID_Shotgun_SemiAuto_Athena_R_Ore_T03
+[Tactical Shotgun : Common] : WID_Shotgun_SemiAuto_Athena_UC_Ore_T03
+[Tactical Shotgun : Rare] : WID_Shotgun_SemiAuto_Athena_VR_Ore_T03
+
+[Heavy Shotgun : Rare] : WID_Shotgun_SlugFire_Athena_R
+[Heavy Shotgun : Legendary] : WID_Shotgun_SlugFire_Athena_SR
+[Heavy Shotgun : Epic] : WID_Shotgun_SlugFire_Athena_VR
+[Heavy Shotgun : Legendary] : WID_Shotgun_SpyTech_SlugFire_Athena_SR
+[Heavy Shotgun : Epic] : WID_Shotgun_SpyTech_SlugFire_Athena_VR
+
+[Pump Shotgun : Uncommon] : WID_Shotgun_Standard_Athena_C_Ore_T03
+[Pump Shotgun : Common] : WID_Shotgun_Standard_Athena_Common
+[Pump Shotgun : Legendary] : WID_Shotgun_Standard_Athena_SR_Ore_T03
+[Pump Shotgun : Rare] : WID_Shotgun_Standard_Athena_UC_Ore_T03
+[Pump Shotgun : Epic] : WID_Shotgun_Standard_Athena_VR_Ore_T03
+[Pump Shotgun : Epic] : WID_Shotgun_Standard_SpyTech_VR_T01
+
+[Lever Action Shotgun : Common] : WID_Shotgun_Swing_Athena_C
+[Lever Action Shotgun : Rare] : WID_Shotgun_Swing_Athena_R
+[Lever Action Shotgun : Legendary] : WID_Shotgun_Swing_Athena_SR
+[Lever Action Shotgun : Uncommon] : WID_Shotgun_Swing_Athena_UC
+[Lever Action Shotgun : Epic] : WID_Shotgun_Swing_Athena_VR
+
+[Automatic Sniper Rifle : Rare] : WID_Sniper_Auto_Suppressed_Scope_Athena_R
+[Automatic Sniper Rifle : Legendary] : WID_Sniper_Auto_Suppressed_Scope_Athena_SR
+[Automatic Sniper Rifle : Uncommon] : WID_Sniper_Auto_Suppressed_Scope_Athena_UC
+[Automatic Sniper Rifle : Epic] : WID_Sniper_Auto_Suppressed_Scope_Athena_VR
+
+[Bolt-Action Sniper Rifle : Common] : WID_Sniper_BoltAction_Scope_Athena_C_Ore_T03
+[Bolt-Action Sniper Rifle : Rare] : WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03
+[Bolt-Action Sniper Rifle : Legendary] : WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03
+[Bolt-Action Sniper Rifle : Uncommon] : WID_Sniper_BoltAction_Scope_Athena_UC_Ore_T03
+[Bolt-Action Sniper Rifle : Epic] : WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03
+
+[Lever Action Rifle : Rare] : WID_Sniper_Cowboy_Athena_R
+[Lever Action Rifle : Legendary] : WID_Sniper_Cowboy_Athena_SR
+[Lever Action Rifle : Uncommon] : WID_Sniper_Cowboy_Athena_UC
+[Lever Action Rifle : Epic] : WID_Sniper_Cowboy_Athena_VR
+
+[Crossbow : Rare] : WID_Sniper_Crossbow_Athena_R_Ore_T03
+[Crossbow : Epic] : WID_Sniper_Crossbow_Athena_VR_Ore_T03
+
+[Heavy Sniper Rifle : Rare] : WID_Sniper_Heavy_Athena_R_Ore_T03
+[Heavy Sniper Rifle : Legendary] : WID_Sniper_Heavy_Athena_SR_Ore_T03
+[Heavy Sniper Rifle : Mythic] : WID_Sniper_Heavy_Athena_UR_Ore_T03
+[Heavy Sniper Rifle : Epic] : WID_Sniper_Heavy_Athena_VR_Ore_T03
+
+[Hunting Rifle : Rare] : WID_Sniper_NoScope_Athena_R_Ore_T03
+[Hunting Rifle : Uncommon] : WID_Sniper_NoScope_Athena_UC_Ore_T03
+
+[Semi-Auto Sniper Rifle   : Rare] : WID_Sniper_Standard_Scope_Athena_SR_Ore_T03
+[Semi-Auto Sniper Rifle   : Legendary] : WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03
+[Semi-Auto Sniper Rifle   : Legendary] : WID_Sniper_Standard_Scope_Athena_SuperRare_Spytech_Ore_T03
+[Semi-Auto Sniper Rifle   : Epic] : WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03
+[Semi-Auto Sniper Rifle   : Epic] : WID_Sniper_Standard_Scope_Athena_VeryRare_Spytech_Ore_T03
+
+[Semi-Auto Sniper Rifle    : Uncommon] : WID_Sniper_Standard_Scope_Athena_VR_Ore_T03
+
+[Suppressed Sniper Rifle : Rare] : WID_Sniper_Suppressed_Scope_Athena_R_Ore_T03
+[Suppressed Sniper Rifle : Legendary] : WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03
+[Suppressed Sniper Rifle : Epic] : WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03
+[Suppressed Sniper Rifle : Legendary] : WID_Sniper_Suppressed_ThermalScope_SpyTech_Athena_SR_Ore_T03
+[Suppressed Sniper Rifle : Epic] : WID_Sniper_Suppressed_ThermalScope_SpyTech_Athena_VR_Ore_T03
+
+[Storm Scout Sniper Rifle : Legendary] : WID_Sniper_Weather_Athena_SR
+[Storm Scout Sniper Rifle : Epic] : WID_Sniper_Weather_Athena_VR
+
+[Fiend Hunter Crossbow : Epic] : WID_Special_FiendHunter_Athena_VR_Ore_T03
+
+[Dual Pistols : Legendary] : WID_Spytech_DualPistol_SemiAuto_Athena_SR_Ore_T03
+[Dual Pistols : Uncommon] : WID_Spytech_DualPistol_SemiAuto_Athena_UC_Ore_T03
+
+[Dual Suppressed Pistols : Legendary] : WID_Spytech_DualPistol_Suppresseed_Athena_SR_T01
+
+[Suppressed Pistol : Rare] : WID_Spytech_Pistol_SemiAuto_Suppressed_Athena_R_Ore_T03
+[Suppressed Pistol : Epic] : WID_Spytech_Pistol_SemiAuto_Suppressed_Athena_VR_Ore_T03
+
+[Bottle Rockets : Uncommon] : Athena_FireworksMortar
+
+[Boogie Bomb : Rare] : Athena_DanceGrenade
+
+[Custom Smoke Grenade : Uncommon] : Creative_CustomizableSmokeGrenade
+
+[Held Item : Unattainable] : WID_HeldObject
+
+[Remote Explosives : Epic] : Athena_C4
+
+[Mythic Goldfish : Mythic] : WID_Athena_Bucket_Nice
+
+[Rusty Can : Common] : WID_Athena_Bucket_Old
+
+[Boom Box : Epic] : BoomBox_Athena
+
+[Storm Scout : Transcendent] : WID_WaffleTruck_Sniper_StormScout
+
+[Creative Pro Fishing Rod : Rare] : WID_Creative_FloppingRabbit_HighTier_Loot
+
+[Creative Fishing Rod : Common] : WID_Creative_FloppingRabbit_Loot
+
+[NONE : Uncommon] : BuildingItemData_Floor
+[NONE : Uncommon] : BuildingItemData_RoofS
+[NONE : Uncommon] : BuildingItemData_SmartBox
+[NONE : Uncommon] : BuildingItemData_SmartBridge
+[NONE : Uncommon] : BuildingItemData_SmartProtectedRamp
+[NONE : Uncommon] : BuildingItemData_SmartTower
+[NONE : Uncommon] : BuildingItemData_Stair_W
+[NONE : Uncommon] : BuildingItemData_Wall
+
+[Dragon's Breath Sniper : Transcendent] : WID_WaffleTruck_Sniper_DragonBreath
+
+[Frozen : Transcendent] : WID_WaffleTruck_SMG_Frozen
+
+[Chug Cannon : Transcendent] : WID_WaffleTruck_Rocket_Slurp
+
+[Shadow Tracker : Transcendent] : WID_WaffleTruck_Pistol_Tracking
+
+[Night Hawk : Transcendent] : WID_WaffleTruck_Pistol_ThermalScope
+
+[Burst Quad Launcher : Transcendent] : WID_WaffleTruck_Launcher_DrunkenQuad
+
+[Hop Rock Dualies : Transcendent] : WID_WaffleTruck_HopRockDualies
+
+[The Dub : Transcendent] : WID_WaffleTruck_Dub
+
+[The Big Chill : Transcendent] : WID_WaffleTruck_ChillerLauncher
+
+[Boom Sniper Rifle : Transcendent] : WID_WaffleTruck_BoomSniper
+
+[Biplane : Rare] : WID_Octopus_Weapon
+
+[Pirate Cannon : Rare] : ShipCannon_Weapon_InCannon
+[Pirate Cannon : Rare] : ShipCannon_Weapon
+
+[Cupid's Crossbow : Epic] : WID_Sniper_Valentine_Athena_VR_Ore_T03
+
+[Snowball Launcher : Epic] : WID_Launcher_Snowball_Athena_VR_Ore_T03
+[Snowball Launcher : Uncommon] : WID_Launcher_Snowball_Athena_UC_Ore_T03
+[Snowball Launcher : Legendary] : WID_Launcher_Snowball_Athena_SR_Ore_T03
+[Snowball Launcher : Rare] : WID_Launcher_Snowball_Athena_R_Ore_T03
+
+[Pumpkin Launcher    : Epic] : WID_Launcher_Pumpkin_Athena_VR_Ore_T03
+[Pumpkin Launcher    : Uncommon] : WID_Launcher_Pumpkin_Athena_UC_Ore_T03
+[Pumpkin Launcher    : Legendary] : WID_Launcher_Pumpkin_Athena_SR_Ore_T03
+[Pumpkin Launcher    : Rare] : WID_Launcher_Pumpkin_Athena_R_Ore_T03
+
+[Egg Launcher   : Epic] : WID_Launcher_Egg_Athena_VR_Ore_T03
+[Egg Launcher   : Uncommon] : WID_Launcher_Egg_Athena_UC_Ore_T03
+[Egg Launcher   : Legendary] : WID_Launcher_Egg_Athena_SR_Ore_T03
+[Egg Launcher   : Rare] : WID_Launcher_Egg_Athena_R_Ore_T03
+
+[Lump of Coal : Common] : WID_Athena_Bucket_Coal
+
+[Tin Stack : Uncommon] : WID_TinStack
+
+[Proximity Mine : Epic] : WID_Athena_PurpleMouse_VR
+[Proximity Mine : Rare] : WID_Athena_PurpleMouse
+
+[NONE : Common] : WID_Petrol_Pump_Helios
+[NONE : Common] : WID_Petrol_Pump
+
+[Orange Paint Launcher   : Rare] : WID_PaintLauncher_Red_Creative
+[Orange Paint Launcher   : Rare] : WID_PaintLauncher_Red
+
+[Purple Paint Launcher   : Rare] : WID_PaintLauncher_Blue_Creative
+[Purple Paint Launcher   : Rare] : WID_PaintLauncher_Blue
+
+[Cinematic Paint Launcher : Rare] : WID_Paint_Launcher_Cinematic_Creative
+
+[Tomato : Rare] : WID_Grenade_Tomato
+
+[Orange Paint Grenade : Rare] : WID_Grenade_Paint_Red
+
+[Purple Paint Grenade : Rare] : WID_Grenade_Paint_Blue
+
+[Burger : Rare] : WID_Grenade_Burger
+
+[Plunger Bow : Rare] : WID_Bow_Plunger
+
+[First Order Blaster Rifle : Mythic] : WID_Galileo_Bun_Athena_UC
+
+[Prop-o-matic : Rare] : WID_PropPossessor
+
+[Gas Can : Common] : WID_Launcher_Petrol
+
+[NONE : Uncommon] : WID_Galileo_Weapon
+
+[Flare Gun : Rare] : WID_FringePlank_Athena_Prototype
+[Flare Gun : Rare] : WID_FlareGun_Athena_Prototype
+
+[Fire Extinguisher : Common] : WID_FireExtinguisher_Spray
+
+[Phone : Rare] : WID_CreativeTool
+
+[Hunting Rifle : Epic] : WID_Sniper_NoScope_Athena_VR_Ore_T03
+[Hunting Rifle : Legendary] : WID_Sniper_NoScope_Athena_SR_Ore_T03
+
+[Grappler : Epic] : WID_Hook_Gun_Slide
+
+[Flashlight : Rare] : WID_Ranged_Flashlight
+
+[Flashlight Pistol : Rare] : WID_Pistol_Flashlight
+
+[Torch : Rare] : WID_Melee_Torch
+
+[Electric Gun (Elephant Garlic) : Epic] : WID_BattleLab_ElephantGarlic
+
+[TNTina's Ka-Boom Bow : Mythic] : WID_Boss_Tina_Deprecated
+
+[Midas' Drum Gun (OG) : Mythic] : WID_Boss_MidasDrumGun
+
+[Jules' Drum Gun : Mythic] : WID_Boss_Midas
+
+[Meowscle's Peow Peow Rifle : Mythic] : WID_Boss_Meow_HA
+
+[Brutus' Minigun : Mythic] : WID_Boss_Hos_MG
+
+[Jules' Glider Gun : Mythic] : WID_Boss_GrapplingHoot
+
+[Shadow Midas' Drum Gun : Mythic] : WID_Boss_GhostMidas
+
+[Inkquisitor's Suppressed SMG : Mythic] : WID_Boss_Freaky
+
+[Skye's Grappler : Mythic] : WID_Boss_Adventure_GH
+
+[Skye's Assault Rifle : Mythic] : WID_Boss_Adventure_AR
+
+[NONE : Uncommon] : TID_Creative_ItemSpawnerV2
+
+[Boom Billy : Rare] - [SourdoughBreadGameplay] : WID_SourdoughBread
+
+[Key : Rare] - [KeysAndLocks] : AGID_KeysAndLocks_Key
+
+[Small Key : Common] - [KeysAndLocks] : WID_KeysAndLocks_SmallKey
+
+[True Ice Grenade : Common] - [Ice] : Athena_TrueIceGrenade
+
+[The Big Chill : Transcendent] - [Ice] : WID_IceLauncher_Athena
+
+[Shuri's Black Panther Claws : Epic] - [ChapWormGameplay] : WID_ChapWorm
+
+[Captain America's Shield : Epic] - [AshtonGameplay] : WID_Ashton_Shield
+
+[Hover Jets : Mythic] - [HoverGameplay] : AGID_Hover_Base
+
+[Wolverine's Claws : Epic] - [WasabiGameplay] : WID_Wasabi_Claws
+
+[Chainsaw (Auto) : Epic] - [ChainsawGameplay] : WID_Chainsaw
+
+[Chainsaw : Epic] - [ChainsawGameplay] : AGID_Chainsaw
+
+[Shield Breaker EMP : Rare] - [EMPGameplay] : WID_Athena_Grenade_EMP
+
+[Grapple Glider : Epic] - [GrappleGlider] : WID_GrappleGlider
+
+[FlowBerry Fizz : Rare] - [PaprikaConsumables] : WID_Paprika_TeamSpray_LowGrav
+
+[FlowBerry : Uncommon] - [PaprikaConsumables] : WID_Paprika_SlapShot
+
+[Med Kit : Uncommon] - [PaprikaConsumables] : WID_Paprika_MedBox
+
+[Shield Potion : Rare] - [PaprikaConsumables] : WID_Paprika_ShieldPot
+
+[Bandage : Common] - [PaprikaConsumables] : WID_Paprika_Bandage
+
+[Small Shield Potion : Uncommon] - [PaprikaConsumables] : WID_Paprika_ShieldSmall
+
+[Slap Juice : Rare] - [MusterConsumables] : WID_Athena_EnergyDrink
+
+[Bounce Pad Plant Spawner : Uncommon] - [BouncePadPlant] : WID_BouncePadPlant_Throwable_Test
+
+[Tactical DMR : Rare] - [ToggleZoomDMRGameplay] : WID_DMRToggleZoom_Athena_R
+[Tactical DMR : Legendary] - [ToggleZoomDMRGameplay] : WID_DMRToggleZoom_Athena_SR
+[Tactical DMR : Common] - [ToggleZoomDMRGameplay] : WID_DMRToggleZoom_Athena_C
+[Tactical DMR : Uncommon] - [ToggleZoomDMRGameplay] : WID_DMRToggleZoom_Athena_UC
+[Tactical DMR : Epic] - [ToggleZoomDMRGameplay] : WID_DMRToggleZoom_Athena_VR
+
+[Power Guitar : Uncommon] - [MusterInstruments] : WID_Muster_Guitar
+
+[Charge SMG : Common] - [DaisyWeaponGameplay] : WID_ChargeSMG_Athena_C
+[Charge SMG : Epic] - [DaisyWeaponGameplay] : WID_ChargeSMG_Athena_VR
+[Charge SMG : Mythic] - [DaisyWeaponGameplay] : WID_ChargeSMG_Athena_UR
+[Charge SMG : Legendary] - [DaisyWeaponGameplay] : WID_ChargeSMG_Athena_SR
+[Charge SMG : Uncommon] - [DaisyWeaponGameplay] : WID_ChargeSMG_Athena_UC
+[Charge SMG : Rare] - [DaisyWeaponGameplay] : WID_ChargeSMG_Athena_R
+
+[Two-Shot Shotgun : Uncommon] - [DaisyWeaponGameplay] : WID_Shotgun_TwoShot_Pump_Athena_UC
+
+[DMR : Rare] - [DaisyWeaponGameplay] : WID_DMR_Athena_R
+
+[Hammer Assault Rifle : Uncommon] - [DaisyWeaponGameplay] : WID_Assault_Heavy_Recoil_Athena_UC
+
+[Two-Shot Shotgun : Mythic] - [DaisyWeaponGameplay] : WID_Shotgun_TwoShot_Pump_Athena_UR
+[Two-Shot Shotgun : Epic] - [DaisyWeaponGameplay] : WID_Shotgun_TwoShot_Pump_Athena_VR
+
+[Prime Shotgun : Mythic] - [DaisyWeaponGameplay] : WID_Shotgun_OverLoad_Athena_UR
+
+[DMR : Epic] - [DaisyWeaponGameplay] : WID_DMR_Athena_VR
+
+[Two-Shot Shotgun : Common] - [DaisyWeaponGameplay] : WID_Shotgun_TwoShot_Pump_Athena_C
+[Two-Shot Shotgun : Rare] - [DaisyWeaponGameplay] : WID_Shotgun_TwoShot_Pump_Athena_R
+
+[Hammer Assault Rifle : Mythic] - [DaisyWeaponGameplay] : WID_Assault_Heavy_Recoil_Athena_UR
+
+[Prime Shotgun : Uncommon] - [DaisyWeaponGameplay] : WID_Shotgun_OverLoad_Athena_UC
+[Prime Shotgun : Legendary] - [DaisyWeaponGameplay] : WID_Shotgun_OverLoad_Athena_SR
+[Prime Shotgun : Rare] - [DaisyWeaponGameplay] : WID_Shotgun_OverLoad_Athena_R
+
+[DMR : Legendary] - [DaisyWeaponGameplay] : WID_DMR_Athena_SR
+[DMR : Uncommon] - [DaisyWeaponGameplay] : WID_DMR_Athena_UC
+
+[Prime Shotgun : Common] - [DaisyWeaponGameplay] : WID_Shotgun_OverLoad_Athena_C
+
+[Hammer Assault Rifle : Epic] - [DaisyWeaponGameplay] : WID_Assault_Heavy_Recoil_Athena_VR
+[Hammer Assault Rifle : Legendary] - [DaisyWeaponGameplay] : WID_Assault_Heavy_Recoil_Athena_SR
+
+[Prime Shotgun : Epic] - [DaisyWeaponGameplay] : WID_Shotgun_OverLoad_Athena_VR
+
+[Two-Shot Shotgun : Legendary] - [DaisyWeaponGameplay] : WID_Shotgun_TwoShot_Pump_Athena_SR
+
+[DMR : Common] - [DaisyWeaponGameplay] : WID_DMR_Athena_C
+[DMR : Mythic] - [DaisyWeaponGameplay] : WID_DMR_Athena_UR
+
+[Hammer Assault Rifle : Common] - [DaisyWeaponGameplay] : WID_Assault_Heavy_Recoil_Athena_C
+[Hammer Assault Rifle : Rare] - [DaisyWeaponGameplay] : WID_Assault_Heavy_Recoil_Athena_R
+
+[Launch Pad : Rare] - [LaunchPadItemGameplay] : WID_Athena_LaunchPadThrown
+
+[Wood Stake Shotgun : Rare] - [VampireStakeGameplay] : WID_VampireStake_Shotgun_R
+[Wood Stake Shotgun : Legendary] - [VampireStakeGameplay] : WID_VampireStake_Shotgun_SR
+
+[High Stakes' Shotgun : Mythic] - [VampireStakeGameplay] : WID_VampireStake_Shotgun_UR
+
+[Wood Stake Shotgun : Epic] - [VampireStakeGameplay] : WID_VampireStake_Shotgun_VR
+
+[Shield Bubble Jr. : Uncommon] - [ShieldBubble] : Athena_SilverBlazer_Mini_UC
+
+[Enhanced Havoc Shotgun : Mythic] - [RadicalWeaponsGameplay] : WID_Shotgun_RadicalPump_Athena_UR
+
+[Havoc Pump Shotgun : Legendary] - [RadicalWeaponsGameplay] : WID_Shotgun_RadicalPump_Athena_SR
+[Havoc Pump Shotgun : Uncommon] - [RadicalWeaponsGameplay] : WID_Shotgun_RadicalPump_Athena_UC
+[Havoc Pump Shotgun : Rare] - [RadicalWeaponsGameplay] : WID_Shotgun_RadicalPump_Athena_R
+[Havoc Pump Shotgun : Common] - [RadicalWeaponsGameplay] : WID_Shotgun_RadicalPump_Athena_C
+[Havoc Pump Shotgun : Epic] - [RadicalWeaponsGameplay] : WID_Shotgun_RadicalPump_Athena_VR
+
+[Havoc Suppressed Assault Rifle : Mythic] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_UR
+[Havoc Suppressed Assault Rifle : Epic] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_VR
+[Havoc Suppressed Assault Rifle : Legendary] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_SR
+[Havoc Suppressed Assault Rifle : Uncommon] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_UC
+[Havoc Suppressed Assault Rifle : Rare] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_R
+[Havoc Suppressed Assault Rifle : Common] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_C
+
+[Highcard's Havoc Suppressed Rifle : Mythic] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_UR_CloneBoss
+
+[Overclocked Pulse Rifle : Mythic] - [RadicalWeaponsGameplay] : WID_Assault_PastaRipper_Athena_MMObj
+
+[Heart's Havoc Suppressed Rifle : Mythic] - [RadicalWeaponsGameplay] : WID_Assault_Radical_CoreAR_Athena_UR_HeartBoss
+
+[Firework Flare Gun : Rare] - [Fringeplank_Firework] : WID_Firework_Gun
+
+[Port-A-Bunker : Uncommon] - [PortAShackGameplay] : Athena_PortaShackGrenade_A
+
+[Mountain Keycard : Legendary] - [PaprikaStronghold] : AGID_Keycard_Stronghold_Mountain
+
+[Marina Keycard : Legendary] - [PaprikaStronghold] : AGID_Keycard_Stronghold_Marina
+
+[Yacht Keycard : Legendary] - [PaprikaStronghold] : AGID_Keycard_Stronghold_Yacht
+
+[Mansion Keycard : Legendary] - [PaprikaStronghold] : AGID_Keycard_Stronghold_Mansion
+
+[Train Station Keycard : Legendary] - [PaprikaStronghold] : AGID_Keycard_Stronghold_Train
+
+[Comms Keycard : Legendary] - [PaprikaStronghold] : AGID_Keycard_Stronghold_Comms
+
+[Pump Keycard : Legendary] - [PaprikaStronghold] : AGID_Keycard_Stronghold_Pump
+
+[SypherPK Trap Tower : Transcendent] - [HeadsetGameplay] : WID_Headset_A
+
+[Armored Wall : Uncommon] - [CorruptionItems] : TID_Context_Reinforced_Athena
+[Armored Wall : Uncommon] - [CorruptionItems] : TID_Ceiling_Reinforced_Athena
+[Armored Wall : Uncommon] - [CorruptionItems] : TID_Floor_Reinforced_Athena
+[Armored Wall : Uncommon] - [CorruptionItems] : TID_Wall_Reinforced_Athena
+[Armored Wall : Uncommon] - [CorruptionItems] : TID_Stair_Reinforced_Athena
+
+[Boss Minigun : Mythic] - [CorruptionItems] : WID_Assault_LMG_Powerup_Athena_Boss
+
+[Sideways Rifle : Common] - [CorruptionItems] : WID_Rifle_Powerup_Athena_C
+
+[Legacy Combat Assault Rifle : Rare] - [CorruptionItems] : WID_Assault_Recoil_Athena_R
+[Legacy Combat Assault Rifle : Uncommon] - [CorruptionItems] : WID_Assault_Recoil_Athena_UC
+
+[Sideways Minigun : Epic] - [CorruptionItems] : WID_Assault_LMG_Powerup_Athena_VR
+[Sideways Minigun : Rare] - [CorruptionItems] : WID_Assault_LMG_Powerup_Athena_R
+[Sideways Minigun : Mythic] - [CorruptionItems] : WID_Assault_LMG_Powerup_Athena_UR
+[Sideways Minigun : Legendary] - [CorruptionItems] : WID_Assault_LMG_Powerup_Athena_SR
+
+[Sideways Rifle : Epic] - [CorruptionItems] : WID_Rifle_Powerup_Athena_VR
+[Sideways Rifle : Mythic] - [CorruptionItems] : WID_Rifle_Powerup_Athena_UR
+[Sideways Rifle : Rare] - [CorruptionItems] : WID_Rifle_Powerup_Athena_R
+[Sideways Rifle : Legendary] - [CorruptionItems] : WID_Rifle_Powerup_Athena_SR
+
+[Combat SMG : Rare] - [CorruptionItems] : WID_SMG_Recoil_Athena_R
+
+[Sideways Minigun : Uncommon] - [CorruptionItems] : WID_Assault_LMG_Powerup_Athena_UC
+
+[Combat SMG : Uncommon] - [CorruptionItems] : WID_SMG_Recoil_Athena_UC
+
+[Sideways Rifle : Uncommon] - [CorruptionItems] : WID_Rifle_Powerup_Athena_UC
+
+[Legacy Combat Assault Rifle : Epic] - [CorruptionItems] : WID_Assault_Recoil_Athena_VR
+
+[Combat SMG : Mythic] - [CorruptionItems] : WID_SMG_Recoil_Athena_UR
+[Combat SMG : Legendary] - [CorruptionItems] : WID_SMG_Recoil_Athena_SR
+
+[Combat Pistol : Common] - [CorruptionItems] : WID_Pistol_Tactical_Athena_C
+[Combat Pistol : Rare] - [CorruptionItems] : WID_Pistol_Tactical_Athena_R
+
+[Combat SMG : Common] - [CorruptionItems] : WID_SMG_Recoil_Athena_C
+
+[Sideways Minigun : Common] - [CorruptionItems] : WID_Assault_LMG_Powerup_Athena_C
+
+[Legacy Combat Assault Rifle : Legendary] - [CorruptionItems] : WID_Assault_Recoil_Athena_SR
+[Legacy Combat Assault Rifle : Common] - [CorruptionItems] : WID_Assault_Recoil_Athena_C
+
+[Combat Pistol : Uncommon] - [CorruptionItems] : WID_Pistol_Tactical_Athena_UC
+
+[Combat SMG : Epic] - [CorruptionItems] : WID_SMG_Recoil_Athena_VR
+
+[Combat Pistol : Legendary] - [CorruptionItems] : WID_Pistol_Tactical_Athena_SR
+[Combat Pistol : Epic] - [CorruptionItems] : WID_Pistol_Tactical_Athena_VR
+
+[Cluster Clinger : Uncommon] - [ClusterBombGameplay] : WID_Paprika_ClusterBomb
+
+[Spire Jumpboots : Mythic] - [PrimalGameplay] : AGID_Athena_JumpBoots
+
+[NONE : Mythic] - [PrimalGameplay] : AGID_Disguise_Whiff
+
+[TNTina's Ka-Boom Bow : Mythic] - [PrimalGameplay] : AGID_Boss_Tina_Primal
+
+[Meat : Rare] - [PrimalGameplay] : WID_Athena_Meat_R
+
+[Primal Stink Bow : Rare] - [PrimalGameplay] : WID_Bow_Stink_Athena_R
+
+[Mechanical Explosive Bow : Rare] - [PrimalGameplay] : WID_Bow_ClusterBomb_Athena_R
+
+[Mechanical Shockwave Bow : Rare] - [PrimalGameplay] : WID_Bow_Shockwave_Athena_R
+
+[Primal Flame Bow : Rare] - [PrimalGameplay] : WID_Bow_Flame_Athena_R
+
+[Spire Jumpboots : Uncommon] - [PrimalGameplay] : WID_Athena_JumpBoots
+
+[Hunter's Cloak : Uncommon] - [PrimalGameplay] : WID_Athena_Whiff
+
+[Meat : Uncommon] - [PrimalGameplay] : WID_Athena_Meat
+
+[Cuddle Fish : Rare] - [PrimalGameplay] : WID_Athena_Flopper_CuddleFish
+
+[Dual Pistols : Epic] - [PrimalGameplay] : WID_DualPistol_SemiAuto_Athena_VR_Ore_T03_LeadAlloy
+[Dual Pistols : Uncommon] - [PrimalGameplay] : WID_DualPistol_SemiAuto_Athena_UC_Ore_T03_LeadAlloy
+[Dual Pistols : Legendary] - [PrimalGameplay] : WID_DualPistol_SemiAuto_Athena_SR_Ore_T03_LeadAlloy
+[Dual Pistols : Common] - [PrimalGameplay] : WID_DualPistol_SemiAuto_Athena_C_Ore_T03_LeadAlloy
+
+[Primal Stink Bow : Epic] - [PrimalGameplay] : WID_Bow_Stink_Athena_VR_LeadAlloy
+
+[Dual Pistols : Rare] - [PrimalGameplay] : WID_DualPistol_SemiAuto_Athena_R_Ore_T03_LeadAlloy
+
+[Primal Stink Bow : Legendary] - [PrimalGameplay] : WID_Bow_Stink_Athena_SR_LeadAlloy
+
+[Primal Flame Bow : Epic] - [PrimalGameplay] : WID_Bow_Flame_Athena_VR_LeadAlloy
+
+[Splinter Bow : Epic] - [PrimalGameplay] : WID_Bow_Splinter_Athena_VR_LeadAlloy
+
+[Mechanical Bow : Rare] - [PrimalGameplay] : WID_Bow_Metal_Athena_R_LeadAlloy
+
+[Primal Flame Bow : Legendary] - [PrimalGameplay] : WID_Bow_Flame_Athena_SR_LeadAlloy
+
+[Makeshift Bow : Uncommon] - [PrimalGameplay] : WID_Athena_Bow_Scrap_UC_LeadAlloy
+
+[Mechanical Explosive Bow : Legendary] - [PrimalGameplay] : WID_Bow_ClusterBomb_Athena_SR_LeadAlloy
+
+[Primal Bow : Rare] - [PrimalGameplay] : WID_Bow_Bone_Athena_R_LeadAlloy
+
+[Mechanical Explosive Bow : Epic] - [PrimalGameplay] : WID_Bow_ClusterBomb_Athena_VR_LeadAlloy
+
+[Makeshift Bow : Common] - [PrimalGameplay] : WID_Athena_Bow_Scrap_C_LeadAlloy
+
+[Recycler : Epic] - [PrimalGameplay] : WID_JunkGun_VR
+[Recycler : Legendary] - [PrimalGameplay] : WID_JunkGun_SR
+[Recycler : Rare] - [PrimalGameplay] : WID_JunkGun_R
+
+[Makeshift Submachine Gun : Common] - [PrimalGameplay] : WID_SMG_Scrap_Athena_C
+[Makeshift Submachine Gun : Rare] - [PrimalGameplay] : WID_SMG_Scrap_Athena_R
+[Makeshift Submachine Gun : Uncommon] - [PrimalGameplay] : WID_SMG_Scrap_Athena_UC
+
+[Makeshift Shotgun : Uncommon] - [PrimalGameplay] : WID_Shotgun_Scrap_Athena_UC
+
+[Makeshift Revolver : Uncommon] - [PrimalGameplay] : WID_Revolver_Scrap_Athena_UC
+[Makeshift Revolver : Rare] - [PrimalGameplay] : WID_Revolver_Scrap_Athena_R
+
+[Makeshift Shotgun : Common] - [PrimalGameplay] : WID_Shotgun_Scrap_Athena_C
+[Makeshift Shotgun : Rare] - [PrimalGameplay] : WID_Shotgun_Scrap_Athena_R
+
+[Makeshift Revolver : Common] - [PrimalGameplay] : WID_Revolver_Scrap_Athena_C
+
+[Makeshift Rifle : Common] - [PrimalGameplay] : WID_Assault_Scrap_Athena_C
+[Makeshift Rifle : Rare] - [PrimalGameplay] : WID_Assault_Scrap_Athena_R
+[Makeshift Rifle : Uncommon] - [PrimalGameplay] : WID_Assault_Scrap_Athena_UC
+
+[Primal SMG : Epic] - [PrimalGameplay] : WID_SMG_Bone_Athena_VR_Ore_T03
+[Primal SMG : Rare] - [PrimalGameplay] : WID_SMG_Bone_Athena_R_Ore_T03
+[Primal SMG : Legendary] - [PrimalGameplay] : WID_SMG_Bone_Athena_SR_Ore_T03
+[Primal SMG : Uncommon] - [PrimalGameplay] : WID_SMG_Bone_Athena_UC_Ore_T03
+
+[Primal Shotgun : Uncommon] - [PrimalGameplay] : WID_Shotgun_Bone_Athena_UC_Ore_T03
+[Primal Shotgun : Epic] - [PrimalGameplay] : WID_Shotgun_Bone_Athena_VR_Ore_T03
+[Primal Shotgun : Legendary] - [PrimalGameplay] : WID_Shotgun_Bone_Athena_SR_Ore_T03
+[Primal Shotgun : Rare] - [PrimalGameplay] : WID_Shotgun_Bone_Athena_R_Ore_T03
+
+[Primal Pistol : Uncommon] - [PrimalGameplay] : WID_Revolver_Bone_Athena_UC_Ore_T03
+[Primal Pistol : Legendary] - [PrimalGameplay] : WID_Revolver_Bone_Athena_SR_Ore_T03
+[Primal Pistol : Rare] - [PrimalGameplay] : WID_Revolver_Bone_Athena_R_Ore_T03
+[Primal Pistol : Epic] - [PrimalGameplay] : WID_Revolver_Bone_Athena_VR_Ore_T03
+
+[Primal Rifle : Rare] - [PrimalGameplay] : WID_Assault_Bone_Athena_R_Ore_T03
+[Primal Rifle : Uncommon] - [PrimalGameplay] : WID_Assault_Bone_Athena_UC_Ore_T03
+[Primal Rifle : Legendary] - [PrimalGameplay] : WID_Assault_Bone_Athena_SR_Ore_T03
+[Primal Rifle : Epic] - [PrimalGameplay] : WID_Assault_Bone_Athena_VR_Ore_T03
+
+[Grappler Bow : Transcendent] - [PrimalGameplay] : WID_Athena_Bow_Grappler
+
+[Marksman Six Shooter : Transcendent] - [PrimalGameplay] : WID_MarksmanRevolver
+
+[Primal Stink Bow : Epic] - [PrimalGameplay] : WID_Bow_Stink_Athena_VR
+[Primal Stink Bow : Legendary] - [PrimalGameplay] : WID_Bow_Stink_Athena_SR
+
+[Mechanical Shockwave Bow : Legendary] - [PrimalGameplay] : WID_Bow_Shockwave_Athena_SR
+[Mechanical Shockwave Bow : Epic] - [PrimalGameplay] : WID_Bow_Shockwave_Athena_VR
+
+[Makeshift Bow : Common] - [PrimalGameplay] : WID_Athena_Bow_Scrap_C
+[Makeshift Bow : Uncommon] - [PrimalGameplay] : WID_Athena_Bow_Scrap_UC
+
+[Mechanical Bow : Rare] - [PrimalGameplay] : WID_Bow_Metal_Athena_R
+
+[Mechanical Explosive Bow : Epic] - [PrimalGameplay] : WID_Bow_ClusterBomb_Athena_VR
+
+[Primal Flame Bow : Legendary] - [PrimalGameplay] : WID_Bow_Flame_Athena_SR
+[Primal Flame Bow : Epic] - [PrimalGameplay] : WID_Bow_Flame_Athena_VR
+
+[Raz's Explosive Bow : Mythic] - [PrimalGameplay] : WID_Bow_ClusterBomb_Athena_Boss
+
+[Spire Assassin's Primal Shotgun : Mythic] - [PrimalGameplay] : WID_Shotgun_Bone_Athena_Boss
+
+[Mechanical Explosive Bow : Legendary] - [PrimalGameplay] : WID_Bow_ClusterBomb_Athena_SR
+
+[Primal Bow : Rare] - [PrimalGameplay] : WID_Bow_Bone_Athena_R
+
+[Spire Assassin's Recycler : Mythic] - [PrimalGameplay] : WID_JunkGun_Athena_Boss
+
+[Spire Guardian's Primal Assault Rifle : Mythic] - [PrimalGameplay] : WID_Assault_Bone_Athena_Boss
+
+[TNTina's Ka-Boom Bow : Mythic] - [PrimalGameplay] : WID_Boss_Tina_Primal
+
+[Wheel Grenade : Uncommon] - [WheelGrenade] : WID_WheelGrenade
+
+[Big Wheel Grenade : Uncommon] - [WheelGrenade] : WID_BigWheelGrenade
+
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LexaFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Silencer
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Caterpillar
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TimeInterval
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JadeFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FrankieFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GateHound
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PinkTrooperMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Contaminate
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HornettaVine
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PopBucket
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ClashVMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WinterHunter
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacticalUrbanHammer
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Inferno
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkBomberSummerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonCat
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_WaywardRebel
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SnowmanFashion
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VoidRedemption
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetAssassin
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BoneWand
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AlienSummerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JetSkiMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Veiled
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkeletonHunter
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Ruckus
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VoltaicHuntress
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerSquash1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HeadhunterStarFNCS
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SweetCuddle_Blueberry
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NobleMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_STWCosmetic_Tier_5
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ProfessorPupMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BandageNinja
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TigerFashionFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FierceBraid
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DieselPunk
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Lilac
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SummerStrideFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Biker
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RuckusMini
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Metal
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WeepingWoodsMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SharpDresserDarkMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TeriyakiFishSkull1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PlantStand
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_IchorIncisor
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpaceFighterFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GoldenGuardAntler
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Bandolier
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CritterManiacMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StaminaMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Squeak
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LastVoiceDive
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BalletAssassin
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TaxiUpgraded_Vista
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CraftGlue
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpaceChimpMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Traveler
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DriftSwat
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Venice
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PartyGoldMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AllKnowing
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PsychicAphid
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NetworkFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Virtuous
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Moth
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Anchor_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ForsakeFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Impulse
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WayfareMaskFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GhostHunterFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BariumFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RankedDefender
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RainbowStraps
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_OceanRiderFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LoneWolfMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Hazmat
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SnowJacketYellowFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TyphoonRobotMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EvilCowboy
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonCatSpeedFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkiBoot
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ValentinesFashionFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RoosterMeltMouse
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WombatMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LollipopTricksterFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SharkSuitMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PotteryWheel
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RecordScratch
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LarsMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SeaSalt
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SilverBellWind
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TheOriginMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TaxiUpgradedMulticolorFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AxlFacet
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MascotMilitiaCuddle1h
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SandcastleMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TrifleMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Valor
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StereoFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ShovelMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Basketball
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Patches
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StallionSmoke
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RoseDust
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Mummy
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MasterKey
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlackMondayFemale1H_1V4HE
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PrairieSkip
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BroccoliMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KeenMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SAMFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SilentTempo
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ParcelGoldMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Mastermind
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ArtDeco
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HeadbandKMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CopperToll
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JetSkiFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AgentAce1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Flamingo_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FlowerSkeletonMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Hippie
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DinoHunterFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpyMaleFNCS
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RebirthSoldierFreshMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkPitMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RippedHarvester
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Meteorwomen_Alt
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DualParadoxGold
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SummerMarshmallowFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Stealth
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Yeti
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BrawnyBass
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_IvyCross
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FootballReferee
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BrightIon
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CroissantMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MilitaryFashionSummerMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PinkTrooper
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IceMaiden
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VillainessVault
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AssassinSuitSledgehammer
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BucketKick
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkShaman
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DragonMask
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NoshHunter1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PizzaPitPJ1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SlitherFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RacerZero
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_VoyagerRemix1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TiptoeMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpyTechFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RankedSpeeder
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AncientGladiatorMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FoxWarriorFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SubmarinerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Donut1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StoneViperFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ThornedEden
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ArcticIceBlue
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CactusRockerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Punchy
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpaceCuddlesFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_STWCosmetic_Basic
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PizzaParty
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SiennaMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TroubleMaker
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NightingaleFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TomatoKnightMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkullTrooper
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FlapjackWranglerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RedRiding
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GolfSummerFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StrontiumSpark
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AssembleL
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LightningDragon
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PiteousKicks
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacticalFisherman1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HayBrush
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_InnovatorSand
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CarrotCake
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TowerSentinelFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RenegadeRaiderHolidayFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SummerTide
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AssassinSledgehammerCamo
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FoeMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RoseForm
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CandyMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TigerRootFame
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ShrapnelFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TalonHime
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StarWalker
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_IronBlaze
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TigerRootHype
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CubeNinjaMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CactusDancerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CerealBoxMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PinkJet
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ChaosDarkIce
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Alchemy
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DistantEchoPro
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_EctoCat
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BrainMatter
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Feathers
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Mochi
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WeepingWoodsToonMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_EmeraldGlassGreen
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaptorArcticCamo
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CombatDollFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TurtleneckMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MetalScoutGlare
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CarbideBlack
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CollectableMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DojoMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CritterFrenzyMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FemaleGlowBro
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Douyu
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Sheath1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GallonBag
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BananaPhilosopher
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PotOfGold
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpyMaleFNCS1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CircuitBreaker
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Masako
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CandyAppleSour
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GuineaPig
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CandyCane
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PressureGhoul
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetOps
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SmallFryMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PowerFarmer
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BadBear
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HeadbandSMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DaffodilSong
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Hacivat
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GraffitiRemix1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MilitaryFashion
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WuKong
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_JollyTroll
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RustyBoltFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlizzardBomberFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FishermanFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetGoth
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FruitcakeFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PoisonFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PowerfulDozen
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CavalryBanditFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AgentSherbert
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BestDressedFNCS
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SunTideMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Dragon
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DapperPunch
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Elevate
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Balloon
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MindPinch
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BandageNinja1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Rhino
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PirouetteWeld
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_IndieBucket
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BrakePedal
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BarbequeLarry1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TacticKale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_InvaderMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PumpkinPunk
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PirateOctopus
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Jailbird
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SlurpMonsterSummerMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FalseVulture
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BirdNest
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Megalodon_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RedSleevesMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MonarchFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ChickenWarriorMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BackspinMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RoundThumb
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_QuarrelFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RelishFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Banana
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DriftHorrorMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpyTechMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ObsidianFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GrimMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ScarletBionic
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ParcelPrankMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_District_Athena
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_QualityCreek
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ClashMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HalloweenTomato
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TextilePupMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SteamMarauder
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SnowKnight
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Soccer
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MsWhipFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ProdigyFire
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RedPepper
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DarkVogue
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SnowboarderMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SushiChef
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PhotographerFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SuperNovaTaro
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CubeQueenFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RoseLeader
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SickleBat_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Mouse
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Taxi
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AgentRogue1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Shark_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LongShortsMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SmokeyAlias
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CuteDuoMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DeliSandwichMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_QuietPeanuts
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BunnyFashionFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CODSquadPlaidFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MechPilotSharkSpeed
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Basil
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AkimboEnvoy
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MotorcyclistFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StunningMountain
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HardcoreSportzFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FurnaceFace
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NauticalPajamasUnderwaterMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpyMale_FNCS_22
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TiltedParrot
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WildCard
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Calavera
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AshtonSaltLake
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RustRemix1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Stop
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FirecrackerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DinoCollectorFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MechanicalEngineer1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Tactical
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Amour
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CelestialFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_QuarrelMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Gnome
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Banner
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BabaYagaFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StallionAviator
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BrightBomberMintFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Teslacoil_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FilmCamera
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Jellyfish
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StrawberryPilot_1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SailorSquadLeaderKoi1h
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MockingbirdFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EnsembleSnakeMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Freak1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BoltOn_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FrostMystery1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LemonLime1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JonesyCattleMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_JoyfulGrin
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_UpbeatIguana
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FuzzyBear
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TailorMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Dazzle
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PeacefulPoemPumped
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MusketSlinger
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DevilRockMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CavalryBanditShadow1h
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BinaryFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GalileoRocket
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StarStray
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CrystalShard
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CrazyEightTechMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RebelClaw
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TwinDarkFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ExoSuitFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BuffCatCruise
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VitalInventor
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PlotTwist
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FrogmanMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SupersonicPink
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlackbirdMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CarabusMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PitGlass
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SweaterWeatherMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CavemanMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GolfClub
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MechanicalEngineerSummerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MoonlightAssassin
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CarolinaChili
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetCuddlesMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PumpkinSpiceHammer
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LastVoiceSteel
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Angel
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CyberFuBlade
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Valet
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LexaEarlGrey
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Quartz
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TeriyakiFishToonMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CarbideWhite
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FrostbyteMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CatBurglarWinterMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RavenQuillFrozen
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JurassicArchaeologyWinterFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RenegadeRaiderIceFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ValentinesFrozen
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DriftWinterMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkEaglePurple
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MaleLlamaHeroMilitia
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AgentXKoi
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RankedFury
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Genius_Blob
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetRacerCobra
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Elastic1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TeriyakiFish
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FastCheetah
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DollEnthusiast
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DarkAzalea
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ParallelComicMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LazarusLens
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AbstractMirror
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Jumpstart
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CactusDancerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CatBurglarSummerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CrushFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FairyFlex
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Photographer_Holiday_Female
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DistantEchoPilot
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LollipopFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GoldAccomplishment
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkullPunk
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TechExplorerMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PinkWidowFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CoralNumber
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AntiLlamaFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Butterfly
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CherryFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MadCommander
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Gingerbread
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ModernMilitary
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WayfareFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RustyBoltMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkirmishMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SkeleProbe
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AccumulateRetro
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JourneyMentorFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SharpDresser
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WingedFuryFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SunShine
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MagicMeadow_Reward
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PrivateJet
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IcePick_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerMango1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CoyoTear
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HenchmanSummerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Medic
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StrategicSpur
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MillionaireGem
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GummiMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BountyBunny
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VitalInventorBlock
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BountyHunter
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MirageHike
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WiseMaster
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpaceWarriorMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FabulousWind
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KnightCatFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerTomato1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Titanium
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Candy
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HumanBeing
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JonesyVagabondMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Luchador
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LawnGnome
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CyberScavenger
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EnsembleFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ShapeshifterFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AssembleR
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CarbideBlue
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GuanYu
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DemonHunter1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HornedJudgment
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Lettuce
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Squishy
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BraveBuild
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SleekGlassesMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HeavyRoar
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BistroAstronautFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BicycleMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Lasagna
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BuffetFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ThriveFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LunchBox1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_VividMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ZestMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GrilledCheeseMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpeedDial
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LittleEggFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LivelyDomino
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LoofahFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ApexWildMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Squishy1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AlfredoMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_WeaveHarbor
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SleekMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CycloneMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CoyoteTrail
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GalaxyLevel
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BuilderMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LettuceCat
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SnowfallFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TourBus1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ThriveSpiritFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SunBurstAlt
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ScorpionZero
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ZestFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlueCheeseMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Headset
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SphericalDefense
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GarageBand
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RumbleMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RavenQuillDesertMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpaceWandererFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IceQueen
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ParcelPetalFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CrazyEight1h
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Deco
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaiderSilverFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AquaJacketMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ShinyCreatureFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SmartHyena
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_IonVial
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpeedyRed
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Stars
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Pizza
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FishBowl
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpyTechHackerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ZombieElasticFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RustyBoltSliceMale
+[Pickaxe : Common] - [BRCosmetics] : Weapons_Pickaxe_Imitator
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PlumRetro1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VectorSpark
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TheGoldenSkeletonMintMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DualParadox
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ScholarFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CosmicSquatter
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_UndergroundRebel
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SkippingClouds
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_EarthLane
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_STWCosmetic_Tier_1
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BiruFang
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkEagle
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ZirconSweep
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JetSkiCrystalFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BunkerMan
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GalileoKayak
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaveNinjaFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RockClimber1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_STWCosmetic_Tier_7
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GoldenGuard
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FuzzyBearSummerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Cowgirl
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FNBirthdayMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RelayStick
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BacteriaFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Lockjaw_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Lazuli
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BelieverFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Keg_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HeistShadow
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LoveLlama
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_OrbitingPlanets
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Plague
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HIstorianMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SaharaMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_STWCosmetic_Tier_3
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Nebula
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PunkKoiSummerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetFashionGarnetFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Winterfest1
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TungStan
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DoubleDutyStew
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TeriyakiAtlantisMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GelatinGummi
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BoneWand_Throng
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GumballMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SunrisePalace1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ParcelPrankHammerMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpookyNeonOrange
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FutureSamuraiMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HolidayCandyCane_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacoKnightFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ForestQueenFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpaceFeline
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PolygonMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TechOpsBlue
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Genius
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetFashionHolidayFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ForkKnife1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Krampus
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Scarecrow
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DesertShadowMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MysticMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_NitroFlow
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerWasabi1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PrimalFalconFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IceCream
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PumpkinSlice
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LiftingAura
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BengalBasher
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AccentWall
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Tropical
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StoneLion
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PalmTree
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SlowBurn
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DoubleDuty
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpringBreak
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DirectContact
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RemoteControl
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DomeRoof
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TikiTorch
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlueJayFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Bling
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacticalBearMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CupidWinterFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RebirthMedicFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BadassCowboyCactus
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TeriyakiFishPrincessFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Smiley_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Farmer
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DurrburgerSkull1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BuffCatMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FlintlockWinter
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Aztec
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BunkerMan_1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CODSquadPlaidMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ArmoredEngineerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EvilSuit
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaptorKnightMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BigChuggus
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DurrburgerKnightMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TideKing
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Grillin1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CarbideKnightMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SharpFang
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MajestyMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Candor
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Bizarre
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CyberArmorFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Bites
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FearlessFlightHero
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TireSwing
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CrimsonPeak
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FrozenReality
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_OceanBreeze
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Deathvalley_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PeacefulPoem
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonGraffiti
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RobotTrouble
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CinderMax
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SerpentCoil
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ExcitedCyan
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ParrotPen
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FuzzyDarkness
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HandymanMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DriedSilk
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MadameMoth
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LethalVae
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_YogaPatio
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerTapas1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Dumpling
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StormSoldier
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AstralFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FuchsiaFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ReptilianOcean
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GoodMood
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_InnovatorFestiveFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Assassin
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_InstantGravelNoble
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JourneyMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SteamPower
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EmperorMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PiperShelf
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AnglePatch
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SoilBlend
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Geisha
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaiderPinkFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetFashionRed
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DesertShadowBladeMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PinkEmoFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BuffLlamaMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CandySummerFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_WinterHunterFNCS
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MagmaBreak
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Lifeguard
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CoatCheck
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BionicSmoke
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DyedDuelist
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BoneWasp
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GrumbleCroak
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlackMondayMale_5TLSD
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_EmeraldGlassPink
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetFashionSummerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PaddedArmor
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GreenJacketFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Boredom
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MoonShock
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacticalScubaMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_OrderGuardMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SugarBubble
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Chainmail
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DivisionFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HighMotion
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ChessBoard
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FemaleHitman1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MsAlpineFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CleverEdge
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PunkDevilVibe
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_EmberRae
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DriftAvatar
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TheGoldenSkeleton
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BlueGlaze
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RoyalDusk
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Dummeez
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TNTinaFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CardboardCrew
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MelodyUrchin
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FearlessFlightMenaceUniversal
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Handlebar_Female
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FlowerSkeletonLoveMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DurrburgerHero
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LuckyRider
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FireworkFemale1h
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ShinyStar
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FallValleyCharge
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RankedScythe
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FloatillaCaptainMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LionSoldierMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VitalPsych
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CoyoteTrailDark
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpookyNeonRed
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KnightRemix
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MartialArtistMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CadetFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpookyNeonMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SweetTeriyakiMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MillionaireTuna
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AccumulateMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SunriseCastle1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BandageNinjaHeart
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CatSpace
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GroovyReaderPoke
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FNBirthday5
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Ephemeral
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_InspireSpell
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CavernFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AshtonBoardwalk
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DevilRock
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EternityFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DragonNinja
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LexaMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HolidayTimeMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GlareMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RockstarFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Prismatic
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MascotMilitiaBurger
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SamuraiUltraArmor
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Scuba
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkullBrite
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SamuraiBlue
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SlitherMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CowboyHat
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FauxVenom
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Defect
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GreenJacketPoison
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_OuterGarment
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MercurialStorm
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MagicMeadow
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PrismParticle
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RadiumFox
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RogueNinja
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ProdigyHaughty
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BoneSnake1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ParfaitFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IceClaw1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RoverMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacticalWoodlandBlueMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TapDanceFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SplinterMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TeriyakiFishAssassin1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WickedDuckMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TheGoldenSkeletonFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CattleJar
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FNBirthday7
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BananaAdventure
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Apprentice
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LocalZilla
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HauntKoi
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ProdigySage
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SesameSeed
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SnowSoldierFashion
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BuffCatComicMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CavernArmoredMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BulletBlueFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DisguiseBlackFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DesertOpsCamoFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Drift
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HornedMask
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Neon
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ModernWitch
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Nutcracker
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpaceBunny
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RealmMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SummerVividDollFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TechOps
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TechMage
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AutumnDelivery
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SharpSilver
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SharpMagnet
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_OpenEnded
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BoneMarrow
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_StaticShades
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpeakerBox
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AngelDarkFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SnakeCrest
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlackKnightFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JekyllMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HenchmanMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MaskedWarriorSpringMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetFashionEmeraldFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SeesawSlipperMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PliantFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RapVillainessFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_UltralightFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ClearRadius
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RenegadeRaider_Spark
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Looper
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TollBridge
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_WingedMedieval
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AssembleKMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ChOnePickaxe
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CometMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CuChulainn
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkElfFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DJRemix
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DirtyDocksFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FlappyGreenMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GrandeurMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JonesyCube
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IceKing
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Huya
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RoverFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RobotRed
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PeelyToonMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LyricalFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Vuvuzela
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TowerSentinelMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Spikey_Athena_C_T01
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TiedyeFashionFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LucidAzalea
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Despair
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WWIIPilot
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WildCatFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SweetLetter
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PencilCherry
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Possession
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Paper
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EmbersMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DonutPlate1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DirtyDocksMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_WidePlane
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KittyWarriorMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetRatMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Phantom1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FogFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TarMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WayfareMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_VampireHunterFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ChillCat
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DiamondHeart
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PeelyToonSpring
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AncientGladiatorFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AnarchyAcresFarmer
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Birthday2019
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ArcticSniper
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CatBurglarMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Brite
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CavernMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FootballTrophy
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HolidayGiftWrap_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Heart_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HoppityHeist
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HotDog
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MascotMilitiaTomato
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MechPilot
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Miner
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_OrangeCamo
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PliantMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PirateWheel
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RenegadeSkullFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Storm
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DracoDueler
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DenseFog
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WickedDuckFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SunStarMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_NightHawk
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SatinCheddar
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_IceRetreat
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HydroBottle
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CasualBomberLightFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ArmadilloMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_WaterMolecules
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SodaMug
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FrogmanFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CritterCuddleMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ConvoyTarantulaMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CavalryFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TyphoonFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SportsFashionFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KaneMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerHoneydew1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_VertigoMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WombatFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CameraShake
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FNBirthday6
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DarkStance
+
+[Harvesting Tool : Common] - [BRCosmetics] : Weapon_Pickaxe_ZebraScramble_Bacon
+
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TechnoAwaken
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ButtonChild
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpookyNeonBlue
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AlienFishHead
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BadassCowboyCowSkull
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlackWidow
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlueFlames
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DonutCup
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Bubblegum
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GimmickFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GoatRobe
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Graffiti
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Hostile
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerDate
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LinguiniMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Scavenger
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Medieval_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Pug
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Log
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_STWCosmetic_Tier_4
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TripleScoopFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Syko
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ShiitakeShaolinMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CubeCoast
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DorsalDance
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_IronClash
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HighBeam
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpringBreakStraw
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LilSplit
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TracePaper
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SparkArcher
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkStormMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CatBurglarFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BrightGunnerRemix1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlueBadass1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NightmareMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LavishMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GingerbreadCookie1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonCatTechFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PythonFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TerrainManMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PunkKoiSummerSaiFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PiemanMale1h
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ToxicKitty1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MasterKeyOrderMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Ballerina
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RankedFaction
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SaladDressing
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RhombCamo
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SkeletonHunterFNCS
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SteelStomper
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AntiqueMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Carrot
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AssmeblePMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CactusRockerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BattleSuit
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FlintlockRed
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ForestDwellerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ChaosFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Celestial
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Lopex
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KeyboardMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GimmickMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FortniteDJ
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MastermindShadow
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PalmTree
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonGlow
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Muertos
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TargetPracticeMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_VampireCasualFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TriStar
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SharkAttackMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FeralTrash
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Citadel
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FallValleyBlink
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Viking
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FuzzyClaw
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GalaxyKnight
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PatronPoppet
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MainframeMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GiggleMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LeatherJacketPurpleFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CloakedAssassinFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NauticalPajamasNightMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RelishMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaysFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PumpkinSpice1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SailorSquadRebelFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TiramisuMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_EmeraldGlassRebel
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GourdRiddance
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LopexSnow
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MegaToof
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Sunlit
+[Pickaxe : Common] - [BRCosmetics] : Weapons_Pickaxe_Ruins
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_NutmegMayo
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BeaconMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Barbarian
+[Pickaxe : Common] - [BRCosmetics] : Weapons_Pickaxe_Conscience
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HipHareMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Golf_Male
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CyberKarate
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BulletBlueMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KevinCoutureMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LadyAtlantisFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Math
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ModernMilitaryRed
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Nautilus
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MythFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PunkDevil
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PolygonMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaptorBlackOps
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PunkDevilSummerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Snowman
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StaminaMaleStandalone
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpectacleWebMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TomcatMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StarWand
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GoldenPleats
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Vampire
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_GroovyReaderPierce
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MuteRibbon
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SunbeamQuest
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TheHerald
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AlienFloraMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HightowerGrapeMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RumbleFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RaspberryFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SailorSquadLeaderFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_VirtualShadowMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_UrbanScavenger1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TreasureHunterFashionMintFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SailorSquadRoseFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SharkFinSwing
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FelineWarrior
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DriftTrooper
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Sparrow
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BlackWidowJacketFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkViking
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Demon
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FamineMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Gumshoe
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JurassicArchaeologySummerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IslandNomadFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IslanderFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HeadbandStandAloneMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonCatFashionFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MaleGlowBro
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NauticalPajamasMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KeplerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_OrbitTealMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SciOps
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RockerPunk
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NorthPole
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpaceWandererMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SleepyTime
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SlurpMonster
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WWIIPilotSciFi
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Warpaint
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_YorkMale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BariumDemon
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Hitman
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_KnightCatRacket
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BlueJet
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ConfectionPop
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RollerBlade
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_NoiseLess
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RetroWheels
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PinkSpike
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DragonfruitMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CraniumMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CelestialGlowFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BaneFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Multibot1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GloomFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Drift1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_InnovatorFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WerewolfFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HeadhunterStar
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CirrusVine
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ArcticIceTalus
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_KeyTracker
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TwiceBaked
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RezzPickaxe
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RankedPantheon
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_OrinChai
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BaseballBat2018
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DragonRacerFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkMinionMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AnimalJackets
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FutureBikerWhite
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EternalVanguardFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FestivePugMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_EvilBunny
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GalileoFerry1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LyricalMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_JupiterMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GatorMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PajamaParty
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MaskedDancerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonJam
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MusicianFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_STWCosmetic_Tier_6
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RavenQuill
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Soy
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SnowNinja
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Cavalry_Alt
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Venus
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_AgentRoguePoison
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Swashbuckler
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MechanicalEngineerRev
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SameRabbit
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PinkTrooperBarren
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Forsake_FNCS
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AgentXFemale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ScareyBeary
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SunnySquawk
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SirWolf
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CanaryMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AnglerFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BinaryTwinFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BananaLeader
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RockerPunkCube1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PineappleBandit1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FauxMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_OhanaMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TeriyakiFishElf1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Turkey1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ScholarFestiveFemale1h
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_DistantEchoCastle
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FirstClass
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Angel_FNCS
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BananaAgent
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ShiitakeShaolin_Rouge
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BadEggMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FNCS
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkBomber
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FestiveMoose
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FNCSS20Male
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Grasshopper_Male
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Football
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MintMiner
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LoveQueenFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NucleusMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Nosh
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Plunger
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RedRidingRemixFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetOpsStealth
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StrawberryPilot
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Space
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetRacer
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacticalBlack
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetUrchin
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_UproarFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WolfHunterMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WinterCamo_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WavyMan
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BlazerVeil
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CrispRover
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ChicleVeil
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MetalScout
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RaiderPinkSherbert
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BandageNinjaBlue1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AntiquePalMale1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_VampireHunter_Galaxy
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Troops
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DownpourMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DonutDish1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_BuffCatFanFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_InformerMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MythMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ModNinjaMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FancyCandyMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NinjaWolfMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Seaweed1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpookyNeonFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkirmishFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SunBeamFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FolkEvening
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CrowbarSleek
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_EmeraldGlassTransform
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FossilMech
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SamuraiBlueLight
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PinkTrooper_Clobber
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MillionaireCowgirl
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_FreeDrive
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SkullPunkBlade
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CODSquadPlaidHoodie
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SnowNinjaDark
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AxlMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CuddleTeamDark
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkNinja
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Disco_Athena
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DemonStone
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FutureSamuraiSummerMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Flamingo2
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HolidayLightsMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_GraffitiAssassinFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_KeenFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HoodieBanditFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LlamaHeroWinterMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Medusa
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Octoberfest
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PSBurnout
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PsycheMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SparkleRemix
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ShinyHammer
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Shiny
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_RavenQuillParrotFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Viper
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_WastelandWarriorFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TheBomb
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Witch
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_RankedOlympus
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MiddleSock
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PrecisionMongoose
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LoudPhoenix
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_FlowerSkeletonFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkEagleFire1H
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SolarTheory
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CupidFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LateralFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_LurkFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HeadbandMale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_IndigoMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PeppermintFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_PeelyTechMale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_TacticalRedPunkFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Temple
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_UproarBraidsFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Nox
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_HeartBreakerFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkNinjaPurple1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkullBriteCube
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_DarkDino1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CupidDarkFemale1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_MultibotStealth1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetFashionEclipseFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_ModernMilitaryEclipse
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_AngelEclipse1H
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SkullBriteEclipse
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CupidEvil
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_NeonGraffitiLavaFemale
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_OliveStomp
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_CosmosWeapon
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BikeMold
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_BurntBagel
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ShiverFlame
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_QuickBurst
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_CeremonialGuard
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SnapFreeze
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_HerbHutch
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_MoosePorch
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SeleneCobra
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_PillowMill
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_TroutWrist
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_ShrimpStroll
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_SpeedyPeas
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_SpartanFutureFemale
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_StreetFashionHolidayFemale_Rusted_NPC
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_LeafyVest1
+[Pickaxe : Common] - [BRCosmetics] : WID_Harvest_Pickaxe_Exercise
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_NovelGuard
+[Pickaxe : Common] - [BRCosmetics] : Weapon_Pickaxe_Ebony
+
+[  : Common] - [EventMode] : WID_EventMode_Activator
+[  : Common] - [EventMode] : WID_EventMode_Hands_Activator
+
+[Tank Turret : Rare] - [Tank] : WID_Tank_Turret
+
+[Tank Cannon : Rare] - [Tank] : WID_Tank_Cannon
+
+[Iron Man?s Combat Kit : Mythic] - [WiseOtter] : WID_WiseOtter_Combo
+
+[Striker AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_R_Aug
+[Striker AR : Common] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_C
+[Striker AR : Legendary] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_SR
+[Striker AR : Epic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_VR
+[Striker AR : Uncommon] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_UC
+[Striker AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_R
+
+[Ranger Pistol : Legendary] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_SR
+[Ranger Pistol : Common] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_C
+[Ranger Pistol : Uncommon] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_UC
+[Ranger Pistol : Epic] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_VR
+[Ranger Pistol : Rare] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_R
+
+[Thunder Burst SMG : Common] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_C
+[Thunder Burst SMG : Uncommon] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_UC
+[Thunder Burst SMG : Legendary] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_SR
+[Thunder Burst SMG : Epic] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_VR
+[Thunder Burst SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_R_Aug
+
+[Enforcer AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_R_Aug
+[Enforcer AR : Epic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_VR
+[Enforcer AR : Uncommon] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_UC
+[Enforcer AR : Common] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_C
+[Enforcer AR : Legendary] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_SR
+[Enforcer AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_R
+
+[Thunder Burst SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_R
+
+[Hyper SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_R_Aug
+
+[Valeria's Hyper SMG : Mythic] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_UR_Boss
+
+[Hyper SMG : Epic] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_VR
+[Hyper SMG : Common] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_C
+[Hyper SMG : Legendary] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_SR
+[Hyper SMG : Uncommon] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_UC
+[Hyper SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_R
+
+[Nemesis AR : Common] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_C
+[Nemesis AR : Uncommon] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_UC
+
+[Montague's Nemesis AR : Mythic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_UR_Boss
+
+[Nemesis AR : Epic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_VR
+[Nemesis AR : Legendary] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_SR
+[Nemesis AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_R_Aug
+[Nemesis AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_R
+
+[Diamond Heart's Enforcer AR : Mythic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_UR_Boss
+
+[Nisha's Striker AR : Mythic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_UR_Boss
+
+[Hitscan AR : Transcendent] - [PaprikaCoreWeapons] : WID_Assault_Paprika_HITSCAN
+
+[Nemesis AR : Common] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_HS_C
+[Nemesis AR : Epic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_HS_VR
+[Nemesis AR : Uncommon] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_HS_UC
+[Nemesis AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_HS_R
+
+[Thunder Burst SMG : Common] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_HS_C
+[Thunder Burst SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_HS_R
+[Thunder Burst SMG : Epic] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_HS_VR
+[Thunder Burst SMG : Legendary] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_HS_SR
+[Thunder Burst SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_HS_R_Aug
+
+[Nemesis AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_HS_R_Aug
+
+[Striker AR : Common] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_HS_C
+[Striker AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_HS_R
+[Striker AR : Uncommon] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_HS_UC
+[Striker AR : Legendary] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_HS_SR
+[Striker AR : Epic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_HS_VR
+[Striker AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_HS_R_Aug
+
+[Nisha's Striker AR : Mythic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_DPS_Athena_HS_UR_Boss
+
+[Ranger Pistol : Epic] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_HS_VR
+
+[Totally Peter's Ranger Pistol : Mythic] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_HS_UR_Boss
+
+[Ranger Pistol : Common] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_HS_C
+[Ranger Pistol : Rare] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_HS_R
+[Ranger Pistol : Uncommon] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_HS_UC
+[Ranger Pistol : Legendary] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_HS_SR
+
+[Enforcer AR : Common] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_HS_C
+[Enforcer AR : Epic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_HS_VR
+[Enforcer AR : Uncommon] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_HS_UC
+[Enforcer AR : Legendary] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_HS_SR
+[Enforcer AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_HS_R
+
+[Diamond Heart's Enforcer AR : Mythic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_HS_UR_Boss
+
+[Enforcer AR : Rare] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Infantry_Athena_HS_R_Aug
+
+[Hyper SMG : Uncommon] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_HS_UC
+[Hyper SMG : Legendary] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_HS_SR
+[Hyper SMG : Common] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_HS_C
+[Hyper SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_HS_R
+[Hyper SMG : Epic] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_HS_VR
+[Hyper SMG : Rare] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_HS_R_Aug
+
+[Valeria's Hyper SMG : Mythic] - [PaprikaCoreWeapons] : WID_SMG_Paprika_DPS_Athena_HS_UR_Boss
+
+[Montague's Enforcer AR : Mythic] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_HS_UR_Boss
+
+[Totally Peter's Ranger Pistol : Mythic] - [PaprikaCoreWeapons] : WID_Pistol_Paprika_Auto_Athena_UR_Boss
+
+[Hitscan SMG : Transcendent] - [PaprikaCoreWeapons] : WID_SMG_Paprika_HITSCAN
+
+[Nemesis AR : Legendary] - [PaprikaCoreWeapons] : WID_Assault_Paprika_Heavy_Athena_HS_SR
+
+[Thunder Burst SMG : Uncommon] - [PaprikaCoreWeapons] : WID_SMG_Paprika_Burst_Athena_HS_UC
+
+[Frenzy Auto Shotgun : Common] - [PaprikaCoreWeapons] : WID_Shotgun_Auto_Paprika_Athena_C
+[Frenzy Auto Shotgun : Epic] - [PaprikaCoreWeapons] : WID_Shotgun_Auto_Paprika_Athena_VR
+[Frenzy Auto Shotgun : Legendary] - [PaprikaCoreWeapons] : WID_Shotgun_Auto_Paprika_Athena_SR
+
+[Oscar's Frenzy Auto Shotgun : Mythic] - [PaprikaCoreWeapons] : WID_Shotgun_Auto_Paprika_Athena_UR_Boss
+
+[Frenzy Auto Shotgun : Rare] - [PaprikaCoreWeapons] : WID_Shotgun_Auto_Paprika_Athena_R_Aug
+[Frenzy Auto Shotgun : Rare] - [PaprikaCoreWeapons] : WID_Shotgun_Auto_Paprika_Athena_R
+[Frenzy Auto Shotgun : Uncommon] - [PaprikaCoreWeapons] : WID_Shotgun_Auto_Paprika_Athena_UC
+
+[Hammer Pump Shotgun : Legendary] - [PaprikaCoreWeapons] : WID_Shotgun_Pump_Paprika_Athena_SR
+[Hammer Pump Shotgun : Common] - [PaprikaCoreWeapons] : WID_Shotgun_Pump_Paprika_Athena_C
+[Hammer Pump Shotgun : Uncommon] - [PaprikaCoreWeapons] : WID_Shotgun_Pump_Paprika_Athena_UC
+[Hammer Pump Shotgun : Rare] - [PaprikaCoreWeapons] : WID_Shotgun_Pump_Paprika_Athena_R
+
+[Peter Griffin's Hammer Pump Shotgun : Mythic] - [PaprikaCoreWeapons] : WID_Shotgun_Pump_Paprika_Athena_UR_Boss
+
+[Hammer Pump Shotgun : Epic] - [PaprikaCoreWeapons] : WID_Shotgun_Pump_Paprika_Athena_VR
+
+[Reaper Sniper Rifle : Uncommon] - [PaprikaCoreWeapons] : WID_Sniper_Paprika_Athena_UC
+[Reaper Sniper Rifle : Legendary] - [PaprikaCoreWeapons] : WID_Sniper_Paprika_Athena_SR
+[Reaper Sniper Rifle : Epic] - [PaprikaCoreWeapons] : WID_Sniper_Paprika_Athena_VR
+[Reaper Sniper Rifle : Rare] - [PaprikaCoreWeapons] : WID_Sniper_Paprika_Athena_R
+
+[DMR : Rare] - [PaprikaCoreWeapons] : WID_Paprika_DMR_Athena_R
+
+[Combat Shotgun : Uncommon] - [WeaponsUpdated] : WID_Shotgun_Moonflax_Combat_Athena_UC
+[Combat Shotgun : Legendary] - [WeaponsUpdated] : WID_Shotgun_Moonflax_Combat_Athena_SR
+[Combat Shotgun : Epic] - [WeaponsUpdated] : WID_Shotgun_Moonflax_Combat_Athena_VR
+[Combat Shotgun : Common] - [WeaponsUpdated] : WID_Shotgun_Moonflax_Combat_Athena_C
+[Combat Shotgun : Rare] - [WeaponsUpdated] : WID_Shotgun_Moonflax_Combat_Athena_R
+
+[Megalo Don's Combat Shotgun : Mythic] - [WeaponsUpdated] : WID_Shotgun_Moonflax_Combat_Athena_UR
+
+[Hand Cannon : Rare] - [WeaponsUpdated] : WID_SunRose_Pistol_HandCannon_Athena_R
+[Hand Cannon : Legendary] - [WeaponsUpdated] : WID_SunRose_Pistol_HandCannon_Athena_SR
+[Hand Cannon : Epic] - [WeaponsUpdated] : WID_SunRose_Pistol_HandCannon_Athena_VR
+
+[Conductor Hand Cannon : Mythic] - [WeaponsUpdated] : WID_SunRose_Pistol_HandCannon_Athena_UR
+
+[Combat Assault Rifle : Common] - [WeaponsUpdated] : WID_Assault_MoonFlax_CombatAR_Athena_C
+[Combat Assault Rifle : Rare] - [WeaponsUpdated] : WID_Assault_MoonFlax_CombatAR_Athena_R
+[Combat Assault Rifle : Epic] - [WeaponsUpdated] : WID_Assault_MoonFlax_CombatAR_Athena_VR
+[Combat Assault Rifle : Legendary] - [WeaponsUpdated] : WID_Assault_MoonFlax_CombatAR_Athena_SR
+[Combat Assault Rifle : Uncommon] - [WeaponsUpdated] : WID_Assault_MoonFlax_CombatAR_Athena_UC
+
+[The Machinist's Combat Assault Rifle : Mythic] - [WeaponsUpdated] : WID_Assault_MoonFlax_CombatAR_Athena_UR
+
+[Tactical Assault Rifle : Rare] - [WeaponsUpdated] : WID_Assault_SunRose_Tactical_Athena_R
+[Tactical Assault Rifle : Legendary] - [WeaponsUpdated] : WID_Assault_SunRose_Tactical_Athena_SR
+[Tactical Assault Rifle : Common] - [WeaponsUpdated] : WID_Assault_SunRose_Tactical_Athena_C
+[Tactical Assault Rifle : Uncommon] - [WeaponsUpdated] : WID_Assault_SunRose_Tactical_Athena_UC
+[Tactical Assault Rifle : Epic] - [WeaponsUpdated] : WID_Assault_SunRose_Tactical_Athena_VR
+
+[Striker Burst Rifle : Legendary] - [WeaponsUpdated] : WID_Assault_Update_StrikerBurst_Athena_SR
+[Striker Burst Rifle : Common] - [WeaponsUpdated] : WID_Assault_Update_StrikerBurst_Athena_C
+[Striker Burst Rifle : Uncommon] - [WeaponsUpdated] : WID_Assault_Update_StrikerBurst_Athena_UC
+[Striker Burst Rifle : Epic] - [WeaponsUpdated] : WID_Assault_Update_StrikerBurst_Athena_VR
+
+[Emma Frost's Striker Burst AR : Mythic] - [WeaponsUpdated] : WID_Assault_Update_StrikerBurst_Athena_UR
+
+[Striker Burst Rifle : Rare] - [WeaponsUpdated] : WID_Assault_Update_StrikerBurst_Athena_R
+
+[Drum Gun : Legendary] - [WeaponsUpdated] : WID_SunRose_DrumGun_Athena_SR
+
+[Midas' Drum Gun : Mythic] - [WeaponsUpdated] : WID_SunRose_DrumGun_Athena_UR
+
+[Drum Gun : Epic] - [WeaponsUpdated] : WID_SunRose_DrumGun_Athena_VR
+[Drum Gun : Rare] - [WeaponsUpdated] : WID_SunRose_DrumGun_Athena_R
+
+[Gatekeeper Shotgun : Common] - [SunRoseWeaponsGameplay] : WID_Shotgun_Break_Cerberus_Athena_C
+
+[Cerberus' Gatekeeper Shotgun : Mythic] - [SunRoseWeaponsGameplay] : WID_Shotgun_Break_Cerberus_Athena_UR
+
+[Gatekeeper Shotgun : Legendary] - [SunRoseWeaponsGameplay] : WID_Shotgun_Break_Cerberus_Athena_SR
+[Gatekeeper Shotgun : Uncommon] - [SunRoseWeaponsGameplay] : WID_Shotgun_Break_Cerberus_Athena_UC
+[Gatekeeper Shotgun : Epic] - [SunRoseWeaponsGameplay] : WID_Shotgun_Break_Cerberus_Athena_VR
+[Gatekeeper Shotgun : Rare] - [SunRoseWeaponsGameplay] : WID_Shotgun_Break_Cerberus_Athena_R
+
+[Huntress DMR : Uncommon] - [SunRoseWeaponsGameplay] : WID_SunRose_ModularDMR_Athena_UC
+[Huntress DMR : Legendary] - [SunRoseWeaponsGameplay] : WID_SunRose_ModularDMR_Athena_SR
+[Huntress DMR : Epic] - [SunRoseWeaponsGameplay] : WID_SunRose_ModularDMR_Athena_VR
+
+[Zeus' Huntress DMR : Mythic] - [SunRoseWeaponsGameplay] : WID_SunRose_ModularDMR_Athena_UR
+
+[Huntress DMR : Rare] - [SunRoseWeaponsGameplay] : WID_SunRose_ModularDMR_Athena_R
+
+[Harbinger SMG : Uncommon] - [SunRoseWeaponsGameplay] : WID_SMG_SunRose_DPS_Athena_UC
+
+[Hades' Harbinger SMG : Mythic] - [SunRoseWeaponsGameplay] : WID_SMG_SunRose_DPS_Athena_UR_Boss
+
+[Harbinger SMG : Legendary] - [SunRoseWeaponsGameplay] : WID_SMG_SunRose_DPS_Athena_SR
+[Harbinger SMG : Common] - [SunRoseWeaponsGameplay] : WID_SMG_SunRose_DPS_Athena_C
+[Harbinger SMG : Rare] - [SunRoseWeaponsGameplay] : WID_SMG_SunRose_DPS_Athena_R
+[Harbinger SMG : Epic] - [SunRoseWeaponsGameplay] : WID_SMG_SunRose_DPS_Athena_VR
+
+[Warforged Assault Rifle : Legendary] - [SunRoseWeaponsGameplay] : WID_Assault_SunRose_Athena_SR
+[Warforged Assault Rifle : Common] - [SunRoseWeaponsGameplay] : WID_Assault_SunRose_Athena_C
+[Warforged Assault Rifle : Epic] - [SunRoseWeaponsGameplay] : WID_Assault_SunRose_Athena_VR
+
+[Ares' Warforged Assault Rifle : Mythic] - [SunRoseWeaponsGameplay] : WID_Assault_SunRose_Athena_UR
+
+[Warforged Assault Rifle : Uncommon] - [SunRoseWeaponsGameplay] : WID_Assault_SunRose_Athena_UC
+[Warforged Assault Rifle : Rare] - [SunRoseWeaponsGameplay] : WID_Assault_SunRose_Athena_R
+
+[Pod Plant Spawner : Uncommon] - [ChronoEnviroItems] : WID_Proto_PodPlant_Spawner
+
+[Chug Splash : Rare] - [NPCSpecialists] : ChillBronco_SP_Medic
+
+[Big Bush Bomb : Rare] - [BigBushGrenade] : Athena_BushGrenade
+
+[Iron Man's Flight Kit : Mythic] - [BarnTowelGameplay] : AGID_BarnTowel
+
+[Iron Man's Flight : Epic] - [BarnTowelGameplay] : WID_BarnTowel
+
+[Dual Micro SMGs : Common] - [FlexLegendWeaponGameplay] : WID_FlexLegend_DualSMGs_Athena_C
+[Dual Micro SMGs : Legendary] - [FlexLegendWeaponGameplay] : WID_FlexLegend_DualSMGs_Athena_SR
+[Dual Micro SMGs : Uncommon] - [FlexLegendWeaponGameplay] : WID_FlexLegend_DualSMGs_Athena_UC
+[Dual Micro SMGs : Rare] - [FlexLegendWeaponGameplay] : WID_FlexLegend_DualSMGs_Athena_R
+[Dual Micro SMGs : Epic] - [FlexLegendWeaponGameplay] : WID_FlexLegend_DualSMGs_Athena_VR
+
+[Gwenpool's Dual Micro SMGs : Mythic] - [FlexLegendWeaponGameplay] : WID_FlexLegend_DualSMGs_Athena_UR
+
+[Monarch Pistol : Rare] - [FlexLegendWeaponGameplay] : WID_FlexLegend_LightPistol_Athena_R
+[Monarch Pistol : Common] - [FlexLegendWeaponGameplay] : WID_FlexLegend_LightPistol_Athena_C
+[Monarch Pistol : Uncommon] - [FlexLegendWeaponGameplay] : WID_FlexLegend_LightPistol_Athena_UC
+[Monarch Pistol : Epic] - [FlexLegendWeaponGameplay] : WID_FlexLegend_LightPistol_Athena_VR
+[Monarch Pistol : Legendary] - [FlexLegendWeaponGameplay] : WID_FlexLegend_LightPistol_Athena_SR
+
+[Doctor Doom's Monarch Pistol  : Mythic] - [FlexLegendWeaponGameplay] : WID_FlexLegend_LightPistol_Athena_UR
+
+[Sovereign Shotgun : Epic] - [FlexLegendWeaponGameplay] : WID_Shotgun_Lever_FlexLegend_Athena_VR
+[Sovereign Shotgun : Uncommon] - [FlexLegendWeaponGameplay] : WID_Shotgun_Lever_FlexLegend_Athena_UC
+[Sovereign Shotgun : Rare] - [FlexLegendWeaponGameplay] : WID_Shotgun_Lever_FlexLegend_Athena_R
+[Sovereign Shotgun : Common] - [FlexLegendWeaponGameplay] : WID_Shotgun_Lever_FlexLegend_Athena_C
+
+[Mysterio's Sovereign Shotgun : Mythic] - [FlexLegendWeaponGameplay] : WID_Shotgun_Lever_FlexLegend_Athena_UR
+
+[Sovereign Shotgun : Legendary] - [FlexLegendWeaponGameplay] : WID_Shotgun_Lever_FlexLegend_Athena_SR
+
+[War Bus EMP : Rare] - [MoonFlaxWarBus] : WID_MoonFlaxWarBus_Weapon
+
+[Heavy Turret : Rare] - [MoonFlaxWarBus] : MoonFlaxWarBus_MountedTurret_Weapon
+
+[Harvesting Tool : Common] - [NPCLibraryCh5] : WID_Harvest_Pickaxe_SpinSlash_Cerberus_Ch5
+
+[Forecast Tower Access Card : Legendary] - [MidMatchRadioTowerGameplay] : AGID_MMObj_RadioTowerKeycard
+
+[[PH] Ultra Doom Laser : Uncommon] - [LodeSwanGameplay] : WID_LodeSwan_Laser
+
+[Armor of Doom : Mythic] - [LodeSwanGameplay] : WID_LodeSwan_Glove
+
+[Ultra Doom Armor : Mythic] - [LodeSwanGameplay] : AGID_LodeSwan
+
+[Hover Jets : Legendary] - [HoverGameplay] : WID_Hover_Base
+
+[Radio Tower Keycard : Common] - [MidMatchRadioTowerGameplay] : D_MMObj_RadioTowerKeycard
+
+[NONE : Mythic] : AGID_Disguise_Donut
